@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
+	<meta charset="utf-8">
 	{% if page.title == null %}
         	<title>{{ site.title }}</title>
 	{% else %}
 	        <title>{{ page.title }}</title>
 	{% endif %}
-	
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}" />
 
         <!-- syntax highlighting CSS -->
