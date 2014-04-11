@@ -63,7 +63,7 @@ The whole books reads like a poem. Mesmerizing. I couldn't close the book. When 
 <img src="{{site.img-url}}/birth-without-violence-calm-baby.jpg"/>
 </div>
 
-Me and my wife are glad that we got to know this before our first child. We are definitely going to make our child's entry to this world a very pleasant one. I am very much thankful for Frederick Leboyer for writing this book, Reba and Paul for successfully deliver a cute baby girl in the most natural way possible and all the encouragement that we received from them regarding child birth.  
+Me and my wife are glad that we got to know this before our first child. We are definitely going to make our child's entry to this world a very pleasant one. I am very much thankful for Frederick Leboyer for writing this book. I thank my friends Reba and Paul for successfully deliver a cute baby girl in the most natural way possible and all the information and encouragement that we received from them regarding child birth.  
 
 This book is a must read for all :)  
 
