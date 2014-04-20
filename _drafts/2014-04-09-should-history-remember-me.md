@@ -25,6 +25,8 @@ That was me. I want to out-live my lifetime in this world, a kind of immortality
 
 Why should I live in history?. What difference that it makes, when I am dead?.
 
-I couldnt come up with any logical, reasonable answer. When I die, I die. That's all. Nothing else. My body will decompose and re-integrate with this land mass called Earth. There is no 'me'. That's the way nature intended me and every other species to live.
+I couldnt come up with any logical, reasonable answer. When I die, I die. That's all. Nothing else. My body will decompose and re-integrate with this land mass called Earth. There is no 'me'. That's the way nature intended for me and every other species to live.  
+
+Then why do I spend a lot of 
 
 
