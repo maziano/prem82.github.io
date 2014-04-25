@@ -20,3 +20,6 @@ relative_permalinks: false
 
 img-url: http://blog.smileprem.com/img
 download-url: http://blog.smileprem.com/downloads
+
+promotions: false
+

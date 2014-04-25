@@ -14,6 +14,9 @@ layout: default
 	
 	<!-- social share plugins -->
 	<br/>{% include social_share.html %}<br/>
+	{% if site.promotions == true %}
+		{% include promotion.html %}<br/>
+	{% endif %}
 	<br/><div style="border-bottom: 1px solid #efefef;"></div>
 </div>
 
