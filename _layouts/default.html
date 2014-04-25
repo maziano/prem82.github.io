@@ -32,6 +32,10 @@
 
           {{ content }}
 
+          {% if site.promotions == true %}
+		{% include promotion.html %}
+          {% endif %}<br/><br/>
+
 	  <div class="footer">
 		<p><a href="{{ site.url }}/best-of/">Best Of</a> :: 
 		<a href="{{ site.url }}/archive/">Archive</a> ::
