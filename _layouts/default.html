@@ -22,7 +22,7 @@
 	{% include analytics.html %}
 
     </head>
-    <body>
+    <body style="background-color: #ebebeb;">
 
 	<div class="container">
 	  <div class="top">
@@ -31,10 +31,6 @@
 	  </div>
 
           {{ content }}
-
-          {% if site.promotions == true %}
-		{% include promotion.html %}
-          {% endif %}<br/><br/>
 
 	  <div class="footer">
 		<p><a href="{{ site.url }}/best-of/">Best Of</a> :: 
