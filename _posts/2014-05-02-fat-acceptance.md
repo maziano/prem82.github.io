@@ -92,4 +92,10 @@ src="http://www.youtube.com/embed/qX9FSZJu448">
 </iframe>
 </div>
 
-
+**References:**  
+[The Body Love Blog](http://thebodyloveblog.tumblr.com/post/32881501880/warning-picture-might-be-considered-obscene)  
+[Fat Babe Designs](http://www.nearsightedowl.com/)  
+[I love Fat! A fat acceptance blog](http://ilovefat.tumblr.com/)  
+[THINGS NO ONE WILL TELL FAT GIRLS...SO I WILL ](http://www.themilitantbaker.com/2013/03/things-no-one-will-tell-fat-girls-so-i.html)  
+[I've Only Got 1 Thing To Say To Folks Who Don't Understand Fat Acceptance](http://www.xojane.com/healthy/ive-only-got-1-thing-to-say-to-folks-who-dont-understand-fat-acceptance)  
+[Fitness-obsessed mom banned from Facebook](http://www.nydailynews.com/life-style/health/fitness-obsessed-mom-banned-facebook-article-1.1530755)  
