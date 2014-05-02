@@ -61,7 +61,7 @@ Since I work with computers, I must wear glasses all the time while I am in offi
 
 Merchants claim that wearing pinhole glasses for 15 minutes a day will improve your eyesight. Ophthalmologists refuse that this is not possible. Neither of them are ready to do a clinical trial. User reviews are mixed (as with any product or service). I dent know, if this would improve my eyesight and if that improvement would be permanent. The only way to find the truth is to try it. I ordered it. I will follow up with a review on this product. I am planning to use this glass while reading books (at least 15 Minutes a day).  
 
-<div style="text-align: center;">
+<div style="text-align: center;"><br/>
 <img src="{{site.img-url}}/pinhole_glasses.jpg"/>
 </div>  
 

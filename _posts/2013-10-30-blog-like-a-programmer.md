@@ -120,7 +120,7 @@ I used the very basic template that comes with Jekyll. I have plans to customize
 
 **Feeling EPIC** - Yeah. Seriously. I fell in love with the character "Neo" in the Movie "The Matrix" when I saw it the first time (esp. the black console with green text flowing down). I even wrote matrix screen savers in C, during my college days to simulate that experience in my computer. Those good old days are back. This simple act of blogging like a programmer, brought back my love for programming. Write, Edit, Commit, Push - Viola, My blog is published. It's nostalgic. This is my console where I wrote this blog post.  
 
-<div style="text-align: center;">
+<div style="text-align: center;"><br/>
 <img src="{{site.img-url}}/bloggin-from-vim.jpg"/>
 </div><div style="margin-bottom:1em;"></div>  
 

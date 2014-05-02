@@ -15,7 +15,7 @@ I was traveling from Coimbatore to Bangalore on 22-Nov-2011 and got down at Silk
 **Time:** 22-Nov-2011 05:19:52 IST  
 **Complaint:** Ticket was not given, unless I asked for it.  
   
-<div style="text-align: center;">
+<div style="text-align: center;"><br/>
 <img src="{{site.img-url}}/BMTC-Bus-ticket-D5.jpg"/>
 </div>  
   

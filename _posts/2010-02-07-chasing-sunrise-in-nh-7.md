@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chasing Sunrise in NH 7 !!!
+title: Chasing Sunrise in NH-7
 date: 2010-02-07
 category: travelogue
 ---
@@ -37,7 +37,7 @@ Another half an hour, drove through green lands and small towns. The Sky slowly 
 
 This happens in life, very often. "Looking for a better future, we miss to live and love today!". He stood there for a while and left to Krishnagiri to attend his friend Anuraghavendran's marriage.  
 
-<div style="text-align: center;">
+<div style="text-align: center;"><br/>
 <img src="{{site.img-url}}/anuraghavendran-marriage.jpg"/>
 </div>  
 

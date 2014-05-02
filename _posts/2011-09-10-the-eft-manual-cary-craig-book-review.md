@@ -20,10 +20,12 @@ src="{{site.img-url}}/the-EFT-manual-cary-craig.jpg"/>
 **Language:** English  
   
 If a picture is worth thousand words, how about a video then?. Here is an introductory video to EFT (Emotional Freedom Technique). It is very essential that you know about EFT, before reading the review about this book. I found this is the best video that was ever made for EFT. Watch it completely before you scroll down for the book review.  
-  
-<div class="separator" style="clear: both; text-align: center;">
-<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/ANbl_P_303U/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/ANbl_P_303U&fs=1&source=uds" /><param name="bgcolor" value="#FFFFFF" />
-<embed width="420" height="345"  src="http://www.youtube.com/v/ANbl_P_303U&fs=1&source=uds" type="application/x-shockwave-flash"></embed></object></div>  
+
+<div style="text-align: center;"><br/>
+<iframe width="600" height="400"
+src="http://www.youtube.com/v/ANbl_P_303U">
+</iframe>
+</div>
   
 The Traditional Chinese Medicine claims that there is a path through which the life-energy known as "qi" flows. They are called Meridians or Energy Meridians. Emotional Freedom Technique (EFT) proposed by Gary Craig in 1993 states that "The cause of all negative emotions is a disruption in the body's energy system". Those energy blockages can be released by simply tapping on the energy meridians, while recalling the memory which brings about the negative emotions. EFT claims that it cured a wide variety of emotional issues and physical pain/diseases etc. The beauty of EFT is that, once you have identified the correct memory and the aspect and tapped it properly, it fixes the problem immediately and the results are usually permanent. The Basic Recipe process takes hardly two minutes to perform and anyone can easily learn to perform it without difficulty.  
   

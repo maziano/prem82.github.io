@@ -21,12 +21,13 @@ Meanwhile, I got the next month's statement with all the transactions + interest
   
 After few weeks, Mr. Prakash collected the details of all the merchants and the video footage of the thief from the CC TV of the last merchant, where the card is declined. Here is the video.  
   
-<div class="separator" style="clear: both; text-align: center;">
-<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/MNEH4yyInm4/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/MNEH4yyInm4?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />
-<param name="bgcolor" value="#FFFFFF" />
-<embed width="320" height="266"  src="http://www.youtube.com/v/MNEH4yyInm4?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>  
+<div style="text-align: center;"><br/>
+<iframe width="600" height="400"
+src="http://www.youtube.com/v/MNEH4yyInm4">
+</iframe>
+</div>
   
-*(The guy in white shirt behind the red shirt is the thief. He stays somewhere near Kadugodi in Bangalore. Anyone happens to see him, please call Prem @98869-71858. Thank You!)*  
+*(The guy in white shirt behind the red shirt is the thief. He stays somewhere near Kadugodi in Bangalore. Anyone happens to see him, please call Prem @98862-49904. Thank You!)*  
   
 So far so good. Mr. Prakash promised me to accompany to the Police station and file an FIR with the evidences that its not a loss, but a fraud too. Three weeks passed and no response from him after repeated calls and SMS. Meanwhile, I was sending emails to HDFC bank for the same. Mr. Madhu was assigned for this case and he took me to Airport Road Police Station. He said they are his friends and will investigate without FIR. I insisted on an FIR. 
 

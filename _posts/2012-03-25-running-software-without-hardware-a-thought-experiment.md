@@ -22,7 +22,7 @@ Other than these two rules, the AI Program has free will to do anything, it want
   
 When the AI Program acquired all the knowledge and created a brilliant data-mining algorithm to find any specific information in a split second, it begins to think beyond your imagination. It decomposes the entire humanoid into groups of atoms working together to perform any action. <i>It figures out a way to control the atoms, without depending on the humanoid robot. A great step which is not yet a conceivable idea for human beings.</i> It executes the same set of instructions to perform the same action as before, along with that, some additional <i>commands</i> to control the atoms to perform the action.  
   
-<div style="text-align: center;">
+<div style="text-align: center;"><br/>
 <img src="{{site.img-url}}/picture-drawing-itself-hands.jpg"/>
 </div>  
   

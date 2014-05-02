@@ -29,8 +29,11 @@ Who is this guy Chris Guillebeau?. Seriously I could not pronounce his last name
   
 Even if you are not looking to start a business, reading this book may inspire you to do so.You may be surprised at what you can do with the a simple idea or a passion - which you never thought could make you money. I would prefer to keep this book in my reference section and refer to it as and when I need some help. Read it and let me know. Here is the official promo trailer for the book release.  
   
-<div class="separator" style="clear: both; text-align: center;">
-<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://img.youtube.com/vi/xbwBboFr3fQ/0.jpg" height="320" width="480"><param name="movie" value="http://youtube.googleapis.com/v/xbwBboFr3fQ&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="480" height="320"  src="http://youtube.googleapis.com/v/xbwBboFr3fQ&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+<div style="text-align: center;"><br/>
+<iframe width="600" height="400"
+src="https://www.youtube.com/embed/xbwBboFr3fQ">
+</iframe>
+</div>
   
 [$100 Start up (Click to buy from Amazon)](http://www.amazon.com/gp/product/0307951529/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307951529&linkCode=as2&tag=booiverea-20)  
 

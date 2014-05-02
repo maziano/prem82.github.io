@@ -35,10 +35,6 @@ A good story and a good goal for the entire humanity. But, what does all these m
   
 I love to help people to come out of their fears and achieve their life goals. Why not do that in a big scale?. Help more people to live their life in a way that they wanted to live. After reading this book, I decided to pursue a career on Life Coaching. More to be done. More lives to uplift. Let's see, what I am up to !  
   
-<div style="text-align: center;">
-<iframe allowfullscreen="" frameborder="0" height="300" mozallowfullscreen="" src="http://player.vimeo.com/video/26229424?title=0&byline=0&portrait=0" webkitallowfullscreen="" width="400"></iframe>
-</div>
-  
 [The Golden Motorcycle Gang - A Story Of Transformation (Click to buy from Amazon)](http://www.amazon.com/gp/product/1401936199/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1401936199)  
   
 

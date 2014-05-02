@@ -5,8 +5,11 @@ date: 2013-01-14
 category: health
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/SbEUHCU_GtM/0.jpg" height="360" width="480"><param name="movie" value="http://www.youtube.com/v/SbEUHCU_GtM&fs=1&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="480" height="360"  src="http://www.youtube.com/v/SbEUHCU_GtM&fs=1&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>  
+<div style="text-align: center;"><br/>
+<iframe width="600" height="400"
+src="http://www.youtube.com/v/SbEUHCU_GtM">
+</iframe>
+</div>
 
 **Common Myth:** Raw food eaters are skinny and it's impossible for them to pack on muscles.
   
@@ -64,8 +67,11 @@ Once I saw the above video and inspired to know more about raw foods, I stumbled
 
 Hundreds of living evidences are available through out the world in many countries. Below is one such example.  
   
-<div class="separator" style="clear: both; text-align: center;">
-<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/O6oJA_xhTa8/0.jpg" height="360" width="480"><param name="movie" value="http://www.youtube.com/v/O6oJA_xhTa8&fs=1&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="480" height="360"  src="http://www.youtube.com/v/O6oJA_xhTa8&fs=1&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>  
+<div style="text-align: center;"><br/>
+<iframe width="600" height="400"
+src="http://www.youtube.com/v/O6oJA_xhTa8">
+</iframe>
+</div>
 
 How sure I am about her age being 71?. 0%. Yes. This is just a video uploaded in youtube by someone who loves raw food. There is no reliable way to verify it. However, my instinct says that this could be possible. Around 15 years back,  when I was a kid, I read a very old book in Tamil, (இயற்கை உணவுகள் - I think. Can't remember the title exactly) about raw foods which detailed the health benefits and extreme endurance possible with raw foods. When combined with the proper exercise, I believe this could be the right way of life for me. Only way to know is to experiment it.  
 

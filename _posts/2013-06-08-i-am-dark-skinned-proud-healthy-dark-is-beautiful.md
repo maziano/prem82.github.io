@@ -29,14 +29,20 @@ Just a thought - What would have happened, if these products were launched durin
 ### What's Next?  
   
 Yes. The most awaited product of the millennium - "Clean & Dry Intimate Wash" - **To clean & whiten your Vagina**. Yeah. You read it right. To make your vagina fairer. The new mantra - *No one will fuck you, if you have a dark vagina*. Don't they know that we are already hundred billion?. I could not stop laughing at this commercial. Here is the commercial.  
-  
-<div class="separator" style="clear: both; text-align: center;">
-<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://img.youtube.com/vi/9Tx9vVVMWw0/0.jpg" height="360" width="480"><param name="movie" value="http://youtube.googleapis.com/v/9Tx9vVVMWw0&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="480" height="360"  src="http://youtube.googleapis.com/v/9Tx9vVVMWw0&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>  
+
+<div style="text-align: center;"><br/>
+<iframe width="600" height="400"
+src="http://youtube.googleapis.com/v/9Tx9vVVMWw0">
+</iframe>
+</div>
 
 Not Enough?. How about this. "18 Again" - **A Vaginal Tightening and Rejuvenating Gel**. Yeah. The women in the advertisement sings *I feel like a virgin*, in front of her parents. Amazing. Isn't it?. There is no single cream on the market that can take wrinkles out of your face forever. If there is, there would not be wrinkles on old Hollywood Actresses or Rich women or Wives of Billionaires. I can't imagine how an external cream applied on the skin can make the vaginal muscles contract?. I seriously don't have a clue - How Indian women will respond to this product.  
 
-<div class="separator" style="clear: both; text-align: center;">
- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://img.youtube.com/vi/vPayFrCOiZM/0.jpg" height="360" width="480"><param name="movie" value="http://youtube.googleapis.com/v/vPayFrCOiZM&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="480" height="360"  src="http://youtube.googleapis.com/v/vPayFrCOiZM&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>  
+<div style="text-align: center;"><br/>
+<iframe width="600" height="400"
+src="http://youtube.googleapis.com/v/vPayFrCOiZM">
+</iframe>
+</div>
   
 My suggestion is this - Please don't let them dictate, how should you look, how should you smell, how should you dress, over or under. It's your body. You know the basics to keep it clean. That's more than enough. Let your mantra be - *Clean & Healthy*. Please don't imagine yourself in some one else's body. No one in the world worth it.  
   

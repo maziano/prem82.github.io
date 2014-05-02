@@ -8,7 +8,7 @@ category: travelogue
 <div style="text-align: center;">
 <img src="{{site.img-url}}/Inside-Dhyanalinga.jpg"/>
 </div>  
-<br />
+
 ### What is Dhyanalinga?  
 
 Its a place dedicated for meditation, consecrated by Sadhguru Jaggi Vasudev using Prana Prathishta - a complicated process by which all seven chakras are energized to it's peak and locked inside the structure. It is said that this was the first complete Dhyanalinga in over 2000 years and it's been estimated that the energy will be contained within this structure for at least next 5000 years. This place is located around 30 kms from Coimbatore, inside the forest. There are frequent bus/cab services available from Coimbatore.
@@ -66,7 +66,7 @@ We saw *Sarva Tharma Sthamba*, just before the entrance, signifying singularity 
 
 Finally we are into Dhyanalinga. The side walls on the path to Dhyanalinga has stone sculptures depicting many scenes in Hindu mythologies. This is not congruent with the Sarva Tharma Sthamba we saw outside. The volunteers allow people to go inside Dhyanalinga in batches, every five minutes. There are 27 enclosures on the side walls of Dhyanalinga. You can either sit inside the enclosures or in the open space for meditation. The five minute time is for the people who just came to visit. If you want to meditate longer, you can do it. No one will disturb your meditation.   
   
-<div style="text-align: center;">
+<div style="text-align: center;"><br/>
 <img src="{{site.img-url}}/dhyanalinga-temple.jpg"/>
 </div>  
   

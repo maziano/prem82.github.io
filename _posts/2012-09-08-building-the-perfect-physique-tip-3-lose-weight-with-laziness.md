@@ -17,7 +17,7 @@ This was the typical reaction when I first read about the claim. I did research 
 
 In 2008, Phil Libin weighing 258 pounds, decided to lose weight by doing NOTHING. Yes!!!. He wanted to find the effect of precisely aware of his weight would have on his weight. He actually made a conscious effort to continue to eat whatever he wanted and got absolutely no exercise during this experiment.  
   
-<div style="text-align: center;">
+<div style="text-align: center;"><br/>
 <img src="{{site.img-url}}/weighing-scale.jpg"/>
 </div>  
   
@@ -31,7 +31,7 @@ You wanna try this experiment?. I strongly suggest that you do.
     
 Looking at the results, I decided to try this. I created my own excel sheet based on Phil's experiment. I am going to try this for 90 days. I will post my graph after 3 months. I am going to measure my weight in kilograms (not in pounds). This is my initial graph with just only day weight plotted.  
   
-<div style="text-align: center;">
+<div style="text-align: center;"><br/>
 <img src="{{site.img-url}}/premkumar-masilamani-weight-tracker.png"/>
 </div>  
   

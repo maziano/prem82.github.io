@@ -11,8 +11,7 @@ It's not that I am new to Indian Toilets. I was using it from my childhood. I st
   
 ### Anal Rectal Angle while Sitting and Squatting:
   
-  
-<div style="text-align: center;">
+<div style="text-align: center;"><br/>
 <img src="{{site.img-url}}/anal-rectal-angle-sitting-squatting-comparison.jpg"/>
 </div>  
   

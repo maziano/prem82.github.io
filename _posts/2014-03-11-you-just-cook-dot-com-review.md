@@ -40,7 +40,7 @@ Next day, you will receive a parcel with fresh cut/sliced/chopped vegetables, sl
 
 My wife ordered "Mudaliar Pepper Mutton Fry" on Friday night 1 AM. She got a call in the morning 8.30 AM to confirm. They need one day advance order to buy and prepare for us. They do not use frozen meat/vegetables. All are prepared fresh. She was busy with Saturday orders, and still agreed to take our order and deliver it by 1'O Clock. Everyone in the family were very interested to see what's in the package. Never seen such a crowd in the kitchen :)
 
-<div style="text-align: center;">
+<div style="text-align: center;"><br/>
 <img src="{{site.img-url}}/mudaliar-pepper-mutton-fry-ingredients.jpg"/>
 </div>  
 

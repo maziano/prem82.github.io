@@ -5,10 +5,6 @@ date: 2012-12-17
 category: health
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/thermal-diet-ice-cubes.jpg"/>
-</div>  
-
 Thermal Diet?. Yeah. It's from the book [The 4-Hour Body](http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20) by my favorite author Timothy Ferriss.  
 
 Everyone knows the basic fact that our body temperature is maintained at 98.6 °F. When the outside temperature falls below that, our body does quite a few things like goosebumps, shivering, burning more calories to produce the additional heat to bring the core temperature back to normal. The hypothalamus in the brain controls the body temperature with the help of the temperature receptors in the skin. We are interested in leveraging the option of "burning more calories for heat" to our weight loss program.  
@@ -21,8 +17,11 @@ There are two types of fat tissues found in mammals.
 
 When our body is exposed to cold, the brown fat is activated to burn more calories (mostly from white fat) to produce heat until we reach the point of shivering, which takes over to produce more heat. Studies shows that our body burns 50% more calories when exposed to cold conditions. Babies don't shiver because they have approx. 5% of their body weight composed of brown fat. We lose most of it as we grow. The high amount of brown fat replaces the need to shiver. Contrary to the popular belief, thinner people has more brown fat !.  
 
-<div style="text-align: center;">
-<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/y1tjMxq-meg/0.jpg" height="399" width="480"><param name="movie" value="http://www.youtube.com/v/y1tjMxq-meg?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="480" height="300"  src="http://www.youtube.com/v/y1tjMxq-meg?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>  
+<div style="text-align: center;"><br/>
+<iframe width="600" height="400"
+src="http://www.youtube.com/v/y1tjMxq-meg">
+</iframe>
+</div>
 
 **Thermal Diet** - is the concept of leveraging our body's natural ability to burn fat to effective weight loss. Please remember, brown fat works best at the threshold of shivering. If you find yourself shivering, it may be too cold for you and it is possible to slip into the state of hypothermia, if you are not careful. So, always have an option of getting to a warmer condition, if required.  
 
