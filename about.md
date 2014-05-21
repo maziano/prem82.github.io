@@ -8,7 +8,7 @@ permalink: /about/
 <br/>
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/Premkumar_Masilamani.jpg"/><br />
+<img src="{{site.img-url}}/Premkumar_Masilamani.jpg"/><br />
 </div>  
 
 > Human by birth, software engineer by career, photographer by interest and a poet by love.
