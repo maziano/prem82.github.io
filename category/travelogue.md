@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Travelogue - Premkumar Masilamani's personal blog
+title: Travelogue
 permalink: /category/travelogue/
 ---
 
 <div class="post">
-    <h3>Category : Travelogue</h3>
 
     {% for post in site.categories.travelogue %}
 
@@ -21,4 +20,3 @@ permalink: /category/travelogue/
 
     {% endfor %}
 </div>
-<br/>

@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Personal - Premkumar Masilamani's personal blog
+title: Personal
 permalink: /category/personal/
 ---
 
 <div class="post">
-    <h3>Category : Personal</h3>
 
     {% for post in site.categories.personal %}
 
@@ -21,4 +20,3 @@ permalink: /category/personal/
 
     {% endfor %}
 </div>
-<br/>

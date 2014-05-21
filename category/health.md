@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Health - Premkumar Masilamani's personal blog
+title: Health
 permalink: /category/health/
 ---
 
 <div class="post">
-    <h3>Category : Health</h3>
 
     {% for post in site.categories.health %}
 
@@ -21,4 +20,3 @@ permalink: /category/health/
 
     {% endfor %}
 </div>
-<br/>

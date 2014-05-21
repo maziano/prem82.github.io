@@ -15,17 +15,6 @@ I used to watch a lot of videos, audios related to personal development / self h
   
 Here is what I wrote in my journal, after completing the exercises mentioned in this video.  
 
-<style type="text/css">
-table   { border: 1px solid black; }
-td,th   { border: 1px solid black;   
-	  padding-right:1px;
-	  padding-left:1px;
-	}
-th      { width: 200px;
-	  text-align:center
-        }
-</style>
-  
 |Experiences|Growth|Contribution|
 |:----------|:-----|:------------|
 |Love|Read more and more|Social Activist|

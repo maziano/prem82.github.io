@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Social - Premkumar Masilamani's personal blog
+title: Social
 permalink: /category/social/
 ---
 
 <div class="post">
-    <h3>Category : Social Issues</h3>
 
     {% for post in site.categories.social %}
 
@@ -21,4 +20,3 @@ permalink: /category/social/
 
     {% endfor %}
 </div>
-<br/>

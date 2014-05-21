@@ -1,46 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-	<meta charset="utf-8">
-	{% if page.title == null %}
-        	<title>{{ site.title }}</title>
-	{% else %}
-	        <title>{{ page.title }}</title>
-	{% endif %}
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}" />
+  {% include head.html %}
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+  <body>
 
-        <!-- Zenhabits Style CSS -->
-        <link rel="stylesheet" href="/css/style.css">
+    {% include sidebar.html %}
 
-	{% include favicon.html %}
-	{% include analytics.html %}
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    </head>
-    <body style="background-color: #ebebeb;">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
 
-	<div class="container">
-	  <div class="top">
-	    <h1><a href="/">{{ site.name }}</a> : 
-	    <a id="tagline" href="http://tamil.smileprem.com/">&#x0b95;&#x0ba9;&#x0bb5;&#x0bc1;</a></h1>
-	  </div>
+      <div class="container content">
+        {{ content }}
+      </div>
+    </div>
 
-          {{ content }}
-
-	  <div class="footer">
-		<p><a href="{{ site.url }}/best-of/">Best Of</a> :: 
-		<a href="{{ site.url }}/archive/">Archive</a> ::
-		<a href="{{ site.url }}/categories/">Categories</a> ::
-		<a href="{{ site.url }}/category/books/">Books</a> ::
-  		<a href="{{ site.url }}/about/">About</a> ::  
-		<a href="{{ site.url }}/contact/">Contact</a> :: 
-		<a href="{{ site.url }}/uncopyright/">Uncopyright</a></p><br/><br/>
-	  </div>
-	</div>
-    </body>
+  </body>
 </html>

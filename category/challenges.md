@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Challenges - Premkumar Masilamani's personal blog
+title: Challenges
 permalink: /category/challenges/
 ---
 
 <div class="post">
-    <h3>Category : Challenges</h3>
 
     {% for post in site.categories.challenges %}
 
@@ -21,4 +20,3 @@ permalink: /category/challenges/
 
     {% endfor %}
 </div>
-<br/>

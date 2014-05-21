@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Technology - Premkumar Masilamani's personal blog
+title: Technology
 permalink: /category/technology/
 ---
 
 <div class="post">
-    <h3>Category : Technology</h3>
 
     {% for post in site.categories.technology %}
 
@@ -21,4 +20,3 @@ permalink: /category/technology/
 
     {% endfor %}
 </div>
-<br/>

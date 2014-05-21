@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
 title: Categories
 permalink: /categories/
 ---
-<div class="post">
-<h3>{{ page.title }}</h3><br/>
+<div>
 
 <p>This blog is segmented into multiple categories depending on the content of each blog post. Please click any of the categories below to view the blog posts exclusive to that specific category</p>
 
@@ -30,4 +29,3 @@ permalink: /categories/
 <p><a href="{{ site.url }}/category/science/">Science</a></p>
 
 </div>
-<br/>

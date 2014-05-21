@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Science - Premkumar Masilamani's personal blog
+title: Science
 permalink: /category/science/
 ---
 
 <div class="post">
-    <h3>Category : Science</h3>
 
     {% for post in site.categories.science %}
 
@@ -21,4 +20,3 @@ permalink: /category/science/
 
     {% endfor %}
 </div>
-<br/>

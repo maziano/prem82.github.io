@@ -1,10 +1,10 @@
 ## Smile Prem Website
 
-Hi - This is my personal website, built with Jekyll, hosted on GitHub pages with a customized template created by Leo Babatua, author of http://zenhabits.net
+Hi - This is my personal website, built with Jekyll, hosted on GitHub pages with Lanyon Theme.
 
-All the artifacts in this repository is opensource. You can fork this repo and use it as you wish.
+All the artifacts in this repository are opensource. You can fork this repo and use it as you wish.
 
-I would be extremely happy, if you link back to the site when, you cite or use the blog content in your blogs (not mandatory though)
+I would be extremely happy, if you link back to the site when, you use the content in your website/blogs (not mandatory though)
 
 Remember this quote always:
 

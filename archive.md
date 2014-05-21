@@ -1,15 +1,10 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Archive for Premkumar Masilamani's personal blog
+title: Archive
 permalink: /archive/
 ---
-
-<div class="post">
-    <h3>Blog Archive</h3>
-    <br/>
-    {% include google-cse.html %}
-
+<div>
     {% for post in site.posts %}
 
 	{% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
@@ -23,4 +18,3 @@ permalink: /archive/
 
     {% endfor %}
 </div>
-<br/>

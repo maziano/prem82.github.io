@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Thought Experiments - Premkumar Masilamani's personal blog
+title: Thought Experiments
 permalink: /category/thought-experiments/
 ---
 
 <div class="post">
-    <h3>Category : Thought Experiments</h3>
-
+    
     {% for post in site.categories.thought-experiments %}
 
 	{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -21,4 +20,3 @@ permalink: /category/thought-experiments/
 
     {% endfor %}
 </div>
-<br/>

@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Self Improvement - Premkumar Masilamani's personal blog
+title: Self Improvement
 permalink: /category/self-improvement/
 ---
 
 <div class="post">
-    <h3>Category : Self Improvement</h3>
 
     {% for post in site.categories.self-improvement %}
 
@@ -21,4 +20,3 @@ permalink: /category/self-improvement/
 
     {% endfor %}
 </div>
-<br/>

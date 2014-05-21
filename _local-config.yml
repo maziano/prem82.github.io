@@ -1,25 +1,24 @@
-name: smileprem
-description: On a journey called Life
-title: Premkumar Masilamani's Personal Blog
-url: http://localhost:4000
-author: Premkumar Masilamani
-email: prem@smileprem.com
+title:            Premkumar Masilamani
+tagline:          disrupting the known &amp; the unknown ...
+description:      On a journey called Life
+url:              http://localhost:4000
 
-paginate: 10
+author:           Premkumar Masilamani
+email:            prem@smileprem.com
 
-markdown: redcarpet
+paginate:         3
+
+markdown:         redcarpet
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+  extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
-pygments: true
-safe: false
-lsi: false
+pygments:         true
+safe:             false
+lsi:              false
 
-permalink: /:title/
+permalink:        /:title/
 relative_permalinks: false
 
-img-url: http://localhost:4000/img
-download-url: http://localhost:4000/downloads
-
-promotions: true
+img-url:          http://localhost:4000/public/img
+download-url:     http://localhost:4000/public/downloads
 

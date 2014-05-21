@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Contact Premkumar Masilamani
+title: Contact Me
 permalink: /contact/
 ---
-<h3>{{ page.title }}</h3><br/>
+
 <form action="http://www.emailmeform.com/builder/form/bi73zffJbc078cHP6p6fhfr" enctype="multipart/form-data" id="emf-form" method="post" target="_self">
 <table bgcolor="transparent" border="0" cellpadding="2" cellspacing="0" style="text-align: left;">
 <tbody>
@@ -51,4 +51,3 @@ permalink: /contact/
 <div>
 </div>
 </div>
-

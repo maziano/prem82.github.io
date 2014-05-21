@@ -1,13 +1,10 @@
 ---
-layout: default
+layout: page
 date: 2014-05-20 18:55:718 +0530
-title: Best of Premkumar Masilamani's personal blog
+title: Best of
 permalink: /best-of/
 ---
 
-<div class="post">
-<h3>Best of Premkumar Masilamani's blog</h3>
-<br/>
 <p><span>1</span> &raquo; <a href="/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/">Building the Perfect Physique - [Tip 5] Weight Loss with Horse Gram</a><p>
 <p><span>2</span> &raquo; <a href="/buying-gold-jewellery-know-the-facts-first/">Buying Gold Jewellery? - Know the facts first !</a><p>
 <p><span>3</span> &raquo; <a href="/fat-acceptance/">Fat Acceptance?</a><p>
@@ -39,7 +36,5 @@ permalink: /best-of/
 <p><span>29</span> &raquo; <a href="/the-dolphin-story-of-a-dreamer-sergio-bambaren-michele-book-review/">The Dolphin - Story of a Dreamer</a><p>
 <p><span>30</span> &raquo; <a href="/the-thrive-diet-the-whole-foods-way-to-losing-weight-reducing-stress-and-staying-healthy-for-life-brendan-brazier-book-review/">The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life</a><p>
 
-</div>
-<br/>
 
 
