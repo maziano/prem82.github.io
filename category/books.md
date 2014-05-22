@@ -9,14 +9,19 @@ permalink: /category/books/
 
     {% for post in site.categories.books %}
 
-	{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-	{% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+    	{% if forloop.index == 0 %}
+    		{% assign prev_month = "none" %}
+    	{% endif %}
 
-	{% if year != next_year %}
-		<h3>{{ post.date | date: '%Y' }}</h3>
-	{% endif %}
+		{% capture current_month %}{{ post.date | date: '%B' }}{% endcapture %}
 
-	<p>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></p>
+		{% if prev_month != current_month %}		
+			<h3>{{ post.date | date: '%B, %Y' }}</h3>
+		{% endif %}	
+
+		<p>&#149;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></p>
+		{% assign prev_month = current_month %}
 
     {% endfor %}
+	
 </div>
