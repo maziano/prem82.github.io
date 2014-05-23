@@ -13,7 +13,8 @@ date: 2013-12-12 00:00:00 +0530
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
+    <span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ post.category }}">{{ post.category }}</a></span>
+  	<br/><br/>
     {{ post.content }}
 
   </div>

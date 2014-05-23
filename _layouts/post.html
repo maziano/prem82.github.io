@@ -4,7 +4,10 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
+  <span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ page.category }}">{{ page.category | camelcase }}</a></span>
+  <br/><br/>
   {{ content }}  
+  <span>You are here : <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ page.category }}">{{ page.category | camelcase }}</a></span>
 </div>
 <div>
   {% include subscribe.html %}  
