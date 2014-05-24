@@ -8,13 +8,11 @@ permalink: /categories/
 
 <p>This blog is segmented into multiple categories depending on the content of each blog post. Please click any of the categories below to view the blog posts exclusive to that specific category</p>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/books/">Book Reviews</a></p>
+<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/apps/">Apps</a></p>
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/health/">Health</a></p>
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/social/">Social Issues</a></p>
-
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/personal/">Personal</a></p>
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/self-improvement/">Self Improvement</a></p>
 
@@ -22,10 +20,16 @@ permalink: /categories/
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/technology/">Technology</a></p>
 
+<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/books/">Book Reviews</a></p>
+
+<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/personal/">Personal</a></p>
+
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/travelogue/">Travelogue</a></p>
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/thought-experiments/">Thought Experiments</a></p>
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/science/">Science</a></p>
+
+<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/review/">Reviews</a></p>
 
 </div>
