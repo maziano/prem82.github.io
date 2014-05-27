@@ -6,7 +6,8 @@ permalink: /category/books/
 ---
 
 <div class="post">
-
+	<span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a></span>
+  	
     {% for post in site.categories.books %}
 
     	{% if forloop.index == 0 %}

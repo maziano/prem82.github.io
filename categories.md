@@ -6,6 +6,8 @@ permalink: /categories/
 ---
 <div>
 
+<span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a></span><br/><br/>
+
 <p>This blog is segmented into multiple categories depending on the content of each blog post. Please click any of the categories below to view the blog posts exclusive to that specific category</p>
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/apps/">Apps</a></p>

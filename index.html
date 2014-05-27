@@ -3,39 +3,32 @@ layout: default
 date: 2013-12-12 00:00:00 +0530
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<div style="text-align: center;">
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    <span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ post.category }}">{{ post.category }}</a></span>
-  	<br/><br/>
-    {{ post.content }}
+<h1>Hi, I'm Premkumar Masilamani</h1>
+</div>  
 
-  </div>
-  {% endfor %}
-</div>
+<p>I love to run, lift weights, think, write, read, question, learn, travel, meet new people, repeatedly challenge myself on various aspects of living, become a guinea pig for my own experiments and indulge in monologues/debates when I have nothing else to do.</p>
 
+<p>This blog summarizes everything that I am. This blog is not written for you to solve any of your problems. However this blog details some of my experiences, experiments and thought processes, which may help you in some situations. So, Go ahead. Dive In.</p>
+
+<h2>Latest Posts</h2>
+
+{% for post in paginator.posts %}
+  <p>&#149;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></p>
+{% endfor %}
+
+<h2>Popular Posts</h2>
+<p><span>1</span> &raquo; <a href="/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/">Building the Perfect Physique - [Tip 5] Weight Loss with Horse Gram</a><p>
+<p><span>2</span> &raquo; <a href="/buying-gold-jewellery-know-the-facts-first/">Buying Gold Jewellery? - Know the facts first !</a><p>
+<p><span>3</span> &raquo; <a href="/fat-acceptance/">Fat Acceptance?</a><p>
+<p><span>4</span> &raquo; <a href="/where-do-my-friends-work/">Where do my friends work?</a><p>
+<p><span>5</span> &raquo; <a href="/indian-toilet-vs-western-toilet/">Indian Toilet vs Western Toilet</a><p>
+<p><span>6</span> &raquo; <a href="/be-a-slave/">Be A Slave</a><p>
+<p><span>7</span> &raquo; <a href="/the-hero-rhonda-bryne/">The Hero</a><p>
+<p><span>8</span> &raquo; <a href="/a-goodbye-email-from-a-hardcore-programmer/">A Goodbye Email from a Hardcore Programmer</a><p>
+<p><span>9</span> &raquo; <a href="/my-experience-with-dhyanalinga/">My Experience with Dhyanalinga</a><p>
+<p><span>10</span> &raquo; <a href="/the-secret-letters-of-the-monk-who-sold-his-ferrari-robin-sharma-book-review/">The Secret Letters of the Monk Who Sold His Ferrari</a><p>
+<br/>
 {% include subscribe.html %}
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<br/>

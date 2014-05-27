@@ -6,7 +6,7 @@ url:              http://localhost:4000
 author:           Premkumar Masilamani
 email:            prem@smileprem.com
 
-paginate:         3
+paginate:         5
 
 markdown:         redcarpet
 redcarpet:

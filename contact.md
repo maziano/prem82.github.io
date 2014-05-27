@@ -4,6 +4,7 @@ date: 2013-12-12 00:00:00 +0530
 title: Contact Me
 permalink: /contact/
 ---
+<span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/contact">contact me</a></span>
 
 <form action="http://www.emailmeform.com/builder/form/bi73zffJbc078cHP6p6fhfr" enctype="multipart/form-data" id="emf-form" method="post" target="_self">
 <table bgcolor="transparent" border="0" cellpadding="2" cellspacing="0" style="text-align: left;">
@@ -12,7 +13,6 @@ permalink: /contact/
 <td colspan="2"><span style="color: black; ">Please send your questions / suggestions to Premkumar Masilamani.</span></td></tr>
 </tbody></table>
 </form>
-<br />
 <span style="color: black;  ">Name</span>
 <span style="color: red;"><small>*</small></span>
 <br />

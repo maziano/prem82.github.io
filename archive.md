@@ -5,6 +5,8 @@ title: Archive
 permalink: /archive/
 ---
 <div>
+	<span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/archive">archive</a></span>
+
     {% for post in site.posts %}
 
 	{% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
