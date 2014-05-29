@@ -306,7 +306,7 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 25px;
 }
 
 /* Blog post or page title */
@@ -387,7 +387,7 @@ a.pagination-item:hover {
 
 @media (min-width: 30rem) {
   .pagination {
-    margin: 3rem 0;
+    margin:25px 0;
   }
   .pagination-item {
     float: left;

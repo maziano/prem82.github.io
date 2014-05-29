@@ -18,7 +18,7 @@ permalink: /contact/
 <br />
 <input class="validate[required]" id="element_0" name="element_0" size="30" type="text" value="" /><br />
 <div style="color: black; padding-bottom: 8px;">
-<small><span style=""></span></small></div>
+</div>
 <span style="color: black;  ">Email</span>
 <span style="color: red;"><small>*</small></span>
 <br />

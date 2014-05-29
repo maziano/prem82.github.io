@@ -10,8 +10,8 @@ layout: default
   <span>You are here : <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ page.category }}">{{ page.category | camelcase }}</a></span>
 </div>
 <div>
-  {% include subscribe.html %}  
   {% include social_share.html %}
+  {% include subscribe.html %}  	
 </div>
 <div class="pagination">
   {% if page.previous.url %} 
