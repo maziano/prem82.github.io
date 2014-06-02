@@ -28,6 +28,6 @@ category: personal
 
 ### Completed
 
-1. Complete 10K (Completed on 18-May-2014)
-2. Get a Big Tattoo  (Completed on 31-May-2014)
+1. Complete 10K (Completed on 18-May-2014 [Prem Sangavi Tattoo]({{site.img-url}}/prem-sangavi-tattoo.jpg))
+2. Get a Big Tattoo  (Completed on 31-May-2014 [Prem TCS 10K 2014]({{site.img-url}}/Premkumar-Masilamani-TCS-10K-2014.jpg))
 
