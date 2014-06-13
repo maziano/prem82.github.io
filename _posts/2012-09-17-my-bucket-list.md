@@ -15,7 +15,7 @@ category: personal
 4. The Perfect Eye Sight 
 5. Become a Writer
 6. Fight a big cat with bare hands  
-7. Give an inspiring Speech in TED Talk  
+7. Inspiring TED Talk  
 8. Bungee Jumping from Royal Gorge Bridge, Colorado, USA  
 9. Mountain Gliding  
 10. Space Jumping
