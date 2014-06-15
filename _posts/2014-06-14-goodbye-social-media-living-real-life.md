@@ -142,4 +142,4 @@ I don't know. May be. But, not until the end of the year 2014.
 
 ###How can I be contacted?
 
-I will be available via email (prem82@gmail.com) and mobile (+91-99862-49904).
+I will be available via email ({{ site.email }}) and mobile ([{{site.mobile}}](tel:{{ site.mobile }})).

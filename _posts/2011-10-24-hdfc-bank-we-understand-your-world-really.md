@@ -27,7 +27,7 @@ src="http://www.youtube.com/v/MNEH4yyInm4">
 </iframe>
 </div>
   
-*(The guy in white shirt behind the red shirt is the thief. He stays somewhere near Kadugodi in Bangalore. Anyone happens to see him, please call Prem @98862-49904. Thank You!)*  
+*(The guy in white shirt behind the red shirt is the thief. He stays somewhere near Kadugodi in Bangalore. Anyone happens to see him, please call {{site.author}} @ [{{site.mobile}}](tel:{{site.mobile}}). Thank You!)*  
   
 So far so good. Mr. Prakash promised me to accompany to the Police station and file an FIR with the evidences that its not a loss, but a fraud too. Three weeks passed and no response from him after repeated calls and SMS. Meanwhile, I was sending emails to HDFC bank for the same. Mr. Madhu was assigned for this case and he took me to Airport Road Police Station. He said they are his friends and will investigate without FIR. I insisted on an FIR. 
 
