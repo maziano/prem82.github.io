@@ -54,19 +54,19 @@ When the message gets to your subconscious mind, you will be automatically inspi
 
 I spent couple of weeks to create two mind movies (for men and women) to help achieve the perfect health. I did not concentrate too much on the weight loss, but on the perfect health (staying positive). There are costly software available from the creator Ryan on his [official website](http://www.mindmovies.com/). However, I used [Picasa 3.0](http://picasa.google.com/) to create these movies for free. I can tell you how to do it yourself in the next blog probably. If you have good internet connection, you can watch these movies either on my blog or on YouTube. If you don't, I suggest you to download the movie to your computer (google to figure out how)  
   
-[Perfect Health for Women](http://www.youtube.com/watch?v=lBq9XSCy6TQ)  
+[Perfect Health for Women](http://www.youtube.com/watch?v=A2etnchpxIU)  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
-src="http://www.youtube.com/v/lBq9XSCy6TQ">
+src="http://www.youtube.com/v/A2etnchpxIU">
 </iframe>
 </div>
   
-[Perfect Health for Men](http://www.youtube.com/watch?v=wde-SGEJpYY)  
+[Perfect Health for Men](http://www.youtube.com/watch?v=ZaZWxnNH0gQ)  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
-src="http://www.youtube.com/v/wde-SGEJpYY">
+src="http://www.youtube.com/v/ZaZWxnNH0gQ">
 </iframe>
 </div>
   

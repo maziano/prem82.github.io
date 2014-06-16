@@ -17,9 +17,9 @@ There are two types of fat tissues found in mammals.
 
 When our body is exposed to cold, the brown fat is activated to burn more calories (mostly from white fat) to produce heat until we reach the point of shivering, which takes over to produce more heat. Studies shows that our body burns 50% more calories when exposed to cold conditions. Babies don't shiver because they have approx. 5% of their body weight composed of brown fat. We lose most of it as we grow. The high amount of brown fat replaces the need to shiver. Contrary to the popular belief, thinner people has more brown fat !.  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
-src="http://www.youtube.com/v/y1tjMxq-meg">
+src="http://www.youtube.com/v/mVhsptBuLrg">
 </iframe>
 </div>
 
