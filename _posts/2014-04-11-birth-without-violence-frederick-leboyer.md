@@ -34,7 +34,7 @@ If children are angels, shouldn't their entry to this world be a fairy tale?.
 
 Frederick Leboyer, who has himself delivered more than 10,000 babies, shows us that child birth does not have to be a terrifying experience. Before I say a word, please look at the below comparison.
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/birth-without-violence-comparison.jpg"/>
 </div>
 
@@ -59,7 +59,7 @@ Some of the small changes he did were
 
 The whole books reads like a poem. Mesmerizing. I couldn't close the book. When you are done reading, you are sure to have a smile on your face. If you are planning for a baby or not, please read this book. This is one of the few books that changed the world permanently. Look at the 12 hrs old baby who was born in a natural way.  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/birth-without-violence-calm-baby.jpg"/>
 </div>
 

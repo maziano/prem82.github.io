@@ -21,7 +21,7 @@ src="{{site.img-url}}/the-EFT-manual-cary-craig.jpg"/>
   
 If a picture is worth thousand words, how about a video then?. Here is an introductory video to EFT (Emotional Freedom Technique). It is very essential that you know about EFT, before reading the review about this book. I found this is the best video that was ever made for EFT. Watch it completely before you scroll down for the book review.  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
 src="http://www.youtube.com/v/ANbl_P_303U">
 </iframe>

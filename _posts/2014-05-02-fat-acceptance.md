@@ -38,7 +38,7 @@ Its their personal choice. Who am I to comment?.
 
 Right. I am writing this post, just to understand the reason behind it. Could this be the reason?. May be...
   
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/love-to-eat.jpg"/>
 </div>
 
@@ -72,7 +72,7 @@ No. Its not good to accept & love your obese body. Be discontent with your body 
 
 A little bit. Soon after marriage, I became overweight, on the verge of being classified as obese (based on BMI). I did not like my body and I took every possible effort to reduce my weight. You can read the complete story here, [5 Months of Raw Vegan Experiment]().  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/premkumar-masilamani-5-months-raw-vegan-transformation.jpg"/>
 </div>
 
@@ -86,7 +86,7 @@ I am the same person. But three different lifestyles of mine, results in three d
 
 ###The Most Amazing Transformation
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
 src="http://www.youtube.com/embed/qX9FSZJu448">
 </iframe>

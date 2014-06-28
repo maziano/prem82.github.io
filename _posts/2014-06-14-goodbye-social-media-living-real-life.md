@@ -8,7 +8,7 @@ category: self-improvement
 <div style="text-align: center;">
 <iframe width="600" height="400"
 src="http://www.youtube.com/embed/Z7dLU6fk9QY">
-</iframe><br/>
+</iframe>
 </div>
 
 When was the last time, I spoke to the rose plants while watering them in the morning?

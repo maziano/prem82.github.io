@@ -5,7 +5,7 @@ date: 2013-07-21
 category: self-improvement
 ---
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
 src="http://www.youtube.com/embed/f8eU5Pc-y0g">
 </iframe>

@@ -19,8 +19,8 @@ If your instinct is strong, you may feel reduction in appetite when you eat food
   
 ### <span style="color: blue;">Use blue color to reduce weight:</span>  
   
-<div style="text-align: center;"><br/>
-<img src="{{site.img-url}}/blue-aids-weight-loss-sexy-girl-back.jpg"/><br />
+<div style="text-align: center;">
+<img src="{{site.img-url}}/blue-aids-weight-loss-sexy-girl-back.jpg"/>
 <i>Stare at her and you will lose weight !!!</i>
 </div>  
 
@@ -39,13 +39,13 @@ Funny things apart, there are few simple things that we can do. This requires ju
 
 It may sound strange, but people do wear blue color shaded sunglasses to avoid themselves from overeating. They claim that it works and started selling weight-loss-sunglasses. As with any advancement in technology, it started in Japan. Check out the advertisement by clicking the image.  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/blue-aids-weight-loss-blue-sunglasses.jpg"/>
 </div>  
 
 Why am I interested in this thing, with the claims of a bunch of unknown people, and unknown doctors and no proved evidence in science?. Just because, Johnny Depp tried this to reduce weight for one of his movies (he he he he... the blue color could be a co-incidence also). I am not mad enough to wear a blue color sunglasses all day, but I would try other options in the dining area.  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/blue-aids-weight-loss-johnny-Depp-Blue-Sunglass.jpg"/>
 </div>  
 
@@ -53,7 +53,7 @@ Why am I interested in this thing, with the claims of a bunch of unknown people,
 
 We know the color that reduces appetite and obviously we would like to know the opposite. right?. I will leave that to you to google and find out. But looking at the logos of the big fast food chains may give you a clue !  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/blue-aids-weight-loss-red-appetizing-color.jpg"/>
 </div>  
 

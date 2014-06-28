@@ -19,7 +19,7 @@ However, raw vegan diet would be very tough on her at this moment. I suggested a
 
 Before I explain what this is, lets see how our body digests and absorbs the energy from food. 
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/intermittent-fasting-states.jpg"/>
 </div>
 
@@ -40,7 +40,7 @@ There are hundreds of ways to do Intermittent Fasting. Google it. The one I am i
 
 Below diagram depicts the typical week of an intermittent fasting.  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/leangains-daily-intermittent-fasting.jpg" width="100%"/>
 </div>
 

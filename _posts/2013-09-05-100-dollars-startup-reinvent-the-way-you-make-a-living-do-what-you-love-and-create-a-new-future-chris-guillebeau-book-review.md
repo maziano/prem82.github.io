@@ -29,7 +29,7 @@ Who is this guy Chris Guillebeau?. Seriously I could not pronounce his last name
   
 Even if you are not looking to start a business, reading this book may inspire you to do so.You may be surprised at what you can do with the a simple idea or a passion - which you never thought could make you money. I would prefer to keep this book in my reference section and refer to it as and when I need some help. Read it and let me know. Here is the official promo trailer for the book release.  
   
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
 src="https://www.youtube.com/embed/xbwBboFr3fQ">
 </iframe>

@@ -30,7 +30,7 @@ Just a thought - What would have happened, if these products were launched durin
   
 Yes. The most awaited product of the millennium - "Clean & Dry Intimate Wash" - **To clean & whiten your Vagina**. Yeah. You read it right. To make your vagina fairer. The new mantra - *No one will fuck you, if you have a dark vagina*. Don't they know that we are already hundred billion?. I could not stop laughing at this commercial. Here is the commercial.  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
 src="http://youtube.googleapis.com/v/9Tx9vVVMWw0">
 </iframe>
@@ -38,7 +38,7 @@ src="http://youtube.googleapis.com/v/9Tx9vVVMWw0">
 
 Not Enough?. How about this. "18 Again" - **A Vaginal Tightening and Rejuvenating Gel**. Yeah. The women in the advertisement sings *I feel like a virgin*, in front of her parents. Amazing. Isn't it?. There is no single cream on the market that can take wrinkles out of your face forever. If there is, there would not be wrinkles on old Hollywood Actresses or Rich women or Wives of Billionaires. I can't imagine how an external cream applied on the skin can make the vaginal muscles contract?. I seriously don't have a clue - How Indian women will respond to this product.  
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
 src="http://youtube.googleapis.com/v/vPayFrCOiZM">
 </iframe>

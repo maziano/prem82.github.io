@@ -54,4 +54,3 @@ So, today's tip is very simple. Here is the summary.
 3. Drink more water and more often.  
   
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  
-

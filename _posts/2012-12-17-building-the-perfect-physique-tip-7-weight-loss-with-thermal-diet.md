@@ -62,5 +62,3 @@ If you are new to this blog, you may want to read the other tips that we discuss
 [How brown adipose tissue can be activated?](http://www.ethlife.ethz.ch/archive_articles/121112_braune_fettzellen_per/index_EN)  
 [Ray Cronise at TEDMED 2010](http://www.youtube.com/watch?v=UrQ_ldCwKUQ)  
 [Joslin scientists: Brown adipose tissue beneficial for metabolism and glucose tolerance](http://www.eurekalert.org/pub_releases/2012-12/jdc-jsb120712.php)  
-
-

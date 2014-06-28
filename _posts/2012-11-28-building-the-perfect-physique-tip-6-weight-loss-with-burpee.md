@@ -17,7 +17,7 @@ So, I am gonna add one more ingredient to my plan. Physical Exercises. Wait.. wa
   
 Here is one video, which explains Burpee for the beginners. He broke down the exercise to 5 simple levels, to make it easy for the beginners. If you are new to workouts, please try to be comfortable with each level, before proceeding to the next. I suggest, three minutes of simple warm up and three sets of 10 repetitions for each level. Take a minute or two rest, between sets. Once you are comfortable with one level, you can move to the next level.  
   
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
 src="http://www.youtube.com/v/ilNMfl1Cy58">
 </iframe>
@@ -25,7 +25,7 @@ src="http://www.youtube.com/v/ilNMfl1Cy58">
   
 If you already has the experience of working out in the gym, you may start the explosive Burpees, right away. She inspired me very much today. Lets Go !!!  
   
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
 src="http://www.youtube.com/v/GDAPnajWq-0">
 </iframe>
@@ -40,5 +40,3 @@ If you are new to this blog, you may want to read the other tips that we discuss
 [Tip 5: Weight Loss with Horse Gram]({{site.url}}/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/)  
 
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  
-
-

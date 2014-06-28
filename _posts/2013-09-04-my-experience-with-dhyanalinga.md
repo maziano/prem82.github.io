@@ -66,7 +66,7 @@ We saw *Sarva Tharma Sthamba*, just before the entrance, signifying singularity 
 
 Finally we are into Dhyanalinga. The side walls on the path to Dhyanalinga has stone sculptures depicting many scenes in Hindu mythologies. This is not congruent with the Sarva Tharma Sthamba we saw outside. The volunteers allow people to go inside Dhyanalinga in batches, every five minutes. There are 27 enclosures on the side walls of Dhyanalinga. You can either sit inside the enclosures or in the open space for meditation. The five minute time is for the people who just came to visit. If you want to meditate longer, you can do it. No one will disturb your meditation.   
   
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/dhyanalinga-temple.jpg"/>
 </div>  
   

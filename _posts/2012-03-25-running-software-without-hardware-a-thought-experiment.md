@@ -22,7 +22,7 @@ Other than these two rules, the AI Program has free will to do anything, it want
   
 When the AI Program acquired all the knowledge and created a brilliant data-mining algorithm to find any specific information in a split second, it begins to think beyond your imagination. It decomposes the entire humanoid into groups of atoms working together to perform any action. <i>It figures out a way to control the atoms, without depending on the humanoid robot. A great step which is not yet a conceivable idea for human beings.</i> It executes the same set of instructions to perform the same action as before, along with that, some additional <i>commands</i> to control the atoms to perform the action.  
   
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <img src="{{site.img-url}}/picture-drawing-itself-hands.jpg"/>
 </div>  
   
@@ -36,4 +36,3 @@ The above picture may give you an Idea of what I think, the AI Program is doing.
 Once you have answers for the above questions and if you are a theist, assume that the mad scientist is your GOD and the AI Program is YOUR SOUL. Now, repeat the entire Thought Experiment in your mind with the new perspective. Do your answers change now? I leave the conclusion to yourself.  
   
 **PS:** I started this blog post as an article on Thought Experiments of future science, but it ended up with a Philosophical Note. I believe without any logical reasoning that creating such an AI Program is possible in my life time itself. Just that I could not imagine our world, when it really happens. Please let me know your thoughts in the comments sections.  
-

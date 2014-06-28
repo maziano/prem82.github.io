@@ -77,4 +77,3 @@ If you are new to this blog, you may want to read the other tips ...
 [Tip 3: Lose Weight with Laziness]({{site.url}}/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)   
 
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  
-

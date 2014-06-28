@@ -5,7 +5,7 @@ date: 2013-01-14
 category: health
 ---
 
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
 src="http://www.youtube.com/v/SbEUHCU_GtM">
 </iframe>
@@ -67,7 +67,7 @@ Once I saw the above video and inspired to know more about raw foods, I stumbled
 
 Hundreds of living evidences are available through out the world in many countries. Below is one such example.  
   
-<div style="text-align: center;"><br/>
+<div style="text-align: center;">
 <iframe width="600" height="400"
 src="http://www.youtube.com/v/O6oJA_xhTa8">
 </iframe>
@@ -86,5 +86,3 @@ How sure I am about her age being 71?. 0%. Yes. This is just a video uploaded in
 [The Protein Domain DUF1220](http://en.wikipedia.org/wiki/DUF1220)  
 [Neanderthals Were Nifty at Controlling Fire](http://www.sciencedaily.com/releases/2011/03/110314152917.htm)  
 [Raw vs. Cooked?](http://www.drfuhrman.com/faq/question.aspx?sid=16&qindex=4)  
-  
-
