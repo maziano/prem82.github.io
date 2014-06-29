@@ -8,7 +8,7 @@ category: thought-experiments
 Saturday evening, Soccer game is yet to start and unfortunately there are no beers in the fridge. Shame on me. Sorry. What to do then?. Let's talk. Me, Anbu and Sangavi were talking about many things which eventually led us to a discussion about religions. Though I am an atheist, I assumed the side of a theist for the sake of discussion and started with the big assumption below. We ended up creating a brand new story which merges Science & Creationism.
 
 <div style="text-align: center;">
-<img src="{{site.img-url}}/Premkumar_Masilamani.jpg"/>
+<img src="{{site.img-url}}/universe-earth-moon.jpg"/>
 </div>
 
 **Assumption:** God exists. He creates, manages and destroys everything that we know. (Definitely not in a way that **any religion** preaches)
@@ -33,7 +33,7 @@ He chose a beautiful, cool, blue planet - The Earth, for his game. He has to cre
 
 He allowed **mutation** to happen in the lowest degree over a long period - to test their survival abilities. He cannot wait around for the characters in the game to develop and mature right?. So, he speeds up the time in the universe. Something like, one century in the world is equal to one second in god's world. Soon enough, the world was filled with so much of diverse living beings, the perfect eco-system, the proper recycling of energy and sustained balance in life.  
 
-He wants to create a life-form in his image, but does not want to disrupt the existing mutation process. So, he picked up a species and carefully allowed ONLY the mutations which will make that species to evolve into his form. He gave them the ability to think and a free will decide their own life. God does not want to interrupt his image in the game, but became curious to see - what will the humans do with their extra-ordinary ability to think.  
+Next, he wanted to create a life-form in his image, but does not want to disrupt the existing mutation process. So, he picked up a species and carefully allowed ONLY the mutations which will make that species to evolve into his form. He gave them the ability to think and a free will decide their own life(Artificial Intelligence). God became curious to see - what will the humans do with their extra-ordinary ability to think.  
 
 One unanswered question to the theory of evolution.  
 
