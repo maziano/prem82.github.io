@@ -17,9 +17,9 @@ Saturday evening, Soccer game is yet to start and unfortunately there are no bee
 
 The theory of god or the origin of everything is not completely known. It's an abstract concept at this moment. It is impossible to explain an abstract concept to another person without using an analogy. So, I picked up an analogy. - The Video Games and Artificial Intelligence. Please relate the analogy with the world that we live in. 
 
-God is a video games developer, AI scientist and specialized in robotics. He creates a video game called "Life". He sets up voice commands to control the state of the game (creation, alteration, destruction etc). He also sets up multiple channels like intuition, signs, dreams, ESP etc through which he can interact with the characters in the game. Now, he has to create an environment for the characters to interact. He needs to design all the galaxies, stars, planets and everything that we see now. Its a tough task. It would be time consuming and tiring. So, he comes up with a brilliant idea - **Randonmess**.
+God is a video games developer, AI scientist and specialized in robotics. He creates a video game called "Life". He sets up voice commands to control the state of the game (creation, alteration, destruction etc). He also sets up multiple channels like intuition, signs, dreams, ESP etc through which he can interact with the characters in the game. Now, he has to create an environment for the characters to interact. He needs to design all the galaxies, stars, planets and everything that we see now. Its a tough task. It would be time consuming and tiring. So, he comes up with a brilliant idea - **Randomness**.
 
-Yes. Instead of creating everything, he creates the "God Particle" and sets multiple characteristics for it. This is smallest, indivisible unit of energy. He created a lot of them and sets up "The Bing Bang". He defines clearly the degree and the boundary of randonmess that these god particles can take. The god particles randomly react, fuse with each other to create an ashtonishingly beautiful collection of atoms, molecules, gas, dust, galaxies, stars, planets etc. They continue to react even now, which creates a lifecycle even for the universe. 
+Yes. Instead of creating everything, he creates the "God Particle" and sets multiple characteristics for it. This is smallest, indivisible unit of energy. He created a lot of them and sets up "The Bing Bang". He defines clearly the degree and the boundary of randomness that these god particles can take. The god particles randomly react, fuse with each other to create an astonishingly beautiful collection of atoms, molecules, gas, dust, galaxies, stars, planets etc. They continue to react even now, which creates a life-cycle even for the universe. 
 
 Brilliant. Isn't it?.
 
@@ -37,7 +37,7 @@ Next, he wanted to create a life-form in his image, but does not want to disrupt
 
 One unanswered question to the theory of evolution.  
 
-When every other species evolved to a stronger (or fitter) form of themselves, why only one branch of species from the apes family eveolved to its weaker form, started walking in two legs which made them slower, left the safe trees to the dangerous open grounds, becoming the easiest prey to any predator of that time, losing the hair in their body which protected them from cold and yet survived long enough to dominate every other species in this world?.  
+When every other species evolved to a stronger (or fitter) form of themselves, why only one branch of species from the apes family evolved to its weaker form, started walking in two legs which made them slower, left the safe trees to the dangerous open grounds, becoming the easiest prey to any predator of that time, losing the hair in their body which protected them from cold and yet survived long enough to dominate every other species in this world?.  
 
 That too, at a speed which has not happened in billions of years?
 
@@ -45,11 +45,11 @@ How did that happen?.
 
 OK. Lets come back to the game.
 
-He sets the game in automatic mode. He sets up listeners which will intimate him on specific events in the game. He sets up game-cheats, which will allow the humans to communicate to god. That information is available to all, but not open to all. The humans has to go to specific trainings, sacrifices, prayers etc to get the ability to communicate to god. He sets up multiple levels in the game. When the humans in the game gains enough knowledge and experience, he promotes them to the next level in the game - which is completely in a different plane. There is no earth, there is no birth, there is no death, you exist in the form on energy as with everything else - still you play the game.  
+He sets the game in automatic mode. He sets up listeners which will intimate him on specific events in the game. He sets up game-cheats, which will allow the humans to communicate to god. That information is available to all, but not open to all. The humans has to go to specific training, sacrifices, prayers etc to get the ability to communicate to god. He sets up multiple levels in the game. When the humans in the game gains enough knowledge and experience, he promotes them to the next level in the game - which is completely in a different plane. There is no earth, there is no birth, there is no death, you exist in the form on energy as with everything else - still you play the game.  
 
 When the learning of any human in the game of life is not complete, but his/her lifetime ends - god puts them back in to the game. The knowledge acquired by every human being will not be the same. God defines the exit criteria/rules to check if the human's learning is complete or not. He does not manually pick every dead human and assign him another life on earth. He sets certain rules and automates the process of re-birth. The process of getting out and coming back to the game of life is the same for everyone. Check the uniformity of the near death experiences (NDE), past life regressions, astral projection experiences etc. Everyone reports the similar feeling of leaving their body, floating towards a bright light etc. Can you relate?
 
-Every single experience of every single human being is recorded in a medium called "Collective Consciousness". With specific trainings, some humans can tap into the collective consciousness and tell exactly what happened in the past. I personally witnessed such an event in my life. I have no doubts about the ability of humans to tap into the past. About the future?. It did not happen yet. 
+Every single experience of every single human being is recorded in a medium called "Collective Consciousness". With specific training, some humans can tap into the collective consciousness and tell exactly what happened in the past. I personally witnessed such an event in my life. I have no doubts about the ability of humans to tap into the past. About the future?. It did not happen yet. 
 
 Along with the life on earth, god created multiple games in different planes. These games will be running simultaneously. Though there are defined boundaries for the game, it is always possible for the objects from one game to communicate with objects from another game. After all, everything is connected. Isn't it?. Can you relate to the **parallel universe or multiverse** concept?.  
 
@@ -59,11 +59,11 @@ Learning. You are put into the game to learn, experience and acquire as much kno
 
 ### Why should I learn?
 
-Thats what your creator wants you to do. You still have the choice to not to learn. But, you do not have the choice of birth, death and rebirth. If you wish to escape, you must learn.
+That's what your creator wants you to do. You still have the choice to not to learn. But, you do not have the choice of birth, death and rebirth. If you wish to escape, you must learn.
 
 ### What is the need for Collective Consciousness?
 
-Who develops an Artifical Intelligence game without capturing the experiences acquired through the game?. Right?. But, what is God going to do with it?. I do not (possibly may not) know the need of collective consciousness while I am on Earth, in the game of life. When I transcend to the next plane after completing my learning, possibly more will be revealed to me. 
+Who develops an Artificial Intelligence game without capturing the experiences acquired through the game?. Right?. But, what is God going to do with it?. I do not (possibly may not) know the need of collective consciousness while I am on Earth, in the game of life. When I transcend to the next plane after completing my learning, possibly more will be revealed to me. 
 
 ### Why can't I feel God?
 
@@ -71,7 +71,7 @@ By design, you cannot. If you go through the specific process defined by God, yo
 
 ### What is the process to communicate to god?
 
-There are millions of ways to communicate to god. I dont have the knowledge of all of them. You can start with a prayer, if you belive in God or Meditation, if you dont believe in God at the moment. The next steps will be revealed to you. Most probably the process and the experience with god will be different for everyone.
+There are millions of ways to communicate to god. I don't have the knowledge of all of them. You can start with a prayer, if you believe in God or Meditation, if you don't believe in God at the moment. The next steps will be revealed to you. Most probably the process and the experience with god will be different for everyone.
 
 ### What happens when I deny god?
 
@@ -87,13 +87,13 @@ That was not God's intention. That's something that we, humans manifested with t
 
 ### I understand, Why can't God help us a little?
 
-Why should God help us?. We have all the means to change every little inconveninces that we do not like. Are we saying that, we are the most powerful and dominant species in this world and yet cluelessly powerless to live in peace and harmony?. If that is the case, according to the evolution theory, we will soon perish and a more conscious, powerful and loving species will evolve from us. 
+Why should God help us?. We have all the means to change every little inconveniences that we do not like. Are we saying that, we are the most powerful and dominant species in this world and yet cluelessly powerless to live in peace and harmony?. If that is the case, according to the evolution theory, we will soon perish and a more conscious, powerful and loving species will evolve from us. 
 
 Tell me one good reason that only humans should dominate, but not the other species?.  
 
 ### Because, God loves us right?
 
-Again, Why?. In god's world, there is no love, no hate, no good and no bad. We, humans manifested these emotions. We intuitively know the best version of ourselves. Loving & helping each others, not disturbing the eco-systems, living a balanced life in nature. We attribute all the human qualities to an entity called "God" and expect god to behave in a way which we are supposed to live. How wierd?
+Again, Why?. In god's world, there is no love, no hate, no good and no bad. We, humans manifested these emotions. We intuitively know the best version of ourselves. Loving & helping each others, not disturbing the eco-systems, living a balanced life in nature. We attribute all the human qualities to an entity called "God" and expect god to behave in a way which we are supposed to live. How weird?
 
 ### So, we are on our own?
 
@@ -117,4 +117,4 @@ When God thinks about it.
 
 **Conclusion:** We know nothing, we conclude nothing. This discussion was based on an initial assumption that God exists and further assumptions of how he might have created everything. These assumptions borrow heavily the facts and open mysteries from science, evolution etc. I compiled only a portion of our discussion which I remember. Brazil vs Chile Soccer game abruptly stopped our discussion. 
 
-**PS:** I am still an athiest. This article is to help theists with one more story of God & Creation, so that I can have a thought provoking debate with them the next time, instead of the voodoo stories in the religious texts.
+**PS:** I am still an atheist. This article is to help theists with one more story of God & Creation, so that I can have a thought provoking debate with them the next time, instead of the voodoo stories in the religious texts.
