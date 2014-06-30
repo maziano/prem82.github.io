@@ -32,6 +32,8 @@ permalink: /categories/
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/science/">Science</a></p>
 
+<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/spirituality/">Spirituality</a></p>
+
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/review/">Reviews</a></p>
 
 </div>
