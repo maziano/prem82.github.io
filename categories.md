@@ -26,6 +26,8 @@ permalink: /categories/
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/books/">Book Reviews</a></p>
 
+<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/audio-books/">Audio Book Reviews</a></p>
+
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/personal/">Personal</a></p>
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/travelogue/">Travelogue</a></p>

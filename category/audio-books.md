@@ -1,14 +1,14 @@
 ---
 layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Book Reviews
-permalink: /category/books/
+title: Audio Book Reviews
+permalink: /category/audio-books/
 ---
 
 <div class="post">
 	<span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a></span>
   	
-    {% for post in site.categories.books %}
+    {% for post in site.categories.audio-books %}
 
     	{% if forloop.index == 0 %}
     		{% assign prev_month = "none" %}

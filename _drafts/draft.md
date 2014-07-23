@@ -4,6 +4,7 @@ title: Draft Post
 date: 2014-01-05
 category: apps
 category: books
+category: audio-books
 category: health
 category: social
 category: personal
@@ -15,6 +16,7 @@ category: thought-experiments
 category: science
 category: review
 category: bucket-list
+category: spirituality
 ---
 
 <div style="text-align: center;">
