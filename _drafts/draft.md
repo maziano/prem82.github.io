@@ -14,6 +14,7 @@ category: travelogue
 category: thought-experiments
 category: science
 category: review
+category: bucket-list
 ---
 
 <div style="text-align: center;">

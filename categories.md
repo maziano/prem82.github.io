@@ -12,6 +12,8 @@ permalink: /categories/
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/apps/">Apps</a></p>
 
+<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/bucket-list/">Bucket List</a></p>
+
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/health/">Health</a></p>
 
 <p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/social/">Social Issues</a></p>

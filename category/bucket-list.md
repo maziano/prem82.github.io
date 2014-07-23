@@ -1,12 +1,14 @@
 ---
-layout: post
-title: My Bucket List
-date: 2012-09-17
-category: personal
+layout: page
+date: 2013-12-12 00:00:00 +0530
+title: Bucket List
+permalink: /category/bucket-list/
 ---
+ 
+[home]({{ site.url }}) &nbsp;&gt;&nbsp; [categories]({{ site.url }}/categories)  
 
-![My Bucket List]({{site.img-url}}/premkumar-masilamani-bucket-list.jpg)
-
+![My Bucket List]({{site.img-url}}/premkumar-masilamani-bucket-list.jpg)  
+  
 ### To Do
 
 1. The Perfect Six-Pack Beach Body  
@@ -30,3 +32,4 @@ category: personal
 
 1. Complete 10K (Completed on 18-May-2014 [Prem TCS 10K 2014]({{site.img-url}}/Premkumar-Masilamani-TCS-10K-2014.jpg))
 2. Get a Big Tattoo  (Completed on 31-May-2014 [Prem Sangavi Tattoo]({{site.img-url}}/prem-sangavi-tattoo.jpg))
+	
