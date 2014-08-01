@@ -72,6 +72,6 @@ The book might be a really a book of miracles for those who really believe in a 
 
 [Chicken Soup For The Indian Soul: A Book Of Miracles (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9381626368?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
 

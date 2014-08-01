@@ -26,4 +26,4 @@ src="{{site.img-url}}/many-lives-many-masters-brian-weiss.jpg"/>
   
 [Many Lives, Many Masters (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/many-lives-masters/p/itmduub6wzkbxbmy?pid=9780749913786&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+

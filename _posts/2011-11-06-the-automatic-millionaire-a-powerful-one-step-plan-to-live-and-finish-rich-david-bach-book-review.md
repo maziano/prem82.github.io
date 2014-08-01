@@ -74,7 +74,7 @@ Thanks David !. For a wonderful book packed with real, practical wisdom.
   
 [The Automatic Millionaire (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/0767923820?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
 **Question: Do you know any other good books on this category?. I would love to know.**  
 

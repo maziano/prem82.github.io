@@ -45,5 +45,5 @@ Izzy recommends [The 52-Week Life Passion Project](http://www.barriedavenport.co
 
 [The Story - 30 Year Old Ninja (Click to buy)](http://30yearoldninja.com/the-audio-story-the-30-year-old-ninja/)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 

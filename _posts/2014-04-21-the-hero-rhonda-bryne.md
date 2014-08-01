@@ -52,7 +52,7 @@ If you really want to benefit from "Law of Attraction" concept, I would suggest 
 
 [The Hero (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/the-secret-hero/p/itmdnk5kdwupep4f?pid=9781471133442&affid=INPremkblo)
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
 [secret]: http://www.amazon.com/gp/product/1582701709/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1582701709&linkCode=as2&tag=booiverea-20
 

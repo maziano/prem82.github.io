@@ -47,5 +47,5 @@ I would say Rashmi Bansal is one of the smartest female in the world, who create
   
 [I Have A Dream (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9380658384?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 

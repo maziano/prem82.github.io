@@ -59,4 +59,4 @@ Below is my take away from this extra-ordinary book.
   
 [Born to Run (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/born-run-christopher-mcdougall-english-profile-books-paperback/p/itmdymamwpv5ux4u?pid=9781861978776&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

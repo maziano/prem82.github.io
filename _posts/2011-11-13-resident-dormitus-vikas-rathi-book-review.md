@@ -36,7 +36,7 @@ I found the book very contradicting. It’s so real and surreal at the same time
   
 [Resident Dormitus (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/8129117541?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
 

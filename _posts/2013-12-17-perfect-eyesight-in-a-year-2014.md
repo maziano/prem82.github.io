@@ -89,5 +89,3 @@ If you are new to EFT, please read this [blogpost]({{site.url}}/the-eft-manual-c
 ### Other means?
 
 These are all the things that are in my mind, right now. I may add other practices, products for improving my eyesight as I get to know more. If you know any tips that could help me, please let me know.  
-
-

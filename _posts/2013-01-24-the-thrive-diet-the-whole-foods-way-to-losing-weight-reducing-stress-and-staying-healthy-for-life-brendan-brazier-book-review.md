@@ -60,5 +60,5 @@ I strongly suggest everyone to read this book, even if you don't have plans to e
  
 [The Thrive Diet (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/thrive-diet-0143052365/p/itmczyrz8kqshygf?pid=9780143052364&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 

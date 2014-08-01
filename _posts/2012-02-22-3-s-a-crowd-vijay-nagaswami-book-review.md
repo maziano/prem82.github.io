@@ -38,6 +38,6 @@ Guess I might write this review as big as a book in an attempt to pen down my th
   
 [3's A Crowd (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/3s-crowd-9381626276/p/itmd5yyumhtx2trn?pid=9789381626276&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
 

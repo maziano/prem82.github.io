@@ -67,5 +67,5 @@ I just wrote down the key messages from the book in Robin Sharma's words. I woul
   
 [The Secret Letters of the Monk Who Sold His Ferrari (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/secret-letters-monk-sold-his-ferrari-8184952929/p/itmd36cpmufhbbte?pid=9788184952926&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 

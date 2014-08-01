@@ -71,5 +71,5 @@ This book is a must read for all :)
   
 [Birth Without Violence (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/birth-without-violence-revised-classic/p/itmdyywyjktabstm?pid=9780892819836&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 

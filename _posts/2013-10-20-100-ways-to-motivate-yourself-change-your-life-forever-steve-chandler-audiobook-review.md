@@ -60,5 +60,5 @@ These are just a few of the 100 + bonus tips explained in this audio book. Get t
   
 [100 Ways to Motivate Yourself - Change Your Life Forever (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/100-ways-motivate-yourself-change-your-life-forever/p/itmdygyuknzrxshj?pid=9781601632449&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 

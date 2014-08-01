@@ -55,7 +55,7 @@ Thank you Dr. Ihaleakala Hew Len for the Ho'oponopono method and Thank you Dr. J
   
 [Zero Limits (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/zero-limits-secret-hawaiian-system-wealth-health-peace-more/p/itmczz9gjqtqhrpp?pid=9780470402566&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
 **References:**  
 <http://hooponopono.org/>  

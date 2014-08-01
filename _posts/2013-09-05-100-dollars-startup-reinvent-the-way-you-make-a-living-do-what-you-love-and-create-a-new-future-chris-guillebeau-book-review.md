@@ -39,5 +39,5 @@ src="https://www.youtube.com/embed/xbwBboFr3fQ">
 
 [$100 Start up (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/the-100-startup/p/itmd32vwqzpbkxvu?pid=9780307951526&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 

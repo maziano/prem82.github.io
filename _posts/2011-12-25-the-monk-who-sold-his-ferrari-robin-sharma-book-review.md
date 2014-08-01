@@ -120,5 +120,5 @@ I felt like writing an entire book, for writing just this review. Whooh. This is
 
 [The Monk Who Sold His Ferrari (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/817992162x?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
