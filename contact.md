@@ -1,53 +1,8 @@
 ---
 layout: page
-date: 2013-12-12 00:00:00 +0530
+date: 2014-08-05 00:00:00 +0530
 title: Contact Me
 permalink: /contact/
 ---
-<span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/contact">contact me</a></span>
-
-<form action="http://www.emailmeform.com/builder/form/bi73zffJbc078cHP6p6fhfr" enctype="multipart/form-data" id="emf-form" method="post" target="_self">
-<table bgcolor="transparent" border="0" cellpadding="2" cellspacing="0" style="text-align: left;">
-<tbody>
-<tr>
-<td colspan="2"><span style="color: black; ">Please send your questions / suggestions to Premkumar Masilamani.</span></td></tr>
-</tbody></table>
-</form>
-<span style="color: black;  ">Name</span>
-<span style="color: red;"><small>*</small></span>
-<br />
-<input class="validate[required]" id="element_0" name="element_0" size="30" type="text" value="" /><br />
-<div style="color: black; padding-bottom: 8px;">
-</div>
-<span style="color: black;  ">Email</span>
-<span style="color: red;"><small>*</small></span>
-<br />
-<input class="validate[required,custom[email]]" id="element_1" name="element_1" size="30" type="text" value="" /><br />
-<div style="color: black; padding-bottom: 8px;">
-<small><span style=""></span></small></div>
-<span style="color: black;  ">Website</span>
-<span style="color: red;"><small></small></span>
-<br />
-<input class="validate[optional,funcCall[url_ex,optional]]" id="element_2" name="element_2" size="30" type="text" value="" /><br />
-<div style="color: black; padding-bottom: 8px;">
-<small><span style=""></span></small></div>
-<span style="color: black;  ">Subject</span>
-<span style="color: red;"><small>*</small></span>
-<br />
-<input class="validate[required]" id="element_3" name="element_3" size="30" type="text" value="" /><br />
-<div style="color: black; padding-bottom: 8px;">
-<small><span style=""></span></small></div>
-<span style="color: black;  ">Message</span>
-<span style="color: red;"><small>*</small></span>
-<br />
-<textarea class="validate[required] " cols="60" id="element_4" name="element_4" rows="10"></textarea><br />
-<div style="color: black; padding-bottom: 8px;">
-<small><span style=""></span></small></div>
-<input name="element_counts" type="hidden" value="5" />
-<input name="embed" type="hidden" value="forms" /><input type="submit" value="Send email" /><input type="reset" value="Clear" />
-<br />
-<br />
-<div style="margin-top: 18px; text-align: left;">
-<div>
-</div>
-</div>
+<script src="http://www.emailmeform.com/builder/forms/jsform/bi73zffJbc078cHP6p6fhfr" type="text/javascript"></script>
+<div style="margin-top:18px;text-align:left"><div id='emf_advertisement'><font face="Verdana" size="2" color="#000000">Powered by</font><span style="position: relative; padding-left: 3px; bottom: -5px;"><img src="//app.emailmeform.com/images/footer-logo.png?RU1GLTAyLTE5LTEwNzA3" /></span><font face="Verdana" size="2" color="#000000">EMF </font><a style="text-decoration:none;" href="http://www.emailmeform.com/" target="_blank"><font face="Verdana" size="2" color="#000000">Online HTML Form</font></a></div></div>
