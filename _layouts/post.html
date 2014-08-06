@@ -25,4 +25,6 @@ layout: default
     <span class="pagination-item older">Newer</span>
   {% endif %}
 </div>
-{% include disqus.html %}
+{% if site.disqus == true %}
+  {% include disqus.html %}
+{% endif %}

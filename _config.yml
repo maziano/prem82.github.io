@@ -27,3 +27,6 @@ relative_permalinks: false
 
 img-url:          http://blog.smileprem.com/public/img
 download-url:     http://blog.smileprem.com/public/downloads
+
+disqus:           true
+analytics:        true
