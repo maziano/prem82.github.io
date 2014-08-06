@@ -209,11 +209,11 @@ I quit TCS. Today is my last day. I wanted my final goodbye email to be very spe
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaBlog</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.url}}" target="_blank">{{site.url}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
-<font color="#3f7f5f">&nbsp;&nbsp;&nbsp;&nbsp;// viaFacebook("https://www.facebook.com/prem82");</font><br />
+<font color="#3f7f5f">&nbsp;&nbsp;&nbsp;&nbsp;// viaFacebook("{{site.facebook}}");</font><br />
 
-<font color="#3f7f5f">&nbsp;&nbsp;&nbsp;&nbsp;// viaTwitter("https://twitter.com/prem82");</font><br />
+<font color="#3f7f5f">&nbsp;&nbsp;&nbsp;&nbsp;// viaTwitter("{{site.twitter}}");</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaLinkedIn</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="http://www.linkedin.com/in/prem82" target="_blank">http://www.linkedin.com/in/prem82</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaLinkedIn</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.linkedin}}" target="_blank">{{site.linkedin}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>if&nbsp;</b></font><font color="#000000">(</font><font color="#000000">emergency</font><font color="#000000">)&nbsp;{</font><br />
 

@@ -111,11 +111,11 @@ Losing contacts does not mean losing friends. I am simply severing one of the co
 
 No. I love writing. I will continue to blog at the below websites. You can subscribe to these blogs, if you find them useful.
 
-1. [Premkumar Masilamani](http://blog.smileprem.com)
-2. [கனவு](http://tamil.smileprem.com)
-3. [Raw Vegan Recipes](http://www.raw-vegan-recipes.com)
+1. [Premkumar Masilamani]({{site.url}})
+2. [கனவு]({{site.tamil}})
+3. [Raw Vegan Recipes]({{site.rawvegan}})
 
-I will also retain my [LinkedIn](http://www.linkedin.com/in/prem82) account for my professional growth.
+I will also retain my [LinkedIn]({{site.linkedin}}) account for my professional growth.
 
 ###What happens to the facebook pages?
 
