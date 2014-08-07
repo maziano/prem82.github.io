@@ -25,7 +25,7 @@ I read all the books by Rhonda Byrne. The first book ["The Secret"][secret] give
 1. [Liz Murray (US)](http://en.wikipedia.org/wiki/Liz_Murray)
 2. [G.M. Rao (India)](http://en.wikipedia.org/wiki/Grandhi_Mallikarjuna_Rao)
 3. [Laird Hamilton (US)](http://en.wikipedia.org/wiki/Laird_Hamilton)
-4. [Anastasia Soare (Romania - settled in US)](http://www.anastasia.net/founder.html)
+4. [Anastasia Soare (Romania - settled in US)](https://www.facebook.com/AnastasiaBeauty)
 5. [Paul Orfalea (US)](http://en.wikipedia.org/wiki/Paul_Orfalea)
 6. [Peter Burwash (Canada)](http://en.wikipedia.org/wiki/Peter_Burwash)
 7. [Mastin Kipp (US)](http://thedailylove.com/)

@@ -33,5 +33,5 @@ Oops. I forgot to mention that this Audio CD comes with a software and workbook 
   
 [Money Mastery Principle-Based Money Management (Click to buy from Amazon)](http://www.amazon.com/gp/product/B000WQ5MEG/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=B000WQ5MEG&link_code=as3&tag=booiverea-20)  
 
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 

@@ -36,7 +36,7 @@ Please click the below links for the recipes;
   
 [Horse gram powder](http://rascookbook.blogspot.co.uk/2012/04/kollu-podi-horsegram-powder.html)  
 
-[Horse gram Sprouts](http://www.suvaiarusuvai.com/2011/12/how-to-make-horse-gram-sprouts.html)  
+[Horse gram Sprouts](http://marudhuskitchen.com/www/making-sproutshow-to-make-horse-gram-sprouts/)  
   
 [Horse gram Rasam (Indian soup)](http://rascookbook.blogspot.co.uk/2012/02/kolluhoresgram-rasam.html)  
   
