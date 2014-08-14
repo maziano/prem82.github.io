@@ -37,13 +37,11 @@ He lives in the historical capital of Japan, Kyoto. He trains in Aikido, 5 hours
 
 Izzy's life is a strong evidence of one thing. Dreams are possible. Which means your dream – no matter how absurd — is possible.  
 
-[The Story](http://30yearoldninja.com/the-audio-story-the-30-year-old-ninja/) is an audio book, recorded by Izzy in his own voice, narrating his own story. Right from the beginning of his career, about the plans to change the education system in America, studying for the masters, quitting his job, living with his parents again, soul searching for his passion, taking a trip to japan, getting a temporary job to save money for Japan, actually moving to japan but ended up in a remote village and finally getting to Kyoto to train in Aikido - he explained every little detail. He explained the emotions & crushing thoughts that he went through. He even explains about thinking to get back to America, while stuck up in the remote village in Japan. Most of the inspiring stories that I read talks about the heroic activities and the inspiring actions only. But, he talks about everything. 
+[The Story](http://30yearoldninja.com/) is an audio book, recorded by Izzy in his own voice, narrating his own story. Right from the beginning of his career, about the plans to change the education system in America, studying for the masters, quitting his job, living with his parents again, soul searching for his passion, taking a trip to japan, getting a temporary job to save money for Japan, actually moving to japan but ended up in a remote village and finally getting to Kyoto to train in Aikido - he explained every little detail. He explained the emotions & crushing thoughts that he went through. He even explains about thinking to get back to America, while stuck up in the remote village in Japan. Most of the inspiring stories that I read talks about the heroic activities and the inspiring actions only. But, he talks about everything. 
 
 Thanks Izzy for a wonderful narration of your life, so far. I am inspired!.
 
-Izzy recommends [The 52-Week Life Passion Project](http://www.barriedavenport.com/passionbook/) by Barrie Davenport. I am planning to read that book next. Follow him at his [blog](http://30yearoldninja.com/blog/) or [facebook](https://www.facebook.com/The30YearOldNinja) or his new website [Why not live an awesome life?](http://whynotliveanawesomelife.com/)
-
-[The Story - 30 Year Old Ninja (Click to buy)](http://30yearoldninja.com/the-audio-story-the-30-year-old-ninja/)  
+Izzy recommends [The 52-Week Life Passion Project](http://www.barriedavenport.com/passionbook/) by Barrie Davenport. I am planning to read that book next. Follow him at his [blog](http://30yearoldninja.com/) or [facebook](https://www.facebook.com/The30YearOldNinja) or his new website [Why not live an awesome life?](http://whynotliveanawesomelife.com/)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
