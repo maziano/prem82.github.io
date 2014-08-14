@@ -21,7 +21,7 @@ permalink: /category/bucket-list/
 8. Bungee Jumping from Royal Gorge Bridge, Colorado, USA  
 9. Mountain Gliding  
 10. Space Jumping
-11. [<del>Complete 10K</del>]({{site.img-url}}/bucketlist/Premkumar_Masilamani_2014_TCS_10K.jpg) (Completed on 18-May-2014)
+11. [<del>Complete 10K</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_TCS_10K.jpg) (Completed on 18-May-2014)
 12. Complete 21K
 13. Complete a marathon
 14. Complete an ultra-marathon of 100+ miles
