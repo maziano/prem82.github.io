@@ -8,8 +8,7 @@ authorpage: http://penurheart.blogspot.com
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/3-s-a-crowd-vijay-nagaswami.jpg"/>   
-
+src="{{site.img-url}}/3-s-a-crowd-vijay-nagaswami.jpg"/>
 **Book:** 3's A Crowd  
 **Author:** Vijay Nagaswami  
 **ISBN:** 9381626276  
@@ -39,5 +38,3 @@ Guess I might write this review as big as a book in an attempt to pen down my th
 [3's A Crowd (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/3s-crowd-9381626276/p/itmd5yyumhtx2trn?pid=9789381626276&affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-
-

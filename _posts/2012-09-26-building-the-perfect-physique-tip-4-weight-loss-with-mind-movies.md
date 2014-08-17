@@ -5,9 +5,7 @@ date: 2012-09-26
 category: health
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/Mind-Movie-Brain.jpg"/>
-</div>  
+![Mind Movie]({{site.img-url}}/Mind-Movie-Brain.jpg)  
   
 ### What is a Mind Movie?  
 

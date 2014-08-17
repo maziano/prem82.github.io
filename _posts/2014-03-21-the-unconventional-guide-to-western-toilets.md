@@ -17,9 +17,7 @@ Out of nowhere, I got the idea for the below posture. Theists can call it - "Div
 
 ###Posture 1
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/using-western-toilets-posture-1.jpg"/>
-</div>
+![Western Toilets Posture 1]({{site.img-url}}/using-western-toilets-posture-1.jpg)  
 
 When you try this posture, please keep your legs as wide as possible. You can rest your palms on your legs or on the floor, if the floor is clean. Since you keep your legs wide, you will have to remove your pants. Yeah. Since you are alone in the loo, that should be OK. Right?. This posture is very comfortable and I use this posture, most of the time. There are some minor inconvenience when you start this method.
 
@@ -29,9 +27,7 @@ When you try this posture, please keep your legs as wide as possible. You can re
 
 ###Posture 2
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/using-western-toilets-posture-2.jpg"/>
-</div>
+![Western Toilets Posture 2]({{site.img-url}}/using-western-toilets-posture-2.jpg)  
 
 This is the enhanced version of the previous posture. This posture reduces the strain on your arms. You can use a bucket or any other object that you have in your bathroom. Please make sure that you bend forward as much as you could (i.e.) use a small bucket or stool. So far, I have not faced any inconveniences using this posture. Please let me know, if there are any.  
 
@@ -39,9 +35,7 @@ Both of these postures will not work, if you are overweight or could not bend do
 
 ###[Squatty Potty](http://www.squattypotty.com/?Click=48367)
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/squatty-potty.jpg"/>
-</div>
+![Squatty Potty]({{site.img-url}}/squatty-potty.jpg)  
 
 [Squatty Potty](http://www.squattypotty.com/?Click=48367) works on the same principle of bringing the torso closer to the thighs. I didn't order Squatty Potty. But tested the concept with a sturdy plastic stool. It works as promised. If you are big and heavy, this is the most viable option for you. It also has minor inconveniences. 
 

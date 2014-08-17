@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/the-power-rhonda-bryne.jpg"/>   
-
+src="{{site.img-url}}/the-power-rhonda-bryne.jpg"/>
 **Book:** The Power  
 **Author:** Rhonda Byrne  
 **ISBN:** 0857201700  
@@ -64,6 +63,7 @@ Why is that a book review about a most sought after positive thinking book, soun
 **To Rhonda Byrne:** Please improve your writing style. Reduce lot of repetitive sentences. I am sure that a newbie to self-help, wouldn't understand much from this book alone. So, don't claim something which your book doesn't do.  
   
 **To the readers:** I would suggest the following sequence, if you really want to know what's happening around.  
+ 
 1. The Secret - DVD by Rhonda Byrne  
 2. The Missing Secret - Audio book by Dr. Joe Vitale  
 3. The Answer - Book by John Assaraf  
@@ -89,4 +89,3 @@ Once you are done with these, please read "*The Power*" by Rhonda Byrne and I am
 [The Power (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/power-rhonda-byrne-book-0857201700?affid=INPremkblo)
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

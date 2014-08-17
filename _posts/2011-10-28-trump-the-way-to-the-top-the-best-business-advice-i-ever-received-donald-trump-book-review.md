@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/trump-the-way-to-the-top-the-best-business-advice-i-ever-received-donald-trump.jpg"/>   
-
+src="{{site.img-url}}/trump-the-way-to-the-top-the-best-business-advice-i-ever-received-donald-trump.jpg"/>
 **Book:** Trump - The Way To The Top - The Best Business Advice I Ever Received  
 **Author:** Donald J. Trump  
 **ISBN:** 1400050162  
@@ -60,4 +59,3 @@ Happy reading !!!
 [Trump - The Way To The Top - The Best Business Advice I Ever Received (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/1400050162?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

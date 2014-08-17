@@ -15,9 +15,7 @@ I was traveling from Coimbatore to Bangalore on 22-Nov-2011 and got down at Silk
 **Time:** 22-Nov-2011 05:19:52 IST  
 **Complaint:** Ticket was not given, unless I asked for it.  
   
-<div style="text-align: center;">
-<img src="{{site.img-url}}/BMTC-Bus-ticket-D5.jpg"/>
-</div>  
+![BMTC Bus Ticket D5]({{site.img-url}}/BMTC-Bus-ticket-D5.jpg)  
   
 The bus was crowded and I was standing near the last row. I asked the conductor, "How much does the ticket cost to Marathahalli?". He said, "10 Rupees". I gave him 10 rupees and was waiting for the ticket. He distributed the tickets to passengers going to other destinations, but not to me. One more guy asked for Marathahalli and he did not get the ticket either. When the conductor was about to move away, I stopped him and asked for ticket. He said, "Give me three more rupees". I looked at him hard and gave him 10 rupees. He scolded me for not giving him exact change, issued the ticket and moved away. The other guy also stopped him and got his ticket. The bus was too crowded, that I did not get into a discussion, but decided to lodge a complaint anyway.  
   
@@ -50,4 +48,4 @@ You might save few bucks traveling without tickets, but see how much BMTC is los
 
 There are some positive feedback that BTIS actually acts on all the complaints. Lets see what happens !  
   
-**<span style="color: blue;">Question: Have you encountered any such issues with any public transport system?. What did you do?</span>**
+**Question:** Have you encountered any such issues with any public transport system?. What did you do?  

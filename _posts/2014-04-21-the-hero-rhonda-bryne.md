@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/the-hero-rhonda-bryne.jpeg"/>   
-  
+src="{{site.img-url}}/the-hero-rhonda-bryne.jpeg"/>
 **Book Name:** The Hero  
 **Author:** Rhonda Byrne  
 **Publisher:** Simon & Schuster  

@@ -5,9 +5,7 @@ date: 2014-05-02
 category: health
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/think-and-thin-women.jpg"/>
-</div>
+![Thick and Thin Women]({{site.img-url}}/thick-and-thin-women.jpg)  
 
 I recently stumbled upon this blog post [The Body Love Blog](http://thebodyloveblog.tumblr.com/post/32881501880/warning-picture-might-be-considered-obscene) where a young lady posted the bikini pose of her big body with fuming comments about what other people have told about her body. I am sorry for what she has gone through and I strongly object anyone who mock at obese people. You can of course provide constructive feedback and help. This blog post triggered a series of thoughts and I dug a little into the fat world and found that a lot of activities are going on which I am not aware of.  
 
@@ -38,9 +36,7 @@ Its their personal choice. Who am I to comment?.
 
 Right. I am writing this post, just to understand the reason behind it. Could this be the reason?. May be...
   
-<div style="text-align: center;">
-<img src="{{site.img-url}}/love-to-eat.jpg"/>
-</div>
+![Love to Eat]({{site.img-url}}/love-to-eat.jpg)  
 
 ### Do "fat acceptance" people love being fat?
 
@@ -72,9 +68,7 @@ No. Its not good to accept & love your obese body. Be discontent with your body 
 
 A little bit. Soon after marriage, I became overweight, on the verge of being classified as obese (based on BMI). I did not like my body and I took every possible effort to reduce my weight. You can read the complete story here, [5 Months of Raw Vegan Experiment]().  
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/premkumar-masilamani-5-months-raw-vegan-transformation.jpg"/>
-</div>
+![Raw Vegan Transformation]({{site.img-url}}/premkumar-masilamani-5-months-raw-vegan-transformation.jpg)  
 
 The first picture - when I went to gym regularly, ate a well balanced diet with protein supplements and regular sleeping pattern.  
 

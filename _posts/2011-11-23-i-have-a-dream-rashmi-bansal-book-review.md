@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/i-have-a-dream-rashmi-bansal.jpg"/>   
-
+src="{{site.img-url}}/i-have-a-dream-rashmi-bansal.jpg"/>
 **Book:** I Have A Dream  
 **Author:** Rashmi Bansal  
 **ISBN:** 9380658384  
@@ -48,4 +47,3 @@ I would say Rashmi Bansal is one of the smartest female in the world, who create
 [I Have A Dream (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9380658384?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

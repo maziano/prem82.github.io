@@ -49,5 +49,3 @@ My suggestion is this - Please don't let them dictate, how should you look, how 
 Your skin color is a gift from your parents. It's a symbol of the society, place and culture you belong to. Dark or White. Feel proud about it !.   
   
 நிறமென்றால் நிறமல்ல. வரம் வாங்கி வந்ததடி. என் அன்னை தந்ததடி !!!  
-
-

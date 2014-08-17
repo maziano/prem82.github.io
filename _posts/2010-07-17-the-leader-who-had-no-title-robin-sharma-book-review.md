@@ -5,8 +5,7 @@ date: 2010-07-17
 category: books
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" src="{{site.img-url}}/the-leader-who-had-no-title-robin-sharma.jpg"/>   
-
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" src="{{site.img-url}}/the-leader-who-had-no-title-robin-sharma.jpg"/>
 **Book:** The Leader Who Had No Title  
 **Author:** Robin Sharma   
 **ISBN:** 8184951191   
@@ -53,4 +52,3 @@ This is not just another book, which you will read and stack it in your library.
 [The Leader Who Had No Title (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/affiliatehits?affid=INPremkblo&amp;isbn=8184951191)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

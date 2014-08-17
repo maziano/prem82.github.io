@@ -5,8 +5,7 @@ date: 2014-06-25
 category: books
 ---
 <img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/born-to-run-christopher-mcdougall.jpg"/>   
-
+src="{{site.img-url}}/born-to-run-christopher-mcdougall.jpg"/>
 **Book:** Born to Run  
 **Author:** Christopher McDougall  
 **ISBN:** 1861978774  

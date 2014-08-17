@@ -19,9 +19,7 @@ However, raw vegan diet would be very tough on her at this moment. I suggested a
 
 Before I explain what this is, lets see how our body digests and absorbs the energy from food. 
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/intermittent-fasting-states.jpg"/>
-</div>
+![Intermittent Fasting States]({{site.img-url}}/intermittent-fasting-states.jpg)  
 
 This is what happens when we eat food. Our body will be in "Fed State" as soon as we eat (spending time & energy to digest the food and absorb the energy). This state lasts for 3 - 5 hours. Next comes the "Post-Absorptive State", where our body is not doing anything related to digestion or absorption. This state lasts for 8 - 12 hours after your last meal. Then comes the most attractive "Fasted State". This is the natural fat burning state of our body, which most of us never experience.  
 

@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/the-4-hour-workweek-timothy-ferris.jpg"/>   
-
+src="{{site.img-url}}/the-4-hour-workweek-timothy-ferris.jpg"/>
 **Title:** The 4-Hour Workweek  
 **Author:** Timothy Ferriss  
 **Hardcover:** 416 pages  
@@ -35,4 +34,3 @@ The in last few "Restricted Reading" chapters, the author lists down the books, 
 [The 4-Hour Workweek (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/affiliatehits?affid=INPremkblo&amp;isbn=0091923530)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

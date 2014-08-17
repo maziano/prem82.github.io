@@ -5,9 +5,7 @@ date: 2010-03-26
 category: personal
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/premkumar-masilamani-lungi.jpg" />
-</div>  
+![Premkumar Masilamani Lungi]({{site.img-url}}/premkumar-masilamani-lungi.jpg)  
 
 "What a beautiful day!.." - A Song from rock band U2 kept playing in my mind, when I sit in a comfy sofa and wander what to do next. This is not new for me, I do this very often. Somehow today, I felt like Tom Hanks in "Cast Away". Yeah.. really.. What do you call a guy who is wearing a week old dirty lungi and a brand new yellow color Reebok T-Shirt supporting "Chennai Super Kings", has not brushed till 10.30 AM, has no wallet, has no mobile phone, and hungry?. Hmm.. that's me, today March 24, 2010.  
 
@@ -46,4 +44,3 @@ Sean Stephenson's facebook message in the morning, made sense now. Dude, you are
 Back in Sofia's home. Go to the first paragraph !  
 
 **PS:** I wrote this, when I was waiting for Arun to come back from office. Just like that. Post your comments :)  
-

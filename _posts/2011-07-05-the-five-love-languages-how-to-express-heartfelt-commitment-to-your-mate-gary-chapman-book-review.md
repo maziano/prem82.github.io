@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/the-five-love-languages-gary-chapman.jpg"/>   
-
+src="{{site.img-url}}/the-five-love-languages-gary-chapman.jpg"/>
 **Book:** The Five Love Languages  
 **Author:** Gary Chapman  
 **ISBN:** 8186775099  
@@ -53,4 +52,3 @@ Dr. Chapman provides a quiz & scoring system for men and women at the end to hel
 [The Five Love Languages (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/8186775099?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

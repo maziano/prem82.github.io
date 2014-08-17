@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/the-greatness-guide-robin-sharma.jpg"/>   
-
+src="{{site.img-url}}/the-greatness-guide-robin-sharma.jpg"/>
 **Book:** The Greatness Guide  
 **Author:** Robin S. Sharma  
 **ISBN:** 8179925765  
@@ -84,4 +83,3 @@ I actually wanted to list down my favorite chapter, but ended up writing almost 
 [The Greatness Guide (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/greatness-guide-robin-s-sharma-book-8179925765?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

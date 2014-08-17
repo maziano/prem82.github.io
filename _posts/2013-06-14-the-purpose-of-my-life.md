@@ -5,8 +5,7 @@ date: 2013-06-14
 category: self-improvement
 ---
 
-<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/human-feelings.jpg"/>   
+![The Purpose of My Life]({{site.img-url}}/human-feelings.jpg)  
 
 **Theist:** God's purpose is your purpose.  
 **Agnostic:** Should there be a purpose?. I don't mind.   
@@ -74,7 +73,7 @@ I can be a writer, poet, photographer, bodybuilder, raw vegan, entrepreneur, ang
 
 OK. I identified my purpose in my life. To be precise, I had written down the mission statement of my life. What changes now?. A simple paradigm shift in the thought process !. More clarity on how to pursue my interests in my life. No more confusions. Is this mission statement final?. No. It may, I think it will change in future, based on my new experiences.  
 
-What is the difference between theists having a purpose assigned by religion and me having a purpose decided by myself?. It's the difference between between being a robot and a human being.  
+What is the difference between theists having a purpose assigned by religion and me having a purpose decided by myself?. It's the difference between being a robot and a human being.  
 
 I think, I am moving into a new context - **a matured atheist with a mission statement!**. Lets see how it goes.  
 

@@ -5,9 +5,7 @@ date: 2014-02-17
 category: thought-experiments
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/theism-vs-atheism-car-analogy.jpg" width="100%" />
-</div>
+![Theism Vs Atheism Car Analogy]({{site.img-url}}/theism-vs-atheism-car-analogy.jpg)  
 
 Imagine, you are in a vast grassland. So vast that the land seem to stretch beyond the horizon. The grass is small and the land is even (comfortably motor-able). The weather is good. You see a car parked with full tank of gasoline. You can drive as fast as you want, in any direction you want and as long as the gasoline lasts. There is no destination to reach. You are here to enjoy the ride. You start driving the car, enjoying the music and cool breeze. You are in full control of your life. You feel blissful for the moment.  
 
@@ -32,6 +30,4 @@ This is all of us.
 That "you" is me.
 
 Most of us are running a race, rather than enjoying the ride. A race, not limited only to religion, but spans across several non-essential aspects of life. The journey has started already and it is going to end eventually. I don't want to waste time running this race anymore. I simply want to enjoy the ride. How?. I don't know. I hope I will be able to do it before the journey ends !!!  
-
- 
 

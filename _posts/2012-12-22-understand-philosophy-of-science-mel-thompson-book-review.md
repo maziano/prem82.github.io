@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/understand-philosophy-of-science-mel-thompson.jpg"/>   
-
+src="{{site.img-url}}/understand-philosophy-of-science-mel-thompson.jpg"/>
 **Book:** Understand Philosophy of Science - A Teach Yourself Guide  
 **Author:** Mel Thompson  
 **ISBN-13:** 9781444157659  

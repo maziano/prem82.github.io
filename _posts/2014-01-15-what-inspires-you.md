@@ -5,9 +5,7 @@ date: 2014-01-15
 category: self-improvement
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/inspire.jpg"/>
-</div>
+![Inspire]({{site.img-url}}/inspire.jpg)  
 
 Few moments back, I was reading Rhonda Byrne's latest book "The Hero". Though, it was a different flavor of the famous "Law of Attraction" with Gratitude and Visualization, it was interesting to me. While going through the book, the below quote from Mastin Kipp (Page 77) struck me really hard.
 
@@ -36,4 +34,3 @@ Why do I like Adolf Hitler?. I liked him always. I like Saddam Hussain. I like V
 When you sit down and think about each of the aspect of your favorite heroes, you get to know a lot about yourselves. You may be able to link your inspiration to your current life and make decisions based on it. Sometimes, it will reveal an aspect of yourself which you did not realize that you had. Nevertheless, it was a good exercise to recap my favorite heroes.
 
 Do you know who and what inspires you?  
-

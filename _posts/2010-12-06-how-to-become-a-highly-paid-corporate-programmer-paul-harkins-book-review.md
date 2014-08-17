@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/how-to-become-a-highly-paid-programmer-paul-harkins.jpg"/>   
-
+src="{{site.img-url}}/how-to-become-a-highly-paid-programmer-paul-harkins.jpg"/>
 **Book:** How To Become A Highly Paid Corporate Programmer  
 **Author:** Paul H. Harkins  
 **ISBN:** 8184041314  
@@ -47,4 +46,3 @@ Even though this book targets four different categories of programmers, I would 
 [How To Become A Highly Paid Corporate Programmer (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/become-highly-paid-corporate-programmer-book-8184041314?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

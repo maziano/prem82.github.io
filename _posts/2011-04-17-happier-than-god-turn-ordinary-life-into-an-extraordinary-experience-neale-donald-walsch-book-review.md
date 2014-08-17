@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/happier-than-god-neale-donald-walsch.jpg"/>   
-
+src="{{site.img-url}}/happier-than-god-neale-donald-walsch.jpg"/>
 **Book:** Happier Than God - Turn Ordinary Life Into An Extraordinary Experience  
 **Author:** Neale Donald Walsch  
 **ISBN:** 1571745807  
@@ -59,4 +58,3 @@ Some of these may not make sense at first. If you read the explanations, you wou
 [Happier than God - Turn Ordinary Life into an Extraordinary Experience (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/happier-than-god-neale-donald-book-1571745807?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/creative-capitalism-michael-kinsley.jpg"/>   
-
+src="{{site.img-url}}/creative-capitalism-michael-kinsley.jpg"/>
 **Book:** Creative Capitalism: A Conversation With Bill Gates, Warren Buffet, And Other Economic Leaders  
 **Author:** Michael Kinsley, Conor Clarke  
 **ISBN:** 141659941X  
@@ -46,4 +45,3 @@ We need more people like Gates to come together and persist in the idea, so that
 [Creative Capitalism (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/141659941x?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

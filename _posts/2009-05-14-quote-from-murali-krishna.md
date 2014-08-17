@@ -5,12 +5,9 @@ date: 2009-05-14
 category: self-improvement
 ---
 
+![Driving Motorcycle in Sunrise]({{site.img-url}}/driving-motorcycle-sunrise.jpg)  
 
-<div style="text-align: center;">
-	<img src="{{site.img-url}}/driving-motorcycle-sunrise.jpg"/>
-</div>  
-
-> When you are the fastest, you don't need rear view mirrors.  
+> When you are the fastest, you don't need rear view mirrors. - **Murali**  
 
 Murali told me this sentence during our ECR trip to IG Resorts. He mentioned this sentence with respect to bike driving in heavy traffic in Chennai roads. This provoked a lot of thoughts in me. Even after three days, I am thinking about this sentence.  
 
@@ -23,4 +20,3 @@ That's how our life should be. Our life is not about competing with others. No o
 When we clearly understand that there is no competition for us, we can ONLY move forward !!!. We can choose our own road and travel as fast as we love to :)  
 
 Let me know your thoughts !!!  
-

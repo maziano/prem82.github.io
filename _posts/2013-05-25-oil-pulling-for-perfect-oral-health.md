@@ -5,9 +5,7 @@ date: 2013-05-25
 category: health
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/oil-pulling-woman.jpg"/>
-</div>  
+![Oil Pulling]({{site.img-url}}/oil-pulling-woman.jpg)  
 
 The more I research about natural lifestyle, the more I come to know. The recent one is "Oil Pulling". I am excited !..  
   

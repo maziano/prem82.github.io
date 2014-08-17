@@ -5,10 +5,8 @@ date: 2012-08-28
 category: health
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/eat-breakfast-early.jpg"/>
-</div>  
-  
+![Eat Breakfast Early]({{site.img-url}}/eat-breakfast-early.jpg)  
+
 Our first tip is from Timothy Ferriss [The 4-Hour Body][4hr-url]. This is quite a simple tip and would not be very tough to follow. Just eat your breakfast as soon as you wake up, preferably within 30 minutes.  
 
 [4hr-url]: http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20

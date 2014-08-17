@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/the-purpose-driven-life-rick-warren.jpg"/>   
-
+src="{{site.img-url}}/the-purpose-driven-life-rick-warren.jpg"/>
 **Book:** The Purpose Driven® Life: What on Earth Am I Here For?  
 **Author:** Rick Warren  
 **ISBN:** 0310210747  
@@ -64,4 +63,3 @@ For Christians, this is a must read. That's what 25 million fellow Christians te
 [The Purpose Driven® Life (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/purpose-driven-life-rick-warren-book-0310210747?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

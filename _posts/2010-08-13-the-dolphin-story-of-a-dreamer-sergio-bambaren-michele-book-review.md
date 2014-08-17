@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/the-dolphin-sergio-bambaren.jpg"/>  
-
+src="{{site.img-url}}/the-dolphin-sergio-bambaren.jpg"/>
 **Book:** The Dolphin - Story Of A Dreamer  
 **Author:** Sergio Bambaren, Michele  
 **ISBN:** 9380480046  
@@ -58,4 +57,3 @@ I have read the reviews for this book, many people found this very spiritual and
 [Jonathan Livingston Seagull (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/jonathan-livingston-seagull-richard-bach-book-817223578x?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

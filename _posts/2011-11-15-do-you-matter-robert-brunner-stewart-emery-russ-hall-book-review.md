@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/do-you-matter-robert-brunner-stewart-emery-russ-hall.jpg"/>   
-
+src="{{site.img-url}}/do-you-matter-robert-brunner-stewart-emery-russ-hall.jpg"/>
 **Book:** Do You Matter?: How Great Design Will Make People Love Your Company  
 **Author:** Robert Brunner, Stewart Emery, Russ Hall  
 **ISBN:** 013706506X  
@@ -25,7 +24,6 @@ After reading this book, your perception about design would change drastically a
 > Close your eyes and imagine that you are holding an iPod. Now take away iTunes, take away the ability to buy the song for 99 cents without having to pay for the entire CD, lose the ability to create playlist, cut out the packaging, delete the Apple logo and shutter all the aesthetically designed Apple stores. "Is it still an iPod?". No, it's not, because and iPod is an portal to the kaleidoscope of experience.  
 
 The physical product or service is the central and most crucial part. But the successful design is about everything that comes in contact with the customers. How the customers feel when they enter your stores or buy your product online, how they feel when they open the package and take out the product, how they feel when they use it, if something goes wrong, what's the experience with the customer service. When you expand your idea of design to everything, then design becomes everyone's job. If you can make people emotionally attached to the experience of buying and using your product, then you have a successful design. You can compare the examples of Motorola Razr and the iPod. Both are brilliantly designed products. But what happened to Razr?. Well. they didn't get the idea of design quite well.  
-  
 Lets check what's in this book.  
   
 ### Design Matters  
@@ -54,4 +52,3 @@ If you are into Industrial Design or an Entrepreneur or Just curious to know abo
 [Do You Matter? - How Great Design Will Make People Love Your Company (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/013706506x?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

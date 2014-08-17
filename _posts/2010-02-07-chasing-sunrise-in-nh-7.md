@@ -37,9 +37,7 @@ Another half an hour, drove through green lands and small towns. The Sky slowly 
 
 This happens in life, very often. "Looking for a better future, we miss to live and love today!". He stood there for a while and left to Krishnagiri to attend his friend Anuraghavendran's marriage.  
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/anuraghavendran-marriage.jpg"/>
-</div>  
+![Anuraghavendran Marriage]({{site.img-url}}/anuraghavendran-marriage.jpg)  
 
 **PS:** This is my first travelogue in story telling style. I don't know when to end the story. So ended it here. The marriage was great and my friend Anu looks the same as he was five years ago. Smart and smiling. I wish Anu and Shalini love each other till the end of their lives.  
 

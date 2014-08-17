@@ -5,9 +5,7 @@ date: 2013-12-06
 category: challenges
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/becoming-a-writer.jpg"/>
-</div>  
+![Becoming A Writer]({{site.img-url}}/becoming-a-writer.jpg)  
 
 > "I hate writing, I love having written." ― **Dorothy Parker**
 

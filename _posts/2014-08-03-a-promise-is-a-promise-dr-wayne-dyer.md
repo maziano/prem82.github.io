@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/a-promise-is-a-promise-dr-wayne-dyer.jpg"/>   
-
+src="{{site.img-url}}/a-promise-is-a-promise-dr-wayne-dyer.jpg"/>
 **Book:** A Promise Is A Promise  
 **Author:** Dr. Wayne W.Dyer  
 **ISBN:** 8189988115  

@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/Zero-Limits-Joe-Vitale-Ihaleakala-Hew-Len.jpg"/>   
-  
+src="{{site.img-url}}/Zero-Limits-Joe-Vitale-Ihaleakala-Hew-Len.jpg"/>
 **Book Name:** Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More  
 **Author:** Joe Vitale, Ihaleakala Hew Len  
 **Publisher:** John Wiley & Sons  
@@ -34,8 +33,7 @@ Imagine this, you walk in the "Las Vegas Strip", enjoying the casinos and having
   
 ### Ho'oponopono Method  
 
-This method is based on love and forgiveness. When something happens to you and it does not feel right for you, you can clean that part of you with love and forgiveness. When the cleansing is complete the experience reverses. You will be surrounded by peace. It is done by simply saying these four sentences in your mind or out loud, when you rehearse the experience in your mind or when that event is happening.  
-  
+This method is based on love and forgiveness. When something happens to you and it does not feel right for you, you can clean that part of you with love and forgiveness. When the cleansing is complete the experience reverses. You will be surrounded by peace. It is done by simply saying these four sentences in your mind or out loud, when you rehearse the experience in your mind or when that event is happening.    
 I Love You.  
 I am Sorry.  
 Please Forgive Me.  

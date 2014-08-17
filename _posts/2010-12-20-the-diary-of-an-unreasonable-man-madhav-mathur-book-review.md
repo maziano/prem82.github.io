@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/the-diary-of-an-unreasonable-man-madhav-mathur.jpg"/>   
-
+src="{{site.img-url}}/the-diary-of-an-unreasonable-man-madhav-mathur.jpg"/>
 **Book:** The Diary Of An Unreasonable Man  
 **Author:** Madhav Mathur  
 **ISBN:** 0143065440  
@@ -30,4 +29,3 @@ Overall, its a good novel to read in a weekend. I think you can finish the novel
 [The Diary Of An Unreasonable Man (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/diary-unreasonable-man-madhav-mathur-book-0143065440?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

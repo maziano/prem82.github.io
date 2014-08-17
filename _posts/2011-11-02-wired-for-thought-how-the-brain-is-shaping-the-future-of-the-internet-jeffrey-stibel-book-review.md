@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/wired-for-thought-jeffrey-stibel.jpeg"/>   
-
+src="{{site.img-url}}/wired-for-thought-jeffrey-stibel.jpeg"/>
 **Book:** Wired For Thought: How The Brain Is Shaping The Future Of The Internet  
 **Author:** Jeffrey M. Stibel, Erik Calonius, Peter Delgrosso  
 **ISBN:** 1422146642  
@@ -51,7 +50,6 @@ Further, he discusses in detail about the Social Networks and the advantages "fa
   
 ### Part IV - Internet:  
 This is the very interesting section of the entire book, which discusses where the Internet is heading to?. Some of the predictions are...    
-
 * Internet algorithms will mature and start discarding/penalizing links that are irrelevant, unnatural or fake. (W3C or ICANN?)  
 * Websites will pull information from various sites to create collages of new information, dynamically (a semantic web).  
 * The hyperlinks will evolve to incorporate dynamic weighting based on how many people click or how relevant the link is. (think as a color code, red - best, blue - Good, yellow - OK etc)  
@@ -69,4 +67,3 @@ When I first started reading this book, I thought Stibel is going to present the
 [Wired For Thought: How The Brain Is Shaping The Future Of The Internet (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/1422146642?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

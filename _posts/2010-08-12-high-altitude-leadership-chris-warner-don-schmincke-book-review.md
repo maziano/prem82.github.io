@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/high-altitude-leadership-chris-warner-don-schmincke.jpg"/>  
-
+src="{{site.img-url}}/high-altitude-leadership-chris-warner-don-schmincke.jpg"/>
 **Title:** High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success  
 **Author:** Christopher Warner, Don Schmincke  
 **FSN:** 9780470345030  
@@ -52,4 +51,3 @@ If your organization/team is in trouble and you need immediate help, please don'
 [High Altitude Leadership (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/high-altitude-leadership-christopher-warner-book-0470345039?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

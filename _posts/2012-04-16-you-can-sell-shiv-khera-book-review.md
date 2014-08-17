@@ -8,8 +8,7 @@ authorpage: http://penurheart.blogspot.com
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/you-can-sell-shiv-khera.jpg"/>   
-  
+src="{{site.img-url}}/you-can-sell-shiv-khera.jpg"/>
 **Book:** You Can Sell  
 **Author:** Shiv Khera  
 **ISBN:** 9381626511  
@@ -46,6 +45,3 @@ Though I'm generally not in favor of self-help books there are always exceptions
 [You Can Sell (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/you-can-sell-9381626511/p/9789381626511?pid=9789381626511&affid=INPremkblo)
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-
-
-

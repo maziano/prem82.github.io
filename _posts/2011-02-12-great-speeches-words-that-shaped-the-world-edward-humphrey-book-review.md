@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/great-speeches-edward-humphreys.jpg"/>   
-
+src="{{site.img-url}}/great-speeches-edward-humphreys.jpg"/>
 **Book:** Great Speeches  
 **Author:** Edward Humphreys  
 **ISBN:** 1848372922  
@@ -52,4 +51,3 @@ So, grab the book and enjoy. Here are the links to buy them.
 [Great Speeches - Words That Shaped The World (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/great-speeches-edward-humphreys-book-1848372922?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

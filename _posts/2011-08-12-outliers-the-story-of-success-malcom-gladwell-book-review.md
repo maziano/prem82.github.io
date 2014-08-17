@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/outliers-malcom-gladwell.jpg" border="1"/>   
-
+src="{{site.img-url}}/outliers-malcom-gladwell.jpg" border="1"/>
 **Book:** Outliers: The Story Of Success  
 **Author:** Malcolm Gladwell  
 **ISBN:** 0141036249  
@@ -52,4 +51,3 @@ Overall, a very good book. But I cannot agree with everything that he says. Its 
 [Outliers - The Story Of Success (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/0141036249?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

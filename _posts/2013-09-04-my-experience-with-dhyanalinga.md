@@ -5,9 +5,7 @@ date: 2013-09-04
 category: travelogue
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/Inside-Dhyanalinga.jpg"/>
-</div>  
+![Inside Dhyanalinga]({{site.img-url}}/Inside-Dhyanalinga.jpg)  
 
 ### What is Dhyanalinga?  
 
@@ -66,9 +64,7 @@ We saw *Sarva Tharma Sthamba*, just before the entrance, signifying singularity 
 
 Finally we are into Dhyanalinga. The side walls on the path to Dhyanalinga has stone sculptures depicting many scenes in Hindu mythologies. This is not congruent with the Sarva Tharma Sthamba we saw outside. The volunteers allow people to go inside Dhyanalinga in batches, every five minutes. There are 27 enclosures on the side walls of Dhyanalinga. You can either sit inside the enclosures or in the open space for meditation. The five minute time is for the people who just came to visit. If you want to meditate longer, you can do it. No one will disturb your meditation.   
   
-<div style="text-align: center;">
-<img src="{{site.img-url}}/dhyanalinga-temple.jpg"/>
-</div>  
+![Dhyanalinga Temple]({{site.img-url}}/dhyanalinga-temple.jpg)  
   
 I was surprised to see the pillar-less construction of such a big dome. My surprise increased thousand times, when I heard that this was constructed with out Steel & Concrete. This was built with the ancient Indian technique with brick, mud, lime, clay and some herbs. It is properly ventilated and illuminated - perfect for meditation. It is said that this structure will withstand for at least 5000 years. There was such a silence inside Dhyanalinga where I could hear my wife's earring swinging. It was very serene.  
 
@@ -88,4 +84,3 @@ Though I did not experience what I wanted to experience, I will try once more. N
 **References:**  
 <http://www.dhyanalinga.org/>  
 <http://www.ishafoundation.org/>  
-

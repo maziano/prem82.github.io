@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/the-power-of-a-positive-no-william-ury.jpg"/>   
-
+src="{{site.img-url}}/the-power-of-a-positive-no-william-ury.jpg"/>
 **Book:** The Power Of A Positive No  
 **Author:** William Ury  
 **ISBN:** 0340923806  
@@ -49,4 +48,3 @@ I would recommend this book to everyone. Five stars !!!
 [The Power of a Positive No (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/power-positive-no-william-ury-book-0340923806?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

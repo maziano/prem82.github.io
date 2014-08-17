@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/connect-the-dots-rashmi-bansal.jpg" border="1" />  
-
+src="{{site.img-url}}/connect-the-dots-rashmi-bansal.jpg" border="1" />
 **Book:** Connect The Dots  
 **Author:** Rashmi Bansal   
 **ISBN:** 8190453025   
@@ -36,4 +35,3 @@ Guys - Its a must read for everyone.
 [Connect the Dots (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/connect-dots-rashmi-bansal-book-8190453025?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

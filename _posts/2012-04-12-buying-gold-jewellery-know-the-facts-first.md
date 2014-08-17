@@ -5,34 +5,26 @@ date: 2012-04-12
 category: social
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/buying-gold-jewellery.jpg"/>
-</div>  
-  
+![Buying Gold Jewellery]({{site.img-url}}/buying-gold-jewellery.jpg)  
+
 Generally, I do not prefer Gold, in fact my engagement ring is the first gold ornament in my body. It's a custom in India for the bride & groom to wear Gold Jewels during wedding. I had no options but to buy. I head out to "Joy Alukkas". I was discussing about the Gold Jewelry Business in India, with the floor manager and I am surprised to know that majority of the people does not even understand the basics. In fact, my parents were cheated by "L.K.S Jewellers" when they bought 916 KDM Gold Rings few years back. So, this blog may be a beginner's first hand information, when you buy Gold Jewels in India.  
   
 *I would like to explain few technical jargon related to Gold Jewels...*  
   
 **Carat (K):** Its the unit of purity of gold. As per the calculation below, 24K Gold is nearly 99.9% pure gold. 24K Gold is suggested for Golden Ornaments of more than 10 *Sovereigns* and remember there is no guarantee for the Jewels, since they may lose the shape even with normal usage.  
   
-<div style="text-align: center;">
-<img src="{{site.img-url}}/buying-gold-jewellery-carat-calculation-24k.jpg"/>
-</div>  
+![Gold Carat Calculation]({{site.img-url}}/buying-gold-jewellery-carat-calculation-24k.jpg)  
 
 **916 KDM (or) 22K Gold:** Most of the Gold Jewels made in India are of 22K Gold. Cadmium or Kadium (KDM) use to be one of the metal mixed with Gold to make it strong, so that beautiful intricate designs can be made. Cadmium is safe in the finished gold products, but very dangerous in the manufacturing process. Some countries banned Cadmium to be used in gold ornaments. In that case, the alloy would be the combination of Silver, Copper and Zinc. (The % of these metals varies, depends on the manufacturer). 916 KDM Gold is a gold alloy of Gold and (Silver + Copper + Zinc) with roughly 91.6% of pure gold which is 22K Gold. Though we do not use Cadmium in most cases, we still use the name KDM. Look at the below calculation.  
   
-<div style="text-align: center;">
-<img src="{{site.img-url}}/buying-gold-jewellery-carat-calculation-22k.jpg"/>
-</div>  
+![Gold Carat Calcutation 22K]({{site.img-url}}/buying-gold-jewellery-carat-calculation-22k.jpg)  
 
 **18K Gold:** 18K Gold is 75% of pure Gold and 25% of other metals. Using the above formula, you can decide the percentage of pure gold in your gold ornaments.  
   
 **BIS Hallmark:** The Government of India formed Bureau of Indian Standards (BIS) in the year 1987, which is the only institution in India, authorized to hallmark golden Jewelry. The Jewellers has to obtain a license from BIS for a fee and hallmark the jewel they make with BIS logo. BIS maintains market surveillance on the certified jewellers, on random basis. Market surveillance involves collection of Hallmarked Gold Jewelry from licensee's retail outlet/manufacturing premises and having it tested for conformity in BIS recognized hallmarking center. Deviations in degree of purity of gold and operation not in conformance to the system may result in cancellation of BIS license.  
   
-<div style="text-align: center;">
-<img src="{{site.img-url}}/buying-gold-jewellery-carat-BIS-Hallmark.jpg"/>
-</div>  
-  
+![Gold BIS Hallmark]({{site.img-url}}/buying-gold-jewellery-carat-BIS-Hallmark.jpg)  
+
 Most of the Gold Smiths print the word "916" or "916 KDM" on the Jewels without the logo. Many jewellers will show you these printed numbers and claim that they are 916 KDM Jewels. Do not listen to the jewellers. Just look for the above logo. If you do not find the logo in the Jewels, it means that the specific Jewel is NOT verified for the purity of gold and you are being cheated.  
 
 *Please purchase the Gold Ornaments, ONLY if it is hallmarked with BIS logo.*  
@@ -55,10 +47,12 @@ Less than 8% -- You are brilliant in negotiation. Please teach me the tricks!
 More than 13% -- You are being cheated.  
   
 It was like this, when we bought *Thali Kodi* for my wife and a *Short Chain* for me. I saved my hard earned money of Rs. 3,816 from the Jewellers.  
-  
-<div style="text-align: center;">
-<img src="{{site.img-url}}/buying-gold-jewellery-negotiation.jpg"/>
-</div>  
+
+|Person|Thali Kodi|Short Chain|Time Taken|
+|:-----|:---------|:----------|:---------|
+|Salesman|13%|16%|5 Minutes|
+|Manager|10%|13%|5 Minutes|
+|Manager|9.5%|13%|10 Minutes|  
 
 ### Remember the below:  
 
@@ -66,7 +60,6 @@ It was like this, when we bought *Thali Kodi* for my wife and a *Short Chain* fo
 * Never feel shy to negotiate for Gold. Its your money. Even after you negotiated for a good %, you could as for a flat discount.  
 * The Jewellers are already millionaires. By paying them more "free money" you are making them rich. In turn they will open more Showrooms. Who benefits?. Think!. Definitely, you lose.   
 * Instead, you could bargain & donate the money to your favorite charity. Society benefits !.  
-
 
 ### While Exchanging Gold:  
 
@@ -78,20 +71,17 @@ We decided to exchange the unused rings and bangles for the new gold. Joy Alukka
 * The Gold must be exchanged for the current gold price. Never accept any price lesser than that.  
 * If you are in a hurry and they do not reduce, please ask them a letter mentioning the charges that you are paying for exchanging the gold and tell them that you will take that up with BIS.  
 * If you are not in a hurry, move on to the next shop.  
-  
 
 Once this is settled, another surprise was waiting for me. One of the Golden Ring (1 Sovereign) that my dad purchased from L.K.S Jewellers many years ago, with the printed word "916 KDM" failed in the purity test. It had only 80% gold and the rest was mixed with Silver!. This jewel is from one of established Jewellers in Chennai. Hard to believe right?. Joy Alukkas melted the ring and showed the proof in the purity meter. Here is the picture.  
   
-<div style="text-align: center;">
-<img src="{{site.img-url}}/LKS-Jewellery-916-KDM-cheat.jpg"/>
-</div>  
+![LKS Jewellery 916 KDM Cheat]({{site.img-url}}/LKS-Jewellery-916-KDM-cheat.jpg)  
   
 My Dad used to buy most of the jewelry from one of the showrooms of L.K.S Jewelry, since it was close to our house. My dad trusted the jewelry shop so much that every single jewel in our house is from that shop. But, *L.K.S Jewellers cheated my dad and lost a loyal customer.*  
   
 Many people that I know, would bargain with street vendors, fish markets etc for few rupees, but reluctant to bargain in a Jewelry shop. My mom is one of them. Why is that?. Couple of reasons, that I came to know.  
 
 * Ego. You feel small, when you are negotiating in a jewelry shop. You don't want others to think that you do not have enough money or you are a miser. Just a self thought by few people.   
-* Arguing / negotiating reduces the value of the occasion (wedding or valentine's day gift etc). If you buy the gold at the said price without negotiation, you value the occasion more than the money. You feel great. Crap!. Isn't it?. But, it is a true for few people that I know. When you buy the items like "Thali Kodi" or idol of any god, many jewellers advise you not to argue and surprisingly, people listen.   
+* Arguing / negotiating reduces the value of the occasion (wedding or valentine's day gift etc). If you buy the gold at the said price without negotiation, you value the occasion more than the money. You feel great. Crap!. Isn't it?. But, it is a true for few people that I know. When you buy the items like "Thali Kodi" or idol of any god, many jewellers advise you not to argue and surprisingly, people listen.  
 
 **Question:** *Have you ever bargained in any jewelry shop?. Any interesting incidents?. Any additional tips that must be in this blog?. Please let me know in the comments section.*  
  

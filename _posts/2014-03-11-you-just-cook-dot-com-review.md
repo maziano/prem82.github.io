@@ -5,9 +5,7 @@ date: 2014-03-11
 category: review
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/The-Art-and-Science-of-Cooking.png"/>
-</div>  
+![The Art and Science of Cooking]({{site.img-url}}/The-Art-and-Science-of-Cooking.png)  
 
 You love cooking?. Great. Go on. Read. 
 
@@ -40,9 +38,7 @@ Next day, you will receive a parcel with fresh cut/sliced/chopped vegetables, sl
 
 My wife ordered "Mudaliar Pepper Mutton Fry" on Friday night 1 AM. She got a call in the morning 8.30 AM to confirm. They need one day advance order to buy and prepare for us. They do not use frozen meat/vegetables. All are prepared fresh. She was busy with Saturday orders, and still agreed to take our order and deliver it by 1'O Clock. Everyone in the family were very interested to see what's in the package. Never seen such a crowd in the kitchen :)
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/mudaliar-pepper-mutton-fry-ingredients.jpg"/>
-</div>  
+![Mudaliar Pepper Mutton Fry]({{site.img-url}}/mudaliar-pepper-mutton-fry-ingredients.jpg)  
 
 My wife is extra cautious while cooking meat. She makes sure that the meat is cleaned properly (I do that actually). No need to worry about that anymore. The meat was as clean as I could clean. She just followed the recipe. Cooking was very easy & enjoyable. Since this is a mutton fry, we let it SIM for 45 minutes. End of it, we had a home cooked gourmet recipe, without the usual hassles of cooking. 
 

@@ -5,9 +5,7 @@ date: 2014-04-28
 category: apps
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/where-do-my-friends-work.jpg"/>
-</div>
+![Where Do My Friends Work?]({{site.img-url}}/where-do-my-friends-work.jpg)  
 
 You are fresh, out of college, have a bunch of friends. Most of you decide to work for some company and few of you may start your own company. You are in touch with all your friends, knowing exactly what your friends do for a living. Great!.
  

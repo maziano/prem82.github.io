@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/ignore-everybody-hugh-macleod.jpg" border="1"/>   
-
+src="{{site.img-url}}/ignore-everybody-hugh-macleod.jpg" border="1"/>
 **Book:** Ignore Everybody - And 39 Other Keys To Creativity  
 **Author:** Hugh Macleod  
 **ISBN:** 159184259X  
@@ -47,4 +46,3 @@ I wont suggest that this is a must-read. But its worth casual read on the weeken
 [Ignore Everybody - And 39 Other Keys To Creativity (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/ignore-everybody-hugh-macleod-39-book-159184259x?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

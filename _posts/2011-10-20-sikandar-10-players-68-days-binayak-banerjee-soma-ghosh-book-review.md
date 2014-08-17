@@ -8,8 +8,7 @@ authorpage: http://penurheart.blogspot.com
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/sikandar-10-players-68-days-binayak-banarjee-soma-ghosh.jpg"/>   
-
+src="{{site.img-url}}/sikandar-10-players-68-days-binayak-banarjee-soma-ghosh.jpg"/>
 **Book:** Sikandar - 10 Players, 68 Days  
 **Author:** Binayak Banerjee, Soma Ghosh  
 **ISBN:** 9380658735  
@@ -35,5 +34,3 @@ To sum up in a single line ‘Sikandar is a kaleidoscope’. It shows different 
 [Sikandar - 10 Players, 68 Days (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9380658735?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-
-

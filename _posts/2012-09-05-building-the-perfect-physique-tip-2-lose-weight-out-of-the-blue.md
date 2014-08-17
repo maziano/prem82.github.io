@@ -17,10 +17,7 @@ If your instinct is strong, you may feel reduction in appetite when you eat food
   
 ### <span style="color: blue;">Use blue color to reduce weight:</span>  
   
-<div style="text-align: center;">
-<img src="{{site.img-url}}/blue-aids-weight-loss-sexy-girl-back.jpg"/>
-<i>Stare at her and you will lose weight !!!</i>
-</div>  
+![Blue Color aids Weight Loss - Sexy Girl]({{site.img-url}}/blue-aids-weight-loss-sexy-girl-back.jpg)  
 
 Funny things apart, there are few simple things that we can do. This requires just the initial set-up and let the blue color work for you. You are free to choose the shade of blue you like. Don't make the dining room, a dull place. Be as creative as you can and make it interesting.  
 
@@ -29,31 +26,23 @@ Funny things apart, there are few simple things that we can do. This requires ju
 * Paint your dining area in blue color. (if possible)  
 * Wear blue shaded sunglasses (WTF?)  
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/blue-aids-weight-loss-blue-dining-table.jpg"/>
-</div>  
-  
+![Blue Color aids Weight Loss - Dining Table]({{site.img-url}}/blue-aids-weight-loss-blue-dining-table.jpg)  
+
 ### <span style="color: blue;">Sunglasses to lose weight:</span>  
 
 It may sound strange, but people do wear blue color shaded sunglasses to avoid themselves from overeating. They claim that it works and started selling weight-loss-sunglasses. As with any advancement in technology, it started in Japan. Check out the advertisement by clicking the image.  
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/blue-aids-weight-loss-blue-sunglasses.jpg"/>
-</div>  
+![Blue Color aids Weight Loss - Sunglasses]({{site.img-url}}/blue-aids-weight-loss-blue-sunglasses.jpg)  
 
 Why am I interested in this thing, with the claims of a bunch of unknown people, and unknown doctors and no proved evidence in science?. Just because, Johnny Depp tried this to reduce weight for one of his movies (he he he he... the blue color could be a co-incidence also). I am not mad enough to wear a blue color sunglasses all day, but I would try other options in the dining area.  
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/blue-aids-weight-loss-johnny-Depp-Blue-Sunglass.jpg"/>
-</div>  
+![Blue Color aids Weight Loss - Johny Depp Sunglasses]({{site.img-url}}/blue-aids-weight-loss-johnny-Depp-Blue-Sunglass.jpg)  
 
 ### <span style="color: blue;">Which color increases appetite?</span>  
 
 We know the color that reduces appetite and obviously we would like to know the opposite. right?. I will leave that to you to google and find out. But looking at the logos of the big fast food chains may give you a clue !  
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/blue-aids-weight-loss-red-appetizing-color.jpg"/>
-</div>  
+![Blue Color aids Weight Loss - Red Appetizing Color]({{site.img-url}}/blue-aids-weight-loss-red-appetizing-color.jpg)  
 
 [Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
 
@@ -62,5 +51,3 @@ We know the color that reduces appetite and obviously we would like to know the 
 **Sources:**  
 <http://www.huffingtonpost.com/2012/04/02/blue-sunglasses-weight-loss_n_1397364.html>  
 <http://www.colormatters.com/color-and-the-body/color-and-appetite-matters>  
-
-

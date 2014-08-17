@@ -5,8 +5,7 @@ date: 2013-07-28
 category: audio-books
 ---
 
-<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/as-a-man-thinketh-james-allen.jpg"/>   
+![As A Man Thinketh - James Allen]({{site.img-url}}/as-a-man-thinketh-james-allen.jpg)  
 
 This is not a complete book, but a booklet. With this content, the author could have easily expanded into hundreds of pages. But, he wanted to make his point precisely in a short text - The Power of Thoughts. This is a much written upon subject in the market now. We could easily find hundreds of good books and thousands of junk books on this subject. This book, by James Allen is the pioneer to all of them. Even after so many decades this book is still being studied by most of the personal development gurus around the world. This book is being recommended again and again by many of my favorite authors.  
   
@@ -34,4 +33,3 @@ You can download the books in different formats from The Project Gutenberg
 [Free Audio Book](http://ia600309.us.archive.org/5/items/as_a_man_thinketh_mc_librivox/as_a_man_thinketh_mc_librivox_64kb_mp3.zip)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

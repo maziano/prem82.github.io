@@ -5,9 +5,7 @@ date: 2013-08-05
 category: challenges
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/premkumar-masilamani-5-months-raw-vegan-transformation.jpg"/>
-</div>  
+![Premkumar Masilamani - 5 Months Raw Vegan Transformation]({{site.img-url}}/premkumar-masilamani-5-months-raw-vegan-transformation.jpg)  
 
 25th August 2012 - Some seemingly very unimportant event happened in my life. I couldn't tie my shoe laces while sitting in a chair. I was huffing & puffing when I am done. Yeah. I had a big belly. I could not believe the condition of my physique. I started thinking. Just like the butterfly effect in Chaos Theory, this event triggered a series of events in my life, which led me to change my lifestyle drastically. I started doing one little thing at a time. Below are the list of changes that I attempted from last year.  
   

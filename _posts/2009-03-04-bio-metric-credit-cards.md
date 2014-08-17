@@ -5,9 +5,7 @@ date: 2009-03-04
 category: science
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/Iris-Scanner.jpg"/>
-</div>  
+![Iris Scanner]({{site.img-url}}/Iris-Scanner.jpg)  
 
 I hate carrying multiple credit cards in my wallet. We must get rid of this plastic cards and move on to the future. The magnetic strips in the credit cards basically identify you & tells the merchant if you have enough credit to purchase any product. The merchant gets the information from the credit card issuer via a phone line.  
 
@@ -30,4 +28,3 @@ Imagine that you violate the traffic law for some reason.. the cop need not even
 Who the hell in the world needs retina scan... I prefer to carry credit cards ;)  
 
 Old is gold ;)  
-

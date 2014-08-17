@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/birth-without-violence-frederick-leboyer.jpg"/>   
-
+src="{{site.img-url}}/birth-without-violence-frederick-leboyer.jpg"/>
 **Book:** Birth Without Violence  
 **Author:** Frederick Leboyer M.D.  
 **ISBN:** 0892819839  
@@ -34,9 +33,7 @@ If children are angels, shouldn't their entry to this world be a fairy tale?.
 
 Frederick Leboyer, who has himself delivered more than 10,000 babies, shows us that child birth does not have to be a terrifying experience. Before I say a word, please look at the below comparison.
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/birth-without-violence-comparison.jpg"/>
-</div>
+![Birth without Violence]({{site.img-url}}/birth-without-violence-comparison.jpg)  
 
 Can you sense the difference?.  
 
@@ -59,9 +56,7 @@ Some of the small changes he did were
 
 The whole books reads like a poem. Mesmerizing. I couldn't close the book. When you are done reading, you are sure to have a smile on your face. If you are planning for a baby or not, please read this book. This is one of the few books that changed the world permanently. Look at the 12 hrs old baby who was born in a natural way.  
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/birth-without-violence-calm-baby.jpg"/>
-</div>
+![Birth without Violence Calm Baby]({{site.img-url}}/birth-without-violence-calm-baby.jpg)  
 
 Me and my wife are glad that we got to know this before our first child. We are definitely going to make our child's entry to this world a very pleasant one. I am very much thankful for Frederick Leboyer for writing this book. I thank my friends Reba and Paul for successfully deliver a cute baby girl in the most natural way possible and all the information and encouragement that we received from them regarding child birth.  
 

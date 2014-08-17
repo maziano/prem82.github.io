@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/musings-of-a-wanderer-shreya-chatterjee.jpg" border="1"/>   
-
+src="{{site.img-url}}/musings-of-a-wanderer-shreya-chatterjee.jpg" border="1"/>
 **Book:** Musings Of A Wanderer  
 **Author:** Shreya Chatterjee  
 **ISBN:** 9381205006  
@@ -32,10 +31,8 @@ I could have simply written a review "nice book", "good to read" etc. Would that
   
 Shreya - Sometime down the line, I expect another poetry book from you. My review of that book should have only one word "awesome". All the best !  
   
-[Musings Of A Wanderer (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9381205006?affid=INPremkblo) 
-  
-  
+[Musings Of A Wanderer (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9381205006?affid=INPremkblo)  
+
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

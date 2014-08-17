@@ -5,9 +5,7 @@ date: 2013-09-29
 category: self-improvement
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/blueprint-for-life-smileprem-premkumar-masilamani.jpg"/>
-</div>  
+![Blueprint For Life]({{site.img-url}}/blueprint-for-life-smileprem-premkumar-masilamani.jpg)  
 
 ### What is a Blueprint for Life?  
   

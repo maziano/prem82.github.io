@@ -11,14 +11,9 @@ It's not that I am new to Indian Toilets. I was using it from my childhood. I st
   
 ### Anal Rectal Angle while Sitting and Squatting:
   
-<div style="text-align: center;">
-<img src="{{site.img-url}}/anal-rectal-angle-sitting-squatting-comparison.jpg"/>
-</div>  
+![Anal Rectal Angle - Sitting Vs Squatting]({{site.img-url}}/anal-rectal-angle-sitting-squatting-comparison.jpg)  
+![Indian Vs Western Toilet]({{site.img-url}}/Indian-vs-Western-Toilet.jpg)  
   
-<div style="text-align: center;">
-<img src="{{site.img-url}}/Indian-vs-Western-Toilet.jpg"/>
-</div>  
-
 ### History of Western Toilets:
 
 Have you ever noticed that children instinctively squat to defecate?. In the absence of toilets, we squat to defecate. Isn't it?. Our ancestor performed their daily morning routing by squatting for thousands of years. During 19th century, with the advent of indoor plumbing in UK, the sitting type toilets were installed in many houses and considered as the improved way of defecating and praised for creativity. Though the incompleteness and additional strain was obvious, no one questioned it, because it was used by the Queen Victoria for many decades. Earlier this sitting type was reserved only for the royals and the disabled.  
@@ -51,4 +46,3 @@ Dr. Rad concluded that the use of the squat toilet "is a more comfortable and ef
 **References:**  
 [Health Benefits of the Natural Squatting Position](http://www.naturesplatform.com/health_benefits.html)  
 [Human defecation postures](http://en.wikipedia.org/wiki/Human_defecation_postures)  
-

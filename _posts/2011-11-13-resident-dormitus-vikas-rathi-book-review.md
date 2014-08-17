@@ -8,8 +8,7 @@ authorpage: http://penurheart.blogspot.com
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/resident-dormitus-vikas-rathi.jpg"/>   
-
+src="{{site.img-url}}/resident-dormitus-vikas-rathi.jpg"/>
 **Book:** Resident Dormitus  
 **Author:** Vikas Rathi  
 **ISBN:** 8129117541  
@@ -39,5 +38,3 @@ I found the book very contradicting. It’s so real and surreal at the same time
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
-
-

@@ -5,9 +5,7 @@ date: 2011-10-24
 category: social
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/HDFC-logo.jpg"/>
-</div>  
+![HDFC Logo]({{site.img-url}}/HDFC-logo.jpg)  
 
 Why this post?. What is it that I want to communicate to the world about HDFC Bank?. Just my recent bitter experiences with HDFC. I have been banking with HDFC for the past 7 years. I am one of the high value card member who always pays in full and never defaulted a single payment in my life. Here is what happened...  
   
@@ -63,5 +61,4 @@ Both the HDFC Bank and I know that, it was a fraud on my card. *I don't want HDF
 * The customers know that banks come to the settlement for a less amount when customers are not ready to pay the dues. I do not want to force HDFC bank to such a situation, since my morality does not allow that.  
 * Please remember "The Customer is the King" and treat him as such. Once the dues are settled, I will move on to another bank. You have just lost a customer. Please don't lose many more. All the best !  
   
-**Question: Whom do you bank with?. Do you have any such bitter / better experiences?**  
-
+**Question:** Whom do you bank with?. Do you have any such bitter / better experiences?  

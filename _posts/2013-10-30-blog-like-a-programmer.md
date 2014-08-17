@@ -4,9 +4,8 @@ title: Blog like a Programmer
 date: 2013-10-30
 category: technology
 ---
-<div style="text-align: center;">
-<img src="{{site.img-url}}/computer-programmer-hacking-screen.jpg"/>
-</div>  
+
+![Computer Programmer Hacking]({{site.img-url}}/computer-programmer-hacking-screen.jpg)  
 
 [If you are not a programmer, this article may not interest you. Please skip and do something useful]  
 
@@ -53,8 +52,7 @@ where all I need is
   
 {% highlight html wrap  %}
 
-<img style="float: left;" src="{{site.img-url}}/100-Ways-to
--Motivate-Yourself-Chandler-Steve.jpg"/>
+<img style="float: left;" src="{{site.img-url}}/image.jpg"/>
 
 {% endhighlight %}  
   
@@ -120,8 +118,4 @@ I used the very basic template that comes with Jekyll. I have plans to customize
 
 **Feeling EPIC** - Yeah. Seriously. I fell in love with the character "Neo" in the Movie "The Matrix" when I saw it the first time (esp. the black console with green text flowing down). I even wrote matrix screen savers in C, during my college days to simulate that experience in my computer. Those good old days are back. This simple act of blogging like a programmer, brought back my love for programming. Write, Edit, Commit, Push - Viola, My blog is published. It's nostalgic. This is my console where I wrote this blog post.  
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/bloggin-from-vim.jpg"/>
-</div><div style="margin-bottom:1em;"></div>  
-
-
+![Blogging from VIM]({{site.img-url}}/bloggin-from-vim.jpg)  

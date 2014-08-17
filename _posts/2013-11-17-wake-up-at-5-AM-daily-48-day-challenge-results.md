@@ -5,9 +5,7 @@ date: 2013-11-17
 category: challenges
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/wake-up-5-am-results-smileprem.jpg"/>
-</div>  
+![Wake Up at 5 AM Results]({{site.img-url}}/wake-up-5-am-results-smileprem.jpg)  
 
 "Thank you" [Robin Sharma][robin-sharma-link] for making me understand the importance of waking up early and [Steve Pavlina][steve-link] for giving me the practical tip to wake up early. I started this challenge on 20-Aug-2013 and missed to wake up early on 29-Sep-2013. I am human right?. I restarted the challenge and finished it successfully on 10-Nov-2013. Past few weeks were the most productive weeks in my life. I was able to achieve more than I thought was possible. Though, I did not become a celebrity in the last few weeks (obviously that was not my goal), I am better/matured than who I was before.  
 

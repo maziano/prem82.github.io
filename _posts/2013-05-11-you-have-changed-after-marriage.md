@@ -22,10 +22,7 @@ What confused me is that I became a better person, but she felt that we grow apa
 ### The Analysis:  
 
 I have to find out what is happening with us.But, I don't know where to start. Simply, I listed down the activities I like to do and asked her to do the same thing. Once we had two lists, I plotted them in a Venn diagram. Here is what our "Relationship Venn Diagram" looks like.  
-
-<div style="text-align: center;">
-<img src="{{site.img-url}}/Relationship-Venn-Diagram.jpg"/>
-</div>  
+![Relationship Venn Diagram]({{site.img-url}}/Relationship-Venn-Diagram.jpg)  
 
 ### The Findings:  
 
