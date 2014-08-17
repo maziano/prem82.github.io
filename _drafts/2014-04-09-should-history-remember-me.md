@@ -5,9 +5,7 @@ date: 2014-04-09
 category: self-improvement
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/tank-man.jpg"/>
-</div>
+![Tank Man]({{site.img-url}}/tank-man.jpg)  
 
 Do you want your name to be etched in golden words in the pages of History?
 

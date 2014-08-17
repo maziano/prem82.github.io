@@ -6,8 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/many-lives-many-masters-brian-weiss.jpg"/>   
-
+src="{{site.img-url}}/many-lives-many-masters-brian-weiss.jpg"/>
 **Book:** Many Lives, Many Masters  
 **Author:** Dr. Brian Weiss  
 **ISBN:** 0749913789  

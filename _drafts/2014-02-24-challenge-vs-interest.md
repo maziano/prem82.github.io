@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Draft Post
+title: Challenge Vs Interest
 date: 2014-02-24
 category: self-improvement
 ---
-
-<div style="text-align: center;">
-<img src="{{site.img-url}}/Premkumar_Masilamani.jpg"/>
-</div>
 
 **Challenge** - a call to prove or justify something.  
 

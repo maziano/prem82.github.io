@@ -19,8 +19,3 @@ category: bucket-list
 category: spirituality
 ---
 
-<div style="text-align: center;">
-<img src="{{site.img-url}}/Premkumar_Masilamani.jpg"/>
-</div>
-
-
