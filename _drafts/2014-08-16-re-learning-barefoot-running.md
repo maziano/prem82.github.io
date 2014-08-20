@@ -7,7 +7,7 @@ category: health
 
 ![Barefoot Runners]({{site.img-url}}/barefoot-running-couples.jpg)  
 
-> A single thought can change the course of your life. **- Unknown**
+> A single thought can change the course of your life. **-Unknown**
 
 ### Shoed Running  
 
@@ -57,7 +57,7 @@ That was a 5 kms run. I didn't feel exhausted, didn't feel thirsty and felt like
 
 This is what I wrote in facebook, immediately after the first barefoot run. 
 
-> My first facebook comment on barefoot running -**Prem**
+> I felt connected to the earth - felt the chillness of sand, roughness of tar road, water droplets of the grass, painful steps on the loose gravels, rhythmic motion of my feet. It was amazing !!! Decided to walk barefoot as much as I could :) -**Prem**
 
 From then on, there is no looking back. I did not wear a running shoe after that. Through some more reading on barefoot running, I got hold of [Born to Run]({{site.url}}/born-to-run-christopher-mcdougall/) book by Christopher McDougall. What can I say about that book?. It's a barefooter's bible. My belief about barefoot running strengthened 100X after reading this book. 
 
