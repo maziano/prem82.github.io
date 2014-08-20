@@ -3,6 +3,15 @@ layout: post
 title: The Five Love Languages - How to Express Heartfelt Commitment to Your Mate
 date: 2011-07-05
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Languages-Express-Heartfelt-Commitment-Comprehensive/dp/B006Q2LTRO/ref=sr_1_3?s=books&ie=UTF8&qid=1407406167&sr=1-3&keywords=the+five+love+languages&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -47,8 +56,4 @@ Dr. Chapman provides a quiz & scoring system for men and women at the end to hel
 4. Receiving Gifts - 3  
 5. Acts of Service - 1  
   
-[The Five Love Languages (Click to buy from Amazon)](http://www.amazon.com/Languages-Express-Heartfelt-Commitment-Comprehensive/dp/B006Q2LTRO/ref=sr_1_3?s=books&ie=UTF8&qid=1407406167&sr=1-3&keywords=the+five+love+languages&tag=booiverea-20)  
-  
-[The Five Love Languages (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/8186775099?affid=INPremkblo)  
-
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)

@@ -3,6 +3,15 @@ layout: post
 title: Wired for Thought - How the Brain Is Shaping the Future of the Internet
 date: 2011-11-02
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/1422146642/ref=as_li_tf_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1422146642
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -62,8 +71,4 @@ This is the very interesting section of the entire book, which discusses where t
 
 When I first started reading this book, I thought Stibel is going to present the SEO concepts in Brain flavor. But, I was wrong. I have a completely new perspective of the Internet. With this information and perspective, we can fine-tune our websites for long time survival in the Web. Many of these things are already happening. Let's jump in and have fun. Thanks to Stibel for a wonderful book.  
   
-[Wired For Thought: How The Brain Is Shaping The Future Of The Internet (Click to buy from Amazon)](http://www.amazon.com/gp/product/1422146642/ref=as_li_tf_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1422146642)  
-  
-[Wired For Thought: How The Brain Is Shaping The Future Of The Internet (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/1422146642?affid=INPremkblo)  
-
-Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)
