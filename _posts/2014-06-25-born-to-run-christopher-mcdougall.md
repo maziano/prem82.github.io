@@ -3,6 +3,15 @@ layout: post
 title: Born to Run
 date: 2014-06-25
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0307279189/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307279189&linkCode=as2&tag=booiverea-20&linkId=O5HKT7TPYZ6JX3ZM
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 <img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.img-url}}/born-to-run-christopher-mcdougall.jpg"/>
@@ -16,7 +25,7 @@ src="{{site.img-url}}/born-to-run-christopher-mcdougall.jpg"/>
 **Number of Pages:** 304 Pages  
 **Language:** English  
 
-I read many books which inspired me to such an extent that changed my life forever, for good. This book happened in reverse order. I became a barefoot runner first, felt immediate improvements on my knee pain, started researching more about barefoot running and then got hold of this amazing book, [Born to Run](http://www.flipkart.com/born-run-christopher-mcdougall-english-profile-books-paperback/p/itmdymamwpv5ux4u?pid=9781861978776&affid=INPremkblo) by Christopher McDougall. Now, I am 100% convinced and happy with the decision of becoming a barefoot runner. Thank you Christopher !!!  
+I read many books which inspired me to such an extent that changed my life forever, for good. This book happened in reverse order. I became a barefoot runner first, felt immediate improvements on my knee pain, started researching more about barefoot running and then got hold of this amazing book, [Born to Run]({{ page.aff-us}}) by Christopher McDougall. Now, I am 100% convinced and happy with the decision of becoming a barefoot runner. Thank you Christopher !!!  
 
 > 'A bible for the barefoot running community' - **Ben Fogle, Telegraph.**
 
@@ -53,9 +62,5 @@ Running was the super power that made us human - which means its a super power a
 Below is my take away from this extra-ordinary book.
 
 > 'Every morning in Africa, a gazelle wakes up. It knows it must outrun the fastest lion or it will be killed.  Every morning in Africa, a lion wakes up. It knows it must outrun the slowest gazelle or it will starve. It doesn't matter whether you're a lion or a gazelle - when the sun comes up, you'd better be running' - **Roger Bannister (first man to break the four minute mile)**
-
-[Born to Run (Click to buy from Amazon)](http://www.amazon.com/gp/product/0307279189/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307279189&linkCode=as2&tag=booiverea-20&linkId=O5HKT7TPYZ6JX3ZM)  
   
-[Born to Run (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/born-run-christopher-mcdougall-english-profile-books-paperback/p/itmdymamwpv5ux4u?pid=9781861978776&affid=INPremkblo)  
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

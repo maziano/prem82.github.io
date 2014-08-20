@@ -3,6 +3,15 @@ layout: post
 title: Happier Than God - Turn ordinary life into an extraordinary experience
 date: 2011-04-17
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Happier-than-God-Extraordinary-Experience/dp/1401933661?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -52,9 +61,5 @@ Good read. Too big to explain in a short review of this book. If you liked *"The
 17. Know what to do when things are really bad  
   
 Some of these may not make sense at first. If you read the explanations, you would agree. Its is true that you will feel happier after reading this book. I closed this book with a smile on my face. I wish you should have similar experience. Order the book now !!!  
-  
-[Happier than God - Turn Ordinary Life into an Extraordinary Experience (Click to buy from Amazon)](http://www.amazon.com/Happier-than-God-Extraordinary-Experience/dp/1401933661?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
-  
-[Happier than God - Turn Ordinary Life into an Extraordinary Experience (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/happier-than-god-neale-donald-book-1571745807?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

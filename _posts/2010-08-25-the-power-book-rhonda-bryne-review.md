@@ -3,6 +3,15 @@ layout: post
 title: The Power
 date: 2010-08-25
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Power-Rhonda-Byrne/dp/1439181780?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -83,9 +92,5 @@ Once you are done with these, please read "*The Power*" by Rhonda Byrne and I am
 [The Answer (Click to buy from Amazon)](http://www.amazon.com/Answer-Business-Achieve-Financial-Extraordinary/dp/B002PJ4IQQ?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969)  
 
 [The Answer (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/answer-john-assaraf-murray-smith-book-1847372147?affid=INPremkblo)   
-
-[The Power (Click to buy from Amazon)](http://www.amazon.com/Power-Rhonda-Byrne/dp/1439181780?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969)  
-
-[The Power (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/power-rhonda-byrne-book-0857201700?affid=INPremkblo)
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

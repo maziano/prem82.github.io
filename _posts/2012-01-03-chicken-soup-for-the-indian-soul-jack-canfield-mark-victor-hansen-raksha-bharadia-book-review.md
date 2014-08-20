@@ -5,6 +5,15 @@ date: 2012-01-03
 category: books
 author: Sruthi Kitcha
 authorpage: http://penurheart.blogspot.com
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/B0048PK45E?ie=UTF8&tag=booiverea-20&linkCode=xm2&camp=1789&creativeASIN=B0048PK45E
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -66,9 +75,5 @@ Literary critic is a little difficult with respect to this particular book becau
 The book might be a really a book of miracles for those who really believe in a supreme power while might make the agnostics scratch their chins with skepticism. And for those trying to take a double stand, this book definitely has the potential to convince you to turn a believer of miracles. You can find conviction and genuineness in all the 101 stories. I would conclude that any event and every event in life is a miracle, for I consider: “*Life itself is a MIRACLE.*”  
   
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
- 
-[Chicken Soup For The Indian Soul: A Book Of Miracles (Click to buy from Amazon)](http://www.amazon.com/gp/product/B0048PK45E?ie=UTF8&tag=booiverea-20&linkCode=xm2&camp=1789&creativeASIN=B0048PK45E)  
-
-[Chicken Soup For The Indian Soul: A Book Of Miracles (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9381626368?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

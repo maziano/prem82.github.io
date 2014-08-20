@@ -3,6 +3,15 @@ layout: post
 title: On Desire - Why We Want What We Want
 date: 2012-07-30
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0195327071/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195327071&linkCode=as2&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -39,9 +48,4 @@ This book will have an impact on all things that you see, do and feel. This will
   
 If you get a different perception after reading this book, please let me know in the comments section.  
   
-[On Desire: Why We Want What We Want (Click to buy from Amazon)](http://www.amazon.com/gp/product/0195327071/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195327071&linkCode=as2&tag=booiverea-20)  
-  
-[On Desire: Why We Want What We Want (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/on-desire-0195327071/p/itmczytfxvmv3zgy?pid=9780195327076&affid=INPremkblo)  
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

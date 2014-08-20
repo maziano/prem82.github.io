@@ -3,6 +3,15 @@ layout: post
 title: Creative Capitalism - A Conversation with Bill Gates, Warren Buffet, and Other Economic Leaders
 date: 2011-07-01
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/1416599428/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1416599428
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -39,9 +48,5 @@ But Gates proposes a different approach, where the businesses using its technolo
 Hundreds of pages discussing about each and every specific good and bad things in Gates speech. How is it different from Corporate Social Responsibility (CSR)?. Why do we need a different form of capitalism?. etc. I feel good about Bill Gates intention to eradicate poverty in the world through Creative Capitalism. But just the intention is not enough. A complete real world implementation plan is needed to make that a reality. Apart from the speech made at Davos, what else has been done in the past three years?. Where are we in this idea?. What Gates has done other than making a speech?.  
   
 We need more people like Gates to come together and persist in the idea, so that it becomes a goal of every corporation in this world. I would suggest everyone interested in business or has that entrepreneurial instincts to read this book. It will prepare you to help others and at the same time, survive the competition.  
-  
-[Creative Capitalism (Click to buy from Amazon)](http://www.amazon.com/gp/product/1416599428/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1416599428)  
-  
-[Creative Capitalism (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/141659941x?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

@@ -3,6 +3,15 @@ layout: post
 title: 100 Ways to Motivate Yourself - Change Your Life Forever
 date: 2013-10-20
 category: audio-books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/1565114213/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1565114213&linkCode=as2&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -55,9 +64,4 @@ Everybody needs motivation to achieve their goals. As humans, we cannot be high 
   
 These are just a few of the 100 + bonus tips explained in this audio book. Get the book to explore more !!!  
 
-[100 Ways to Motivate Yourself - Change Your Life Forever (Click to buy from Amazon)](http://www.amazon.com/gp/product/1565114213/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1565114213&linkCode=as2&tag=booiverea-20)  
-  
-[100 Ways to Motivate Yourself - Change Your Life Forever (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/100-ways-motivate-yourself-change-your-life-forever/p/itmdygyuknzrxshj?pid=9781601632449&affid=INPremkblo)  
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

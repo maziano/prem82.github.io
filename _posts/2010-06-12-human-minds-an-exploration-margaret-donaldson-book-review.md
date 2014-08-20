@@ -3,6 +3,15 @@ layout: post
 title: Human Minds - An Exploration
 date: 2010-06-12
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0140170332?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0140170332
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -32,7 +41,5 @@ I felt that I am in Margaret's class on Human Minds rather than reading a book. 
 Overall, I am happy that I came to know a lot about the human brain development. I would suggest you to read the first half of the book. The second half is your choice.  
 
 Let me know, if this review is helpful !!!  
-
-[Human Minds: An Exploration (Click to buy from Amazon)](http://www.amazon.com/gp/product/0140170332?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0140170332)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

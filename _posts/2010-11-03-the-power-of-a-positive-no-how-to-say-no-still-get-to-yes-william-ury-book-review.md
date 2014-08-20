@@ -3,6 +3,15 @@ layout: post
 title: The Power of a Positive No - How to Say No & Still Get to Yes
 date: 2010-11-03
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Power-Positive-No-Still-publication/dp/0340923792?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -42,9 +51,5 @@ Confused?. Read the book. he he he.
 Ury explains these in detail with lots of real world situations. He guides us way from preparing, delivering and following-through our Positive NO. Lots of techniques like Going to Balcony, Name the Game, Use of I-statement, we-statements, the-statements, the acceptance speech test etc. and tips to say NO effectively are explained in detail which will make sure that a mutually beneficial agreement is reached.  
   
 I would recommend this book to everyone. Five stars !!!  
-  
-[The Power of a Positive No (Click to buy from Amazon)](http://www.amazon.com/Power-Positive-No-Still-publication/dp/0340923792?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
-  
-[The Power of a Positive No (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/power-positive-no-william-ury-book-0340923806?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

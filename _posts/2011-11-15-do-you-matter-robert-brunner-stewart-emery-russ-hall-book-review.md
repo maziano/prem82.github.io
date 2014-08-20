@@ -3,6 +3,15 @@ layout: post
 title: Do You Matter? - How Great Design Will Make People Love Your Company
 date: 2011-11-15
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/013706506X/ref=as_li_tf_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=013706506X
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -46,9 +55,5 @@ When your company is working on a certain model and if you change it suddenly to
 If at all there is one thing that irritated me when I was reading this book, it would be the "Apple Example". The author has beaten the "Apple Example" to death in every chapter and for every concept that he discusses. Just because he is the Director of Industrial Design for Apple?. Well, in that case he could have changed the title to "Why Apple Matters?".  
   
 If you are into Industrial Design or an Entrepreneur or Just curious to know about design or just about Apple, you can read this. For others this book may not be an interesting read. The author's mind is full of usable data, but failed to present it in a non-redundant, interesting manner.  
-  
-[Do You Matter? - How Great Design Will Make People Love Your Company (Click to buy from Amazon)](http://www.amazon.com/gp/product/013706506X/ref=as_li_tf_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=013706506X)  
-  
-[Do You Matter? - How Great Design Will Make People Love Your Company (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/013706506x?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

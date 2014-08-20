@@ -3,6 +3,15 @@ layout: post
 title: Birth Without Violence
 date: 2014-04-11
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/1594772975/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594772975&linkCode=as2&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -62,9 +71,4 @@ Me and my wife are glad that we got to know this before our first child. We are 
 
 This book is a must read for all :)  
 
-[Birth Without Violence (Click to buy from Amazon)](http://www.amazon.com/gp/product/1594772975/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594772975&linkCode=as2&tag=booiverea-20)  
-  
-[Birth Without Violence (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/birth-without-violence-revised-classic/p/itmdyywyjktabstm?pid=9780892819836&affid=INPremkblo)  
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

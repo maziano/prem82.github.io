@@ -3,6 +3,15 @@ layout: post
 title: The Greatness Guide
 date: 2010-12-28
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Greatness-Guide-Robin-S-Sharma/dp/B001DYI1B2?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -77,9 +86,5 @@ Here are few of my favorites from his book.
 * Do a "101 things to do before I die" list. - I started preparing mine. What about you?.  
 
 I actually wanted to list down my favorite chapter, but ended up writing almost all. I took a lot of time to delete many of them from the list, just to give you a glimpse of the book. Trust me, this book is packed with much more wisdom that I listed here. Start the winning habit. Start reading. Grab this book.  
-
-[The Greatness Guide (Click to buy from Amazon)](http://www.amazon.com/Greatness-Guide-Robin-S-Sharma/dp/B001DYI1B2?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
-  
-[The Greatness Guide (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/greatness-guide-robin-s-sharma-book-8179925765?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

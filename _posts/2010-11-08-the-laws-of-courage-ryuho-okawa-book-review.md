@@ -3,6 +3,15 @@ layout: post
 title: The Laws of Courage
 date: 2010-11-08
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Laws-Courage-Ryuho-Okawa/dp/4876883815?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -37,9 +46,5 @@ Whooh... I thought it would be close to 1000 books altogether, but he claims tha
 In the fourth chapter, he discusses about helping others and suggests some tips (based on some assumptions) to Japanese women to excel in administrative cadre. The last chapter, "Life of Truth" is the ultimate comedy. He goes too deep into it and discusses about talking to spirits and getting guidance from them, about our different past life and six incarnations, how to stay on Truth, what may get you to Hell. It reads like Voodoo magic. He must have read extensively about African tribes and their beliefs in those 1000 books :)  
   
 Overall, I wouldn't suggest this book to anyone. There are better books available in the market. If you have the patience and time to tolerate the author's humor sense and grasp the few good tips spread across the book, you can read at your own risk. Those who have courage, please click the links below to buy this book.  
-  
-[The Laws of Courage (Click to buy from Amazon)](http://www.amazon.com/Laws-Courage-Ryuho-Okawa/dp/4876883815?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
-  
-[The Laws of Courage (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/laws-courage-ryuho-okawa-book-8184950144?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

@@ -3,6 +3,15 @@ layout: post
 title: The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life
 date: 2013-01-24
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0143052365/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0143052365
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -55,9 +64,4 @@ Some raw foodists, suggest to take vitamin supplements. I don't like medicine. S
   
 I strongly suggest everyone to read this book, even if you don't have plans to eat raw food. If you eat cooked food, you MUST know what happens to your body. Ignorance is not bliss !!!  
   
-[The Thrive Diet (Click to buy from Amazon)](http://www.amazon.com/gp/product/0143052365/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0143052365)  
- 
-[The Thrive Diet (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/thrive-diet-0143052365/p/itmczyrz8kqshygf?pid=9780143052364&affid=INPremkblo)  
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

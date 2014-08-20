@@ -3,6 +3,15 @@ layout: post
 title: Who Moved My Cheese? - An A-Mazing Way to Deal with Change in Your Work and in Your Life
 date: 2011-01-26
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Who-Moved-My-Cheese-Amazing/dp/0399144463?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -38,9 +47,5 @@ I read out loud those words. Many times in our life, we hold on to some relation
 Reading more and more books and reasoning them, teaches me one simple lesson. Every book you read, has a message for you, if you are open to learn them.Many critics tells that this is just a simple story and people are very mad about this. Understand this please, its not the story which changes the readers life, its the individual's interpretation that causes the impact.  
   
 So, read this little book. If you get something out of this, Great. Else, read more books :)  
-  
-[Who Moved My Cheese? (Click to buy from Amazon)](http://www.amazon.com/Who-Moved-My-Cheese-Amazing/dp/0399144463?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969)  
-  
-[Who Moved My Cheese? (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/moved-my-cheese-spencer-johnson-book-0091816971?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

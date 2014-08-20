@@ -3,6 +3,15 @@ layout: post
 title: $100 Start up - Reinvent the Way You Make a Living, Do What You Love and Create a New Future
 date: 2013-09-05
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0307951529/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307951529&linkCode=as2&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -33,10 +42,5 @@ Even if you are not looking to start a business, reading this book may inspire y
 src="https://www.youtube.com/embed/xbwBboFr3fQ">
 </iframe>
 </div>
-  
-[$100 Start up (Click to buy from Amazon)](http://www.amazon.com/gp/product/0307951529/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307951529&linkCode=as2&tag=booiverea-20)  
-
-[$100 Start up (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/the-100-startup/p/itmd32vwqzpbkxvu?pid=9780307951526&affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

@@ -3,6 +3,15 @@ layout: post
 title: The Hero
 date: 2014-04-21
 category: books
+aff-in: 
+aff-us: http://amzn.to/1dfRrEl
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -47,10 +56,6 @@ She followed the same pattern, same layout, same designs, same fonts in her four
 
 If you really want to benefit from "Law of Attraction" concept, I would suggest reading ["The Secret"][secret] followed by ["The Magic"][magic]. Those are really good. This book is OK, if you want to read in your leisure time.  
 
-[The Hero (Click to buy from Amazon)](http://amzn.to/1dfRrEl)
-
-[The Hero (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/the-secret-hero/p/itmdnk5kdwupep4f?pid=9781471133442&affid=INPremkblo)
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
 [secret]: http://www.amazon.com/gp/product/1582701709/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1582701709&linkCode=as2&tag=booiverea-20
@@ -58,6 +63,3 @@ Checkout the other books which I have read @ [Prem's Library]({{site.url}}/categ
 [magic]: http://www.amazon.com/gp/product/1451673442/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451673442&linkCode=as2&tag=booiverea-20
 
 [power]: http://www.amazon.com/gp/product/1439181780/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1439181780&linkCode=as2&tag=booiverea-20
-
-
-

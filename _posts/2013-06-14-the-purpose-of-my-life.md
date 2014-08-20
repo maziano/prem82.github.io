@@ -78,5 +78,3 @@ What is the difference between theists having a purpose assigned by religion and
 I think, I am moving into a new context - **a matured atheist with a mission statement!**. Lets see how it goes.  
 
 **Have you figured out your life purpose?**  
-
-

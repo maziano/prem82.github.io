@@ -3,6 +3,15 @@ layout: post
 title: The Dolphin - Story of a Dreamer
 date: 2010-08-13
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Dolphin-Dreamer-Sergio-S-Bambaren/dp/1401918964?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -47,11 +56,7 @@ In the book, "The Dolphin" I could also sense the impact of "The Alchemist" whic
 Sergio - Don't mistake me. This could be your authentic idea. But it was published already. I know you have written few other books. I will give my real feedback after those reading books ;)  
   
 I have read the reviews for this book, many people found this very spiritual and inspiring. Why don't you guys try it?.  
-  
-[The Dolphin - Story of a Dreamer (Click to buy from Amazon)](http://www.amazon.com/Dolphin-Dreamer-Sergio-S-Bambaren/dp/1401918964?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
-  
-[The Dolphin - Story of a Dreamer (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/dolphin-sergio-bambaren-michele-contri-book-9380480046?affid=INPremkblo)   
-  
+
 [Jonathan Livingston Seagull (Click to buy from Amazon)](http://www.amazon.com/Jonathan-Livingston-Seagull-Richard-Bach/dp/0743278909?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
   
 [Jonathan Livingston Seagull (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/jonathan-livingston-seagull-richard-bach-book-817223578x?affid=INPremkblo)  

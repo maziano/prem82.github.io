@@ -3,6 +3,15 @@ layout: post
 title: Great Speeches - Words That Shaped The World
 date: 2011-02-12
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Great-Speeches-Words-Shaped-World/dp/1848372922?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -45,9 +54,5 @@ Oops... The review is becoming very long. You guys read the rest by yourself. Yo
 5. Pope John Paul II  
   
 So, grab the book and enjoy. Here are the links to buy them.  
-  
-[Great Speeches - Words That Shaped The World (Click to buy from Amazon)](http://www.amazon.com/Great-Speeches-Words-Shaped-World/dp/1848372922?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
-  
-[Great Speeches - Words That Shaped The World (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/great-speeches-edward-humphreys-book-1848372922?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

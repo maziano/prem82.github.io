@@ -3,6 +3,15 @@ layout: post
 title: Money Mastery - Principle Based Money Management
 date: 2013-07-22
 category: audio-books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/B000WQ5MEG/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=B000WQ5MEG&link_code=as3&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 ![Money Mastery - Audio Book]({{site.img-url}}/money-mastery-audio-book.jpg)  
@@ -30,7 +39,4 @@ I loved the principles 4 & 9. I love the idea of paying up the debts as well as 
   
 Oops. I forgot to mention that this Audio CD comes with a software and workbook to plan your budget. Even, if you are wealthy right now, you may want to listen to this Audio CD in your free time. It may give you new ideas. Seriously, I am thinking about starting a bank :)  
   
-[Money Mastery Principle-Based Money Management (Click to buy from Amazon)](http://www.amazon.com/gp/product/B000WQ5MEG/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=B000WQ5MEG&link_code=as3&tag=booiverea-20)  
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

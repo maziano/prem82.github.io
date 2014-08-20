@@ -3,6 +3,15 @@ layout: post
 title: How I Braved Anu Aunty & Co-founded A Million Dollar Company
 date: 2014-08-08
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/812911979X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=812911979X&linkCode=as2&tag=booiverea-20&linkId=QM42A4VFQMUX4WCH
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -39,11 +48,7 @@ src="http://www.youtube.com/embed/nMPqsjuXDmE">
 </iframe>
 </div>
 
-Enough of reading the review, just go ahead and order the book. Even if you are not an entrepreneur, you are going to love this kid's story.
-
-[How I Braved Anu Aunty & Co-founded A Million Dollar Company (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/braved-anu-aunty-co-founded-million-dollar-company-english/p/itmdfhfzn6fftar4?pid=9788129119797&affid=INPremkblo)  
-
-[How I Braved Anu Aunty & Co-founded A Million Dollar Company (Click to buy from Amazon)](http://www.amazon.com/gp/product/812911979X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=812911979X&linkCode=as2&tag=booiverea-20&linkId=QM42A4VFQMUX4WCH)  
+Enough of reading the review, just go ahead and order the book. Even if you are not an entrepreneur, you are going to love this kid's story.  
 
 ### Connect with him
 [Alma Matter](http://www.almamaterstore.in/)  

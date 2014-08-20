@@ -3,6 +3,15 @@ layout: post
 title: Attract Money Now
 date: 2013-09-25
 category: audio-books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/159659599X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159659599X&linkCode=as2&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -76,9 +85,4 @@ Thanks Dr. Joe Vitale for this book. I will try the steps described in this book
   
 [Attract Money Now - PDF version (Click to download the PDF for FREE)](http://www.attractmoneynow.com/)  
 
-[Attract Money Now - Audio book (Click to buy from Amazon)](http://www.amazon.com/gp/product/159659599X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159659599X&linkCode=as2&tag=booiverea-20)  
-  
-[Attract Money Now - Audio book (Click to buy from Flipkart - Orders within India)](http://www.flipkart.com/attract-money-now/p/itmdyk9xpntvdypz?pid=9781596595996&affid=INPremkblo)  
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

@@ -3,6 +3,15 @@ layout: post
 title: The Monk Who Sold His Ferrari
 date: 2011-12-25
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0062515675?ie=UTF8&tag=booiverea-20&linkCode=xm2&camp=1789&creativeASIN=0062515675
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -115,9 +124,5 @@ The long winding path studded with millions of diamonds represents the final vir
 **Practice Gratitude:** Be grateful for all the small things that you have in life. Even if you are bankrupt, you can be grateful for being alive, being able to think and read. When you are in a grateful mood, you mind becomes very positive and optimistic and you start doing positive actions which would bring you success in whatever you desire.  
   
 I felt like writing an entire book, for writing just this review. Whooh. This is not just a book review, but a book-let version - for those who doesn't have the time to read. I will come back to this blog post often to remind me all the virtues. Some books are meant to be read again and again. This is one of them. Get your copy and start reading !  
-  
-[The Monk Who Sold His Ferrari (Click to buy from Amazon)](http://www.amazon.com/gp/product/0062515675?ie=UTF8&tag=booiverea-20&linkCode=xm2&camp=1789&creativeASIN=0062515675)  
-
-[The Monk Who Sold His Ferrari (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/817992162x?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

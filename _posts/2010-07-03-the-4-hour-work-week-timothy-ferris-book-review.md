@@ -3,6 +3,15 @@ layout: post
 title: The 4-Hour Work Week
 date: 2010-07-03
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0307465357?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307465357
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -28,9 +37,5 @@ The third group **A - Automation**. Introduced a lot of new things. Outsourcing 
 The last group **L - Liberation**. Starts with the tips on how to escape from the office. ha ha ha ah.. no.. not in the way you think. Instead of working for 30 - 45 years and planning for a retirement, the author suggests mini-retirements of three to six months, which is completely practical and will give you a glimpse of how your retirement will feel like. After one mini-retirement, your perception about retirements will definitely change and you are still young to change the decisions ;). He provides the practical tips and step by step instructions for your mini-retirements and a tour around the world.  
 
 The in last few "Restricted Reading" chapters, the author lists down the books, resources that you will need for a vagabonding life. This book packed more information that It could possibly include. It was a very pleasure experience reading a book like this. Try it :)  
-
-[The 4-Hour Workweek (Click to buy from Amazon)](http://www.amazon.com/gp/product/0307465357?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307465357)  
-
-[The 4-Hour Workweek (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/affiliatehits?affid=INPremkblo&amp;isbn=0091923530)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

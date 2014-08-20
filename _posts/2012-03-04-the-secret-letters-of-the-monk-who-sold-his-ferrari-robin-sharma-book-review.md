@@ -3,6 +3,15 @@ layout: post
 title: The Secret Letters of the Monk Who Sold His Ferrari
 date: 2012-03-04
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0007321112/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0007321112
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -61,10 +70,5 @@ How well you live come down to how much you love. The heart is wiser than your h
 There are no extra people alive today. Every single one of us are here for a reason, a special purpose - a mission. Yes, build a beautiful life for yourself and those you love.Yes, be happy and have a lot of fun. And yes, become successful on your own terms than on those suggested to you by society. But, above all else - Be Significant. Make your life matter - be of use. And be of service to as many people as possible. This is how each of us can shift from the realm of the ordinary to the heights of the extraordinary. And walk among the best who have ever lived.  
   
 I just wrote down the key messages from the book in Robin Sharma's words. I would suggest you to read the book. These message will go into your subconscious mind directly. Jesus understood the importance of stories, so does Robin. Thank you Robin, for this book and all the books that you are going to write in future.  
-  
-[The Secret Letters of the Monk Who Sold His Ferrari (Click to buy from Amazon)](http://www.amazon.com/gp/product/0007321112/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0007321112)  
-  
-[The Secret Letters of the Monk Who Sold His Ferrari (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/secret-letters-monk-sold-his-ferrari-8184952929/p/itmd36cpmufhbbte?pid=9788184952926&affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

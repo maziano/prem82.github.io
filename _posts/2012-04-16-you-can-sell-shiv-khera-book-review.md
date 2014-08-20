@@ -5,6 +5,15 @@ date: 2012-04-16
 category: books
 author: Sruthi Kitcha
 authorpage: http://penurheart.blogspot.com
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/8129116006/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=8129116006
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -39,9 +48,5 @@ Who is not a salesperson? Anyone who markets himself or his idea or a product or
 * When a sales person realizes that the profession is not only about making sales, but involves helping others and solving problems, he becomes a professional.  
 
 Though I'm generally not in favor of self-help books there are always exceptions. This book is one such exception. I never found this book manipulative or misleading. It just states the facts and principles for a good salesperson. I would recommend this book to every salesperson and even to those who have taken marketing as a subject in MBA or in any equivalent course.  
-
-[You Can Sell (Click to buy from Amazon)](http://www.amazon.com/gp/product/8129116006/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=8129116006)  
-
-[You Can Sell (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/you-can-sell-9381626511/p/9789381626511?pid=9789381626511&affid=INPremkblo)
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

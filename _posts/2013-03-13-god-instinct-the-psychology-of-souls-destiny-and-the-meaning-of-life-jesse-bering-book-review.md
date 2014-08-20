@@ -3,6 +3,15 @@ layout: post
 title: God Instinct - The Psychology of Souls, Destiny and the Meaning of Life
 date: 2013-03-13
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/1857885600/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1857885600&linkCode=as2&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -40,10 +49,5 @@ Not all of us expects to see god's messages. People with autism will not be able
 These are just two of the many concepts discussed in this book. This book is from an evolutionary psychologist. So, expect a lot of clinical trials, thought experiments, quotes from other authors, snippets from science and psychology journals. This book keeps your interests alive till the last page. You would definitely want to discuss or tell these concepts to someone you know. My perspective about God is becoming more clear and more convincing now. Of course with the few unanswered, but very important questions. I am happy that I am approaching so called God or a Cognitive Illusion, one step at a time.  
   
 Thank you Jesse Bering.  
-  
-[God Instinct - The Psychology of Souls, Destiny and the Meaning of Life (Click to buy from Amazon)](http://www.amazon.com/gp/product/1857885600/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1857885600&linkCode=as2&tag=booiverea-20)  
-
-[God Instinct - The Psychology of Souls, Destiny and the Meaning of Life (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/god-instinct-psychology-souls-destiny-meaning-life/p/itmdym6fc8yudtth?pid=9781857885606&affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

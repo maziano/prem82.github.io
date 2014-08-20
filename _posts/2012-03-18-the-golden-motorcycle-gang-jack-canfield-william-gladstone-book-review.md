@@ -3,6 +3,15 @@ layout: post
 title: The Golden Motorcycle Gang
 date: 2012-03-18
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/1401936199/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1401936199
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -33,11 +42,5 @@ Along with Barbara Marx, the group of Enlightened Souls are planning to take the
 A good story and a good goal for the entire humanity. But, what does all these mean to me?. What am I supposed to do after reading this book?. Why did I read this book in first place?. To be true, I am not moved by the life story of Jack Canfield, but by the concept of eternal beings born in the world, without the knowledge of who they are. I always have this idea, that I am a super natural power living in a human body. It may sound superstitious, since I neither believe in God, nor follow any religion. The movies *The Matrix* and *Avatar* had a huge impact in the way, that I think about myself. This book is third in that list. What if, I am part of the Golden Motorcycle Gang, who is yet to realize my true nature?. The immediate voice in my mind says, "You are not part of any gang. You would rather be a lonely rider". This could be my super ego, which always tell me to be a leader, not a follower. Never mind.  
   
 I love to help people to come out of their fears and achieve their life goals. Why not do that in a big scale?. Help more people to live their life in a way that they wanted to live. After reading this book, I decided to pursue a career on Life Coaching. More to be done. More lives to uplift. Let's see, what I am up to !  
-  
-[The Golden Motorcycle Gang - A Story Of Transformation (Click to buy from Amazon)](http://www.amazon.com/gp/product/1401936199/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1401936199)  
-  
-
-[The Golden Motorcycle Gang - A Story Of Transformation (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/golden-motorcycle-gang-9381431146/p/itmd36d4dzmjfmvg?pid=9789381431146&affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

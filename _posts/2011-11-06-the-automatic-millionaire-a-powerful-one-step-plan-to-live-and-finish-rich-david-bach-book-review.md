@@ -3,6 +3,15 @@ layout: post
 title: The Automatic Millionaire - A Powerful One-Step Plan To Live And Finish Rich
 date: 2011-11-06
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0767923820/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0767923820
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -68,10 +77,6 @@ Giving back to the Society!. Here he gets philosophical. "The more you give, the
 The beauty is that this book is packed with all the resources that you may need to make all the above automatic, so that you don't miss anything !.  
   
 Thanks David !. For a wonderful book packed with real, practical wisdom.  
-  
-[The Automatic Millionaire (Click to buy from Amazon)](http://www.amazon.com/gp/product/0767923820/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0767923820)  
-  
-[The Automatic Millionaire (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/0767923820?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 

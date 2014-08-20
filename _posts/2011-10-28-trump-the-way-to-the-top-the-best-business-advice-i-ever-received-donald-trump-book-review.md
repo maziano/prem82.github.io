@@ -3,6 +3,15 @@ layout: post
 title: Trump - The Way To The Top - The Best Business Advice I Ever Received
 date: 2011-10-28
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/1400050162/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1400050162
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -53,9 +62,5 @@ Some of leaders answered in one sentence, some in a paragraph, some listed the a
 "If they don’t have the authority to say yes, then they don’t have the authority to say no. Deal directly with the decision makers" – Roxanne Quimby, President of Burt’s Bees.  
 
 Happy reading !!!  
-  
-[Trump - The Way To The Top - The Best Business Advice I Ever Received (Click to buy from Amazon)](http://www.amazon.com/gp/product/1400050162/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1400050162)  
-  
-[Trump - The Way To The Top - The Best Business Advice I Ever Received (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/1400050162?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

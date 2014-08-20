@@ -3,6 +3,15 @@ layout: post
 title: Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More
 date: 2013-10-01
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0470402563/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470402563&linkCode=as2&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -48,14 +57,9 @@ I already started using Ho'oponopono method and felt peace in mind, the very fir
 To learn more about the Ho'oponopono method, I suggest to look for the workshop conducted by Dr. Hew Len in Hawaii, US, Europe etc. Check the reference at the end of this blog. Another item to my Bucket List - *Attend Ho'oponopono workshop in Hawaii with Dr. Hew Len.*  
   
 Thank you Dr. Ihaleakala Hew Len for the Ho'oponopono method and Thank you Dr. Joe Vitale for bringing this as a book to the world.  
-  
-[Zero Limits (Click to buy from Amazon)](http://www.amazon.com/gp/product/0470402563/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470402563&linkCode=as2&tag=booiverea-20)  
-  
-[Zero Limits (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/zero-limits-secret-hawaiian-system-wealth-health-peace-more/p/itmczz9gjqtqhrpp?pid=9780470402566&affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
 
 **References:**  
 <http://hooponopono.org/>  
 <http://www.businessbyyou.com/>  
-

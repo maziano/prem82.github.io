@@ -3,6 +3,15 @@ layout: post
 title: The Purpose Driven® Life - What on Earth Am I Here For?
 date: 2010-10-18
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0310276993?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0310276993
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -57,9 +66,5 @@ If I was a God, I would have designed the world in a better way !
 This book has lots of wisdom, heavily flavored in Christianity. If you have the patience and time to read the entire book and grasp only the core ideas, this book is worth the pennies.  
   
 For Christians, this is a must read. That's what 25 million fellow Christians tell you. So, join the flock and enjoy your route to heaven. All the best !  
-  
-[The Purpose Driven® Life (Click to buy from Amazon)](http://www.amazon.com/gp/product/0310276993?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0310276993)  
-  
-[The Purpose Driven® Life (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/purpose-driven-life-rick-warren-book-0310210747?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

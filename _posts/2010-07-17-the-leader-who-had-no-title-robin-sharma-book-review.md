@@ -3,6 +3,15 @@ layout: post
 title: The Leader Who Had No Title - A modern fable on real success in business and in life
 date: 2010-07-17
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Leader-Who-Had-No-Title/dp/1439109125?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" src="{{site.img-url}}/the-leader-who-had-no-title-robin-sharma.jpg"/>
@@ -46,9 +55,5 @@ This principle details about the personal life of a leader. The importance needs
 I am doing most of these and I know the importance of these first hand. Please try and transform.  
   
 This is not just another book, which you will read and stack it in your library. Make this a constant companion and keep it in your coffee table. Refer this book as often as you want. Its worth every penny.  
-  
-[The Leader Who Had No Title (Click to buy from Amazon)](http://www.amazon.com/Leader-Who-Had-No-Title/dp/1439109125?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
-  
-[The Leader Who Had No Title (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/affiliatehits?affid=INPremkblo&amp;isbn=8184951191)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

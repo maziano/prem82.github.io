@@ -3,6 +3,15 @@ layout: post
 title: High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success
 date: 2010-08-12
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/High-Altitude-Leadership-Forbidding-non-Franchise/dp/0470345039?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -45,9 +54,5 @@ I felt like watching NGC, when Chris describes the events happened during the ex
 Few of the concepts discussed in the book are extremely opposite. Like - Fear of Death and Arrogance, Lone Heroism and cowardice. There is a silver line between these concepts, which could have been handled more efficiently. Many times these overlaps and I actually went back re-read the chapters to understand.  
   
 If your organization/team is in trouble and you need immediate help, please don't buy this book alone. This book is written in such a style that it hammers your thought with outright truth. You may not comprehend, if your mind is not open. Worth reading !!!  
-  
-[High Altitude Leadership (Click to buy from Amazon)](http://www.amazon.com/High-Altitude-Leadership-Forbidding-non-Franchise/dp/0470345039?ie=UTF8  &tag=booiverea-20  &link_code=btl  &camp=213689  &creative=392969)  
-  
-[High Altitude Leadership (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/high-altitude-leadership-christopher-warner-book-0470345039?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

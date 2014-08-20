@@ -3,6 +3,15 @@ layout: post
 title: How To Become A Highly Paid Corporate Programmer
 date: 2010-12-06
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/158347045X?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=158347045X
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -40,9 +49,5 @@ Also, he stresses that a private office and a silent workplace is a must for eff
 This section is for the programmers with an entrepreneurial bent. Mostly discusses on how to become a programming consultant, pros and cons of that career and how to develop your own company and market your own software product etc. He urges the importance of writing for the industry that you are working for. I like it very much. He sited examples of people shifting from programming to corporate positions in an interesting manner.  
   
 Even though this book targets four different categories of programmers, I would suggest everyone to read every chapter. Since I feel that's a logical career path for achieving programmers, unless you already planned your career path. This book has made a lasting impression on me and forced me to make some decisions in my life, which I would not have taken other wise. I am planning to blog on the mobile development arena. Thanks a lot Paul H. Harkins for writing this book for us.  
-  
-[How to Become a Highly Paid Corporate Programmer (Click to buy from Amazon)](http://www.amazon.com/gp/product/158347045X?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=158347045X)  
-  
-[How To Become A Highly Paid Corporate Programmer (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/become-highly-paid-corporate-programmer-book-8184041314?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

@@ -3,6 +3,15 @@ layout: post
 title: 97 Things Every Software Architect Should Know - Collective Wisdom from the Experts
 date: 2013-06-27
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/059652269X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=059652269X&linkCode=as2&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -55,9 +64,4 @@ Cary Alan Bakker
 Mark Nacionales  
 Bobby Abraham  
   
-[97 Things Every Software Architect Should Know (Click to buy from Amazon)](http://www.amazon.com/gp/product/059652269X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=059652269X&linkCode=as2&tag=booiverea-20)  
-
-[97 Things Every Software Architect Should Know (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/97-things-every-software-architect-should-know-collective-wisdom-experts/p/itmczzj46scd5rtg?pid=9780596522698&affid=INPremkblo)  
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

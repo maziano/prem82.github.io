@@ -3,6 +3,15 @@ layout: post
 title: Become A Magnet To Money
 date: 2012-02-27
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/dp/1890679461?_encoding=UTF8&tag=booiverea-20&linkCode=as3&camp=15041&creative=373501
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -57,9 +66,5 @@ The Daily Action List could be.
 The idea is to make sure that one action can be completed comfortably in a day. Before you realize, you would have accomplished more that what you would have done without Daily Action List.  
   
 These are just a glimpse of what this book has to offer. If you are interested in abundant wealth, make this book your constant companion. You can get a copy of this book by clicking the below links.  
-  
-[Become A Magnet To Money (Click to buy from Amazon)](http://www.amazon.com/dp/1890679461?_encoding=UTF8&tag=booiverea-20&linkCode=as3&camp=15041&creative=373501)  
-  
-[Become A Magnet To Money (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/8184951728?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

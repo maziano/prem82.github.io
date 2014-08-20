@@ -3,6 +3,15 @@ layout: post
 title: I Have A Dream
 date: 2011-11-23
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/9380658389/ref=as_li_tf_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=9380658389
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -41,9 +50,5 @@ Those who cannot just accept what is wrong and make every possible step to chang
 These are highly educated guys from IIT's and IIM's who felt that the service to others and the purity of the self is the way to achieve eternal liberation from this cycle of birth and death, thus renounced their material world. With the strong education background, they redefined the way service is done. Vinayak Lohani - "Parivaar Ashram" - a residential facility for orphans, tribals and the daughters of prostitutes. Madhu Pandit Dasa - "Akshaya Patra" from ISKON Bangalore who feeds one million hungry children every day, in and around Bangalore. I met Madhu Pandit Dasa in one of the bloggers meet happened in Bangalore. I am so happy to read his story and felt the connection with him.  
   
 I would say Rashmi Bansal is one of the smartest female in the world, who created herself a chance to interview all those successful people in India. I suspect her next book, would go way beyond India. She would collect the inspiring stories around the world, not just who made it big, but those who made a small difference in a big way. We already have Rashmi Bansal's series competing with "Chicken soup for the soul" series. To make it big, impact millions around the world and to make a real difference beyond the boundary lines, she must go International. But again - No local language please !!!  
-  
-[I Have A Dream (Click to buy from Amazon)](http://www.amazon.com/gp/product/9380658389/ref=as_li_tf_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=9380658389)  
-  
-[I Have A Dream (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9380658384?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

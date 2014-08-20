@@ -3,6 +3,15 @@ layout: post
 title: Ignore Everybody - And 39 Other Keys To Creativity
 date: 2010-08-18
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -40,9 +49,5 @@ Few of my favorite blogs/chapters from this book are :
 I wont suggest that this is a must-read. But its worth casual read on the weekends. Who knows, you may pickup your crayons, after this book. Just try it !!!  
   
 [Author's website GapingVoid.com](http://gapingvoid.com/)  
-  
-[Ignore Everybody - and 39 Other Keys to Creativity (Click to buy from Amazon)](http://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
-  
-[Ignore Everybody - And 39 Other Keys To Creativity (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/ignore-everybody-hugh-macleod-39-book-159184259x?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

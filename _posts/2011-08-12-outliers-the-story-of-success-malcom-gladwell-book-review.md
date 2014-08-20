@@ -3,6 +3,15 @@ layout: post
 title: Outliers - The Story Of Success
 date: 2011-08-12
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/0316017930/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0316017930
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -45,9 +54,5 @@ In further chapters, he discusses about the "Culture of Honor", why plane crashe
 Very interesting !...  
   
 Overall, a very good book. But I cannot agree with everything that he says. Its worth reading :)  
-  
-[Outliers - The Story Of Success (Click to buy from Amazon)](http://www.amazon.com/gp/product/0316017930/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0316017930)  
-  
-[Outliers - The Story Of Success (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/0141036249?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

@@ -5,6 +5,15 @@ date: 2012-02-22
 category: books
 author: Sruthi Kitcha
 authorpage: http://penurheart.blogspot.com
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/9381626278/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=9381626278
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -32,9 +41,5 @@ This is not a novel or a story to criticize from literary perspective analyzing 
 Guess I might write this review as big as a book in an attempt to pen down my thought flow. I would recommend this book to anyone irrespective of being in relationship or not, or for that matter married or not. Whichever category you fall in, this book is going to serve you as guide on how to react and live through the trauma of infidelity. Or unfortunately, if you have already faced one then it is going to alter most of your perceptions about affairs and break a few myths which you are clinging to. And hey, wait! Do not think that you will start suspecting your partner after reading this book. It is just going to make you bond more to him/her. In author’s words: “Trust your partner, and more than that trust yourself.”  
   
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
-
-[3's A Crowd (Click to buy from Amazon)](http://www.amazon.com/gp/product/9381626278/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=9381626278)  
-  
-[3's A Crowd (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/3s-crowd-9381626276/p/itmd5yyumhtx2trn?pid=9789381626276&affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

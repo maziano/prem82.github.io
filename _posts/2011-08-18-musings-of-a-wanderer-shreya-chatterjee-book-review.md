@@ -3,6 +3,15 @@ layout: post
 title: Musings Of A Wanderer
 date: 2011-08-18
 category: books
+aff-in: 
+aff-us: 
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

@@ -3,6 +3,15 @@ layout: post
 title: The EFT Manual
 date: 2011-09-10
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/1604150661/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1604150661
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -46,9 +55,4 @@ Gary Craig gave out all the information that he "invented" for free to the world
   
 [Seven Power Tips for using EFT](http://www.eftuniverse.com/SevenPowerTips.pdf)  
   
-[The EFT Manual (Click to buy from Amazon)](http://www.amazon.com/gp/product/1604150661/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1604150661)  
-  
-[The EFT Manual (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/1604150661?affid=INPremkblo)  
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-

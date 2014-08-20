@@ -3,6 +3,15 @@ layout: post
 title: A Promise Is A Promise
 date: 2014-08-03
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/1561708720/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=1561708720&link_code=as3&tag=booiverea-20&linkId=JV5XH5QIMFUC55VI
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -54,11 +63,7 @@ This book is a must read for everyone !!!.
 
 > To be brave is to love someone unconditionally, without expecting anything in return **- Madonna**
 
-If unconditional love is braveness, she is a mighty warrior.
-
-[A Promise Is A Promise (Click to buy from Amazon)](http://www.amazon.com/gp/product/1561708720/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=1561708720&link_code=as3&tag=booiverea-20&linkId=JV5XH5QIMFUC55VI)  
-  
-[A Promise Is A Promise (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/promise-promise-english/p/itmdxhr2addmghru?pid=9788189988111&affid=INPremkblo)  
+If unconditional love is braveness, she is a mighty warrior.  
 
 **References:**  
 

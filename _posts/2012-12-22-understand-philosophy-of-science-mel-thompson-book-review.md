@@ -3,6 +3,15 @@ layout: post
 title: Understand Philosophy of Science - A Teach Yourself Guide
 date: 2012-12-22
 category: books
+aff-in: 
+aff-us: http://www.amazon.com/gp/product/1444157655/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1444157655&linkCode=as2&tag=booiverea-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
@@ -44,9 +53,4 @@ These are just few of the concepts discussed in the book in early chapters. This
   
 This book is a feast of information for those who wish to understand Science in totality. For casual readers, the first chapter **The history of Science** is good enough to get a grip of Science. I recommend this book for everyone.  
   
-[Understand Philosophy of Science A Teach Yourself Guide (Click to buy from Amazon)](http://www.amazon.com/gp/product/1444157655/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1444157655&linkCode=as2&tag=booiverea-20)  
-  
-[Understand Philosophy of Science A Teach Yourself Guide (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/understand-philosophy-science-teach-yourself-guide-1444157655/p/itmdfhemyqjjeatt?pid=9781444157659&affid=INPremkblo)  
-
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  
-
