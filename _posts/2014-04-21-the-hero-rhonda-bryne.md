@@ -4,7 +4,7 @@ title: The Hero
 date: 2014-04-21
 category: books
 aff-in: 
-aff-us: http://amzn.to/1dfRrEl
+aff-us: http://www.amazon.com/gp/product/1476758581/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476758581&linkCode=as2&tag=booiverea-20
 aff-ca: 
 aff-gb: 
 aff-de: 

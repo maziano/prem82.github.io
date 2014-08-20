@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Re-Learning Barefoot Running
-date: 2014-08-16
+date: 2014-08-21
 category: health
 ---
 
