@@ -3,6 +3,16 @@ layout: post
 title: Connect the Dots
 date: 2010-07-30
 category: books
+aff-in: http://www.amazon.in/gp/product/9381626707?ie=UTF8&camp=3626&creativeASIN=9381626707&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/9381626707?ie=UTF8&camp=1789&creativeASIN=9381626707&linkCode=xm2&tag=smileprem-us-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
+
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -31,7 +41,5 @@ I must tell you this. I actually picked up this book, just because it had a stor
 Rashmi - I have a serious feedback to you. Your writing style is awesome. But its a horrible mix of English and Hindi. Very horrible. I have no idea of any word in Hindi. You are a famous writer now and please target your audience now. Those are not just Hindi speaking people. Please get the language straight.  
   
 Guys - Its a must read for everyone.  
-  
-[Connect the Dots (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/connect-dots-rashmi-bansal-book-8190453025?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

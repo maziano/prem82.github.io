@@ -3,8 +3,8 @@ layout: post
 title: Human Minds - An Exploration
 date: 2010-06-12
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/0140170332?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0140170332
+aff-in: http://www.amazon.in/gp/product/0140170332?ie=UTF8&camp=3626&creativeASIN=0140170332&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/0713990813?ie=UTF8&camp=1789&creativeASIN=0713990813&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

@@ -3,8 +3,8 @@ layout: post
 title: Birth Without Violence
 date: 2014-04-11
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/1594772975/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594772975&linkCode=as2&tag=booiverea-20
+aff-in: http://www.amazon.in/gp/product/0394495810?ie=UTF8&camp=3626&creativeASIN=0394495810&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1594772975?ie=UTF8&camp=1789&creativeASIN=1594772975&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

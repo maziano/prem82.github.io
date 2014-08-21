@@ -3,8 +3,8 @@ layout: post
 title: The Dolphin - Story of a Dreamer
 date: 2010-08-13
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/Dolphin-Dreamer-Sergio-S-Bambaren/dp/1401918964?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-in: http://www.amazon.in/gp/product/1561703915?ie=UTF8&camp=3626&creativeASIN=1561703915&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1401918964?ie=UTF8&camp=1789&creativeASIN=1401918964&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

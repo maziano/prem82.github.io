@@ -3,8 +3,8 @@ layout: post
 title: The 4-Hour Work Week
 date: 2010-07-03
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/0307465357?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307465357
+aff-in: http://www.amazon.in/gp/product/0091929113?ie=UTF8&camp=3626&creativeASIN=0091929113&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/0307465357?ie=UTF8&camp=1789&creativeASIN=0307465357&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

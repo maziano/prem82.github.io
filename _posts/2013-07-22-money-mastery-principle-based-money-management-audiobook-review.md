@@ -3,8 +3,8 @@ layout: post
 title: Money Mastery - Principle Based Money Management
 date: 2013-07-22
 category: audio-books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/B000WQ5MEG/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=B000WQ5MEG&link_code=as3&tag=booiverea-20
+aff-in: http://www.amazon.in/gp/product/1564146103?ie=UTF8&camp=3626&creativeASIN=1564146103&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1564146103?ie=UTF8&camp=1789&creativeASIN=1564146103&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

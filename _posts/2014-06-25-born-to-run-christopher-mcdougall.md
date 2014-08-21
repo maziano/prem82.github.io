@@ -3,8 +3,8 @@ layout: post
 title: Born to Run
 date: 2014-06-25
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/0307279189/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307279189&linkCode=as2&tag=booiverea-20&linkId=O5HKT7TPYZ6JX3ZM
+aff-in: http://www.amazon.in/gp/product/1861978774?ie=UTF8&camp=3626&creativeASIN=1861978774&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/0307279189?ie=UTF8&camp=1789&creativeASIN=0307279189&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

@@ -3,8 +3,8 @@ layout: post
 title: Become A Magnet To Money
 date: 2012-02-27
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/dp/1890679461?_encoding=UTF8&tag=booiverea-20&linkCode=as3&camp=15041&creative=373501
+aff-in: http://www.amazon.in/gp/product/8184951728?ie=UTF8&camp=3626&creativeASIN=8184951728&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1890679461?ie=UTF8&camp=1789&creativeASIN=1890679461&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

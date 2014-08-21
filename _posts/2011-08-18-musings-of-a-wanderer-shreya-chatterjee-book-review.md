@@ -3,8 +3,8 @@ layout: post
 title: Musings Of A Wanderer
 date: 2011-08-18
 category: books
-aff-in: 
-aff-us: 
+aff-in: http://www.amazon.in/gp/product/8182532671?ie=UTF8&camp=3626&creativeASIN=8182532671&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/8182532671?ie=UTF8&camp=1789&creativeASIN=8182532671&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 
@@ -39,8 +39,6 @@ Poems - to me is a mean to convey the feelings from one mind to another. The sce
 I could have simply written a review "nice book", "good to read" etc. Would that help Shreya?. I don't think so. Whatever I told is what I felt after reading the book. The reason I am very much disappointed is that my friends Sunita and Binti also write poems. They are awesome. But they are least bothered either to blog it or publish it. So, when I have a printed book in my hand, I think you can guess my expectations.  
   
 Shreya - Sometime down the line, I expect another poetry book from you. My review of that book should have only one word "awesome". All the best !  
-  
-[Musings Of A Wanderer (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9381205006?affid=INPremkblo)  
 
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
 

@@ -3,8 +3,8 @@ layout: post
 title: How To Become A Highly Paid Corporate Programmer
 date: 2010-12-06
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/158347045X?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=158347045X
+aff-in: http://www.amazon.in/gp/product/8184041314?ie=UTF8&camp=3626&creativeASIN=8184041314&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/158347045X?ie=UTF8&camp=1789&creativeASIN=158347045X&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

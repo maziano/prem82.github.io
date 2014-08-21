@@ -3,8 +3,8 @@ layout: post
 title: The Power
 date: 2010-08-25
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/Power-Rhonda-Byrne/dp/1439181780?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969
+aff-in: http://www.amazon.in/gp/product/0857201700?ie=UTF8&camp=3626&creativeASIN=0857201700&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1439181780?ie=UTF8&camp=1789&creativeASIN=1439181780&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

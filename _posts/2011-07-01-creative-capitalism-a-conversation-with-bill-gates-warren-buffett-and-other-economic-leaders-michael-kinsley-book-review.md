@@ -3,8 +3,8 @@ layout: post
 title: Creative Capitalism - A Conversation with Bill Gates, Warren Buffet, and Other Economic Leaders
 date: 2011-07-01
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/1416599428/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1416599428
+aff-in: http://www.amazon.in/gp/product/1847374107?ie=UTF8&camp=3626&creativeASIN=1847374107&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1416599428?ie=UTF8&camp=1789&creativeASIN=1416599428&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

@@ -3,8 +3,8 @@ layout: post
 title: The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life
 date: 2013-01-24
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/0143052365/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0143052365
+aff-in: http://www.amazon.in/gp/product/0143052365?ie=UTF8&camp=3626&creativeASIN=0143052365&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/0143052365?ie=UTF8&camp=1789&creativeASIN=0143052365&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

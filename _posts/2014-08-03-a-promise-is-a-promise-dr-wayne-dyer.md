@@ -3,8 +3,8 @@ layout: post
 title: A Promise Is A Promise
 date: 2014-08-03
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/1561708720/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=1561708720&link_code=as3&tag=booiverea-20&linkId=JV5XH5QIMFUC55VI
+aff-in: http://www.amazon.in/gp/product/1561703486?ie=UTF8&camp=3626&creativeASIN=1561703486&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1561708720?ie=UTF8&camp=1789&creativeASIN=1561708720&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

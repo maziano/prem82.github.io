@@ -3,8 +3,8 @@ layout: post
 title: God Instinct - The Psychology of Souls, Destiny and the Meaning of Life
 date: 2013-03-13
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/1857885600/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1857885600&linkCode=as2&tag=booiverea-20
+aff-in: http://www.amazon.in/gp/product/1857886003?ie=UTF8&camp=3626&creativeASIN=1857886003&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1857885600?ie=UTF8&camp=1789&creativeASIN=1857885600&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

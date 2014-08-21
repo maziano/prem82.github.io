@@ -3,8 +3,8 @@ layout: post
 title: The Purpose Driven® Life - What on Earth Am I Here For?
 date: 2010-10-18
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/0310276993?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0310276993
+aff-in: http://www.amazon.in/gp/product/0310205719?ie=UTF8&camp=3626&creativeASIN=0310205719&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/031032906X?ie=UTF8&camp=1789&creativeASIN=031032906X&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

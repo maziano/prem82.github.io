@@ -3,8 +3,8 @@ layout: post
 title: Outliers - The Story Of Success
 date: 2011-08-12
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/0316017930/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0316017930
+aff-in: http://www.amazon.in/gp/product/0141036257?ie=UTF8&camp=3626&creativeASIN=0141036257&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/0316017930?ie=UTF8&camp=1789&creativeASIN=0316017930&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 
@@ -27,11 +27,9 @@ src="{{site.img-url}}/outliers-malcom-gladwell.jpg" border="1"/>
 **Number of Pages:** 736  
 **Language:** English  
   
-I knew Malcom Gladwell through his earlier book "[Blink][blinkurl]". This guy always thinks out of the box and gives a new perspective to the well known things. He always amazes me. In his new book "[Outliers][outliersurl]", he gives us a different perspective on Why successful people are successful?.  The general notion is that the successful people became so, because of who they are. But, Gladwell tells us that its more because of where they are from?. Sounds confusing?. For me too, when I started. Not anymore :)  
+I knew Malcom Gladwell through his earlier book "[Blink][blinkurl]". This guy always thinks out of the box and gives a new perspective to the well known things. He always amazes me. In his new book "[Outliers]({{page.aff-us}})", he gives us a different perspective on Why successful people are successful?.  The general notion is that the successful people became so, because of who they are. But, Gladwell tells us that its more because of where they are from?. Sounds confusing?. For me too, when I started. Not anymore :)  
 
 [blinkurl]: http://www.amazon.com/gp/product/0316010669/ref=as_li_tf_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0316010669
-
-[outliersurl]: http://www.amazon.com/gp/product/0316017930/ref=as_li_tf_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0316017930
 
 He starts off with the analysis of the hockey players in Canadian teams. One interesting fact is that most of the best players in the team are born in the first three months (Jan, Feb, Mar). He concludes that its because of the selection procedure followed in Canada and the additional playing time these kids get in their early years. This is definitely a different insight and he suggest the alternate means as well.  
   

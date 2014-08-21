@@ -3,8 +3,8 @@ layout: post
 title: The Five Love Languages - How to Express Heartfelt Commitment to Your Mate
 date: 2011-07-05
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/Languages-Express-Heartfelt-Commitment-Comprehensive/dp/B006Q2LTRO/ref=sr_1_3?s=books&ie=UTF8&qid=1407406167&sr=1-3&keywords=the+five+love+languages&tag=booiverea-20
+aff-in: http://www.amazon.in/gp/product/8186775099?ie=UTF8&camp=3626&creativeASIN=8186775099&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/B00F4KBJ8I?ie=UTF8&camp=1789&creativeASIN=B00F4KBJ8I&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

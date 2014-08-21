@@ -3,8 +3,8 @@ layout: post
 title: The Leader Who Had No Title - A modern fable on real success in business and in life
 date: 2010-07-17
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/Leader-Who-Had-No-Title/dp/1439109125?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-in: http://www.amazon.in/gp/product/8184951191?ie=UTF8&camp=3626&creativeASIN=8184951191&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1439109133?ie=UTF8&camp=1789&creativeASIN=1439109133&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

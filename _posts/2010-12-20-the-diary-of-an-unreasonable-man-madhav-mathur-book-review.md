@@ -3,6 +3,15 @@ layout: post
 title: The Diary Of An Unreasonable Man
 date: 2010-12-20
 category: books
+aff-in: http://www.amazon.in/gp/product/0143065440?ie=UTF8&camp=3626&creativeASIN=0143065440&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/B008ET47KI?ie=UTF8&camp=1789&creativeASIN=B008ET47KI&linkCode=xm2&tag=smileprem-us-20
+aff-ca: 
+aff-gb: 
+aff-de: 
+aff-es: 
+aff-fr: 
+aff-it: 
+aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -25,7 +34,5 @@ When I started the novel, I felt this is gonna be like "The White Tiger", a nega
 We had seen similar stories in couple of movies, but this one different in terms of non-violence. Madhav has pointed out few of the social issues in his novel. Great. However, I do not agree with all of them. I have a complete opposite idea when he discusses about marketing, cars, fashion shows etc. So, may be your thoughts. I do not understand why he chose the word Anarchist, when none of his actions are against the state/country. His actions were against the people who are lame, in disciplined. Anarchism as a concept may hold good for a small society or tribes living in remote forests. But, for a country with more than a billion citizens, I doubt. That's a whole big discussion on itself. Lets not get into it now.  
   
 Overall, its a good novel to read in a weekend. I think you can finish the novel in one stretch. Madhav Mathur has made to my list of favorite authors. Congrats Madhav !!!  
-  
-[The Diary Of An Unreasonable Man (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/diary-unreasonable-man-madhav-mathur-book-0143065440?affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/category/books/)  

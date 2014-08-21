@@ -3,8 +3,8 @@ layout: post
 title: Attract Money Now
 date: 2013-09-25
 category: audio-books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/159659599X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159659599X&linkCode=as2&tag=booiverea-20
+aff-in: http://www.amazon.in/gp/product/159659599X?ie=UTF8&camp=3626&creativeASIN=159659599X&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/159659599X?ie=UTF8&camp=1789&creativeASIN=159659599X&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

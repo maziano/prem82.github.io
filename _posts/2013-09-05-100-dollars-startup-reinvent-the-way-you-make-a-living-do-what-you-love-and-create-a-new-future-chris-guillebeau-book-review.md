@@ -3,8 +3,8 @@ layout: post
 title: $100 Start up - Reinvent the Way You Make a Living, Do What You Love and Create a New Future
 date: 2013-09-05
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/0307951529/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307951529&linkCode=as2&tag=booiverea-20
+aff-in: http://www.amazon.in/gp/product/023076651X?ie=UTF8&camp=3626&creativeASIN=023076651X&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/0307951529?ie=UTF8&camp=1789&creativeASIN=0307951529&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

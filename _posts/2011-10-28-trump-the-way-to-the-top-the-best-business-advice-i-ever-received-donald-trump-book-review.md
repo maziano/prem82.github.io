@@ -3,8 +3,8 @@ layout: post
 title: Trump - The Way To The Top - The Best Business Advice I Ever Received
 date: 2011-10-28
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/1400050162/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1400050162
+aff-in: http://www.amazon.in/gp/product/1400050162?ie=UTF8&camp=3626&creativeASIN=1400050162&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1400050162?ie=UTF8&camp=1789&creativeASIN=1400050162&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

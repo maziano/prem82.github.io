@@ -3,8 +3,8 @@ layout: post
 title: 97 Things Every Software Architect Should Know - Collective Wisdom from the Experts
 date: 2013-06-27
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/059652269X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=059652269X&linkCode=as2&tag=booiverea-20
+aff-in: http://www.amazon.in/gp/product/8184046898?ie=UTF8&camp=3626&creativeASIN=8184046898&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/059652269X?ie=UTF8&camp=1789&creativeASIN=059652269X&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

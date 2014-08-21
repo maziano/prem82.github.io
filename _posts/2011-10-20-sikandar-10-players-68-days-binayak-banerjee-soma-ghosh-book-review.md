@@ -5,8 +5,8 @@ date: 2011-10-20
 category: books
 author: Sruthi Kitcha
 authorpage: http://penurheart.blogspot.com
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/9380658737/ref=as_li_tf_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=9380658737
+aff-in: http://www.amazon.in/gp/product/9380658737?ie=UTF8&camp=3626&creativeASIN=9380658737&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/B008593P4G?ie=UTF8&camp=1789&creativeASIN=B008593P4G&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

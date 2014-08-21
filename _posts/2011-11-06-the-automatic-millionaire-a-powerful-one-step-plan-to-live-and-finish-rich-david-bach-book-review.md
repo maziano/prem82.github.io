@@ -3,8 +3,8 @@ layout: post
 title: The Automatic Millionaire - A Powerful One-Step Plan To Live And Finish Rich
 date: 2011-11-06
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/0767923820/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0767923820
+aff-in: http://www.amazon.in/gp/product/0767923820?ie=UTF8&camp=3626&creativeASIN=0767923820&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/0767923820?ie=UTF8&camp=1789&creativeASIN=0767923820&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

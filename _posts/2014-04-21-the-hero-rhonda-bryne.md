@@ -3,8 +3,8 @@ layout: post
 title: The Hero
 date: 2014-04-21
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/1476758581/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476758581&linkCode=as2&tag=booiverea-20
+aff-in: http://www.amazon.in/gp/product/1471133443?ie=UTF8&camp=3626&creativeASIN=1471133443&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1476758581?ie=UTF8&camp=1789&creativeASIN=1476758581&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

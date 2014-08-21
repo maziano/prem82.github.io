@@ -3,8 +3,8 @@ layout: post
 title: Do You Matter? - How Great Design Will Make People Love Your Company
 date: 2011-11-15
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/013706506X/ref=as_li_tf_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=013706506X
+aff-in: http://www.amazon.in/gp/product/013706506X?ie=UTF8&camp=3626&creativeASIN=013706506X&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/013706506X?ie=UTF8&camp=1789&creativeASIN=013706506X&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

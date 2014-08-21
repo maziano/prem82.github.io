@@ -3,8 +3,8 @@ layout: post
 title: High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success
 date: 2010-08-12
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/High-Altitude-Leadership-Forbidding-non-Franchise/dp/0470345039?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969
+aff-in: http://www.amazon.in/gp/product/0470345039?ie=UTF8&camp=3626&creativeASIN=0470345039&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/0470345039?ie=UTF8&camp=1789&creativeASIN=0470345039&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

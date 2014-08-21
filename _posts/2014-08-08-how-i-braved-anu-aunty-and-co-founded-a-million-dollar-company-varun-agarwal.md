@@ -3,8 +3,8 @@ layout: post
 title: How I Braved Anu Aunty & Co-founded A Million Dollar Company
 date: 2014-08-08
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/812911979X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=812911979X&linkCode=as2&tag=booiverea-20&linkId=QM42A4VFQMUX4WCH
+aff-in: http://www.amazon.in/gp/product/812911979X?ie=UTF8&camp=3626&creativeASIN=812911979X&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/812911979X?ie=UTF8&camp=1789&creativeASIN=812911979X&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

@@ -3,8 +3,8 @@ layout: post
 title: Happier Than God - Turn ordinary life into an extraordinary experience
 date: 2011-04-17
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/Happier-than-God-Extraordinary-Experience/dp/1401933661?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-in: http://www.amazon.in/gp/product/8179928802?ie=UTF8&camp=3626&creativeASIN=8179928802&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1571745769?ie=UTF8&camp=1789&creativeASIN=1571745769&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

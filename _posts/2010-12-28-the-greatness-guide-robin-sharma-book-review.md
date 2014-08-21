@@ -3,8 +3,8 @@ layout: post
 title: The Greatness Guide
 date: 2010-12-28
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/Greatness-Guide-Robin-S-Sharma/dp/B001DYI1B2?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969
+aff-in: http://www.amazon.in/gp/product/8179925765?ie=UTF8&camp=3626&creativeASIN=8179925765&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/1554684366?ie=UTF8&camp=1789&creativeASIN=1554684366&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

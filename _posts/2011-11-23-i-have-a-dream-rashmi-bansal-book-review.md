@@ -3,8 +3,8 @@ layout: post
 title: I Have A Dream
 date: 2011-11-23
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/9380658389/ref=as_li_tf_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=9380658389
+aff-in: http://www.amazon.in/gp/product/9380658389?ie=UTF8&camp=3626&creativeASIN=9380658389&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/9380658389?ie=UTF8&camp=1789&creativeASIN=9380658389&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

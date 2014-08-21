@@ -3,8 +3,8 @@ layout: post
 title: The Secret Letters of the Monk Who Sold His Ferrari
 date: 2012-03-04
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/gp/product/0007321112/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0007321112
+aff-in: http://www.amazon.in/gp/product/8184952929?ie=UTF8&camp=3626&creativeASIN=8184952929&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/0062226088?ie=UTF8&camp=1789&creativeASIN=0062226088&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 

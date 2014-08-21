@@ -3,8 +3,8 @@ layout: post
 title: Who Moved My Cheese? - An A-Mazing Way to Deal with Change in Your Work and in Your Life
 date: 2011-01-26
 category: books
-aff-in: 
-aff-us: http://www.amazon.com/Who-Moved-My-Cheese-Amazing/dp/0399144463?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969
+aff-in: http://www.amazon.in/gp/product/0091816971?ie=UTF8&camp=3626&creativeASIN=0091816971&linkCode=xm2&tag=smileprem-in-21
+aff-us: http://www.amazon.com/gp/product/0399144463?ie=UTF8&camp=1789&creativeASIN=0399144463&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
 aff-de: 
