@@ -5,7 +5,7 @@ date: 2010-12-28
 category: books
 aff-in: http://www.amazon.in/gp/product/8179925765?ie=UTF8&camp=3626&creativeASIN=8179925765&linkCode=xm2&tag=smileprem-in-21
 aff-us: http://www.amazon.com/gp/product/1554684366?ie=UTF8&camp=1789&creativeASIN=1554684366&linkCode=xm2&tag=smileprem-us-20
-aff-ca: 
+aff-ca: http://www.amazon.ca/gp/product/1554684366?ie=UTF8&camp=15121&creativeASIN=1554684366&linkCode=xm2&tag=smileprem-ca-20
 aff-gb: 
 aff-de: 
 aff-es: 

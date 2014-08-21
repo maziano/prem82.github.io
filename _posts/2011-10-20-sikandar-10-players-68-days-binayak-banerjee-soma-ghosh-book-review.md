@@ -7,7 +7,7 @@ author: Sruthi Kitcha
 authorpage: http://penurheart.blogspot.com
 aff-in: http://www.amazon.in/gp/product/9380658737?ie=UTF8&camp=3626&creativeASIN=9380658737&linkCode=xm2&tag=smileprem-in-21
 aff-us: http://www.amazon.com/gp/product/B008593P4G?ie=UTF8&camp=1789&creativeASIN=B008593P4G&linkCode=xm2&tag=smileprem-us-20
-aff-ca: 
+aff-ca: http://www.amazon.ca/gp/product/B008593P4G?ie=UTF8&camp=15121&creativeASIN=B008593P4G&linkCode=xm2&tag=smileprem-ca-20
 aff-gb: 
 aff-de: 
 aff-es: 

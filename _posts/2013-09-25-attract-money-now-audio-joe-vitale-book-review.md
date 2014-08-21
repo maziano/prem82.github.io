@@ -5,7 +5,7 @@ date: 2013-09-25
 category: audio-books
 aff-in: http://www.amazon.in/gp/product/159659599X?ie=UTF8&camp=3626&creativeASIN=159659599X&linkCode=xm2&tag=smileprem-in-21
 aff-us: http://www.amazon.com/gp/product/159659599X?ie=UTF8&camp=1789&creativeASIN=159659599X&linkCode=xm2&tag=smileprem-us-20
-aff-ca: 
+aff-ca: http://www.amazon.ca/gp/product/159659599X?ie=UTF8&camp=15121&creativeASIN=159659599X&linkCode=xm2&tag=smileprem-ca-20
 aff-gb: 
 aff-de: 
 aff-es: 
