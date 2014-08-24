@@ -8,7 +8,7 @@ authorpage: http://penurheart.blogspot.com
 aff-in: http://www.amazon.in/gp/product/9381626510?ie=UTF8&camp=3626&creativeASIN=9381626510&linkCode=xm2&tag=smileprem-in-21
 aff-us: http://www.amazon.com/gp/product/8129116006?ie=UTF8&camp=1789&creativeASIN=8129116006&linkCode=xm2&tag=smileprem-us-20
 aff-ca: http://www.amazon.ca/gp/product/B00KMVPPE8?ie=UTF8&camp=15121&creativeASIN=B00KMVPPE8&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: 
+aff-gb: http://www.amazon.co.uk/gp/product/8129116006?ie=UTF8&camp=1634&creativeASIN=8129116006&linkCode=xm2&tag=smileprem-gb-21
 aff-de: 
 aff-es: 
 aff-fr: 

@@ -6,7 +6,7 @@ category: books
 aff-in: http://www.amazon.in/gp/product/1847374107?ie=UTF8&camp=3626&creativeASIN=1847374107&linkCode=xm2&tag=smileprem-in-21
 aff-us: http://www.amazon.com/gp/product/1416599428?ie=UTF8&camp=1789&creativeASIN=1416599428&linkCode=xm2&tag=smileprem-us-20
 aff-ca: http://www.amazon.ca/gp/product/B001M5B0G0?ie=UTF8&camp=15121&creativeASIN=B001M5B0G0&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: 
+aff-gb: http://www.amazon.co.uk/gp/product/1847394205?ie=UTF8&camp=1634&creativeASIN=1847394205&linkCode=xm2&tag=smileprem-gb-21
 aff-de: 
 aff-es: 
 aff-fr: 

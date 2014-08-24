@@ -34,3 +34,4 @@ permalink: /category/bucket-list/
 1. [<del>TCS World 10K</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_TCS_10K.jpg) (Completed on 18-May-2014)
 2. [<del>TRORT 006</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_TRORT_006_10K.jpg) (Completed on 26-Jul-2014)
 3. [<del>Run for a Beat</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Run_For_A_Beat_10K.jpg) (Completed on 10-Aug-2014)
+4. [<del>Snap Run</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Snap_Run_10K.jpg) (Completed on 24-Aug-2014)  
