@@ -28,7 +28,7 @@
 	<strong>Spain:</strong> Click to buy <a href="{{ page.aff-es }}">[{{ page.title }}]</a> from Amazon.<br/>
 {% endif %}
 
-<!-- Amazon FR Affiliate Links [smileprem-fr-21] -->
+<!-- Amazon FR Affiliate Links [] -->
 {% if page.aff-fr %}
 	<strong>France:</strong> Click to buy <a href="{{ page.aff-fr }}">[{{ page.title }}]</a> from Amazon.<br/>
 {% endif %}
