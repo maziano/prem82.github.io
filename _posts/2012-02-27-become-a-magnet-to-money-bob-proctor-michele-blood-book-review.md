@@ -7,11 +7,6 @@ aff-in: http://www.amazon.in/gp/product/8184951728?ie=UTF8&camp=3626&creativeASI
 aff-us: http://www.amazon.com/gp/product/1890679461?ie=UTF8&camp=1789&creativeASIN=1890679461&linkCode=xm2&tag=smileprem-us-20
 aff-ca: http://www.amazon.ca/gp/product/B001B16RS6?ie=UTF8&camp=15121&creativeASIN=B001B16RS6&linkCode=xm2&tag=smileprem-ca-20
 aff-gb: http://www.amazon.co.uk/gp/product/8184951728?ie=UTF8&camp=1634&creativeASIN=8184951728&linkCode=xm2&tag=smileprem-gb-21
-aff-de: http://www.amazon.de/gp/product/8184951728?ie=UTF8&camp=1638&creativeASIN=8184951728&linkCode=xm2&tag=smileprem-de-21
-aff-es: 
-aff-fr: http://www.amazon.fr/gp/product/8184951728?ie=UTF8&camp=1642&creativeASIN=8184951728&linkCode=xm2&tag=smileprem-fr-21
-aff-it: 
-aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

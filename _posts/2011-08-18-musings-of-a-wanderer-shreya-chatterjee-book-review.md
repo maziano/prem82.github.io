@@ -7,11 +7,6 @@ aff-in: http://www.amazon.in/gp/product/8182532671?ie=UTF8&camp=3626&creativeASI
 aff-us: http://www.amazon.com/gp/product/8182532671?ie=UTF8&camp=1789&creativeASIN=8182532671&linkCode=xm2&tag=smileprem-us-20
 aff-ca: 
 aff-gb: 
-aff-de: 
-aff-es: 
-aff-fr: 
-aff-it: 
-aff-br: 
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
