@@ -7,11 +7,6 @@ aff-in:
 aff-us: 
 aff-ca: 
 aff-gb: 
-aff-de: 
-aff-es: 
-aff-fr: 
-aff-it: 
-aff-br: 
 ---
 
 <img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 

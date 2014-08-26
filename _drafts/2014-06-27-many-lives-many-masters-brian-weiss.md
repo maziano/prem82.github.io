@@ -7,11 +7,6 @@ aff-in: test
 aff-us: http://www.amazon.com/gp/product/0671657860/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671657860&linkCode=as2&tag=booiverea-20&linkId=XIT6B5JKV5N5AMDV
 aff-ca: test
 aff-gb: test
-aff-de: test
-aff-es: test
-aff-fr: test
-aff-it: test
-aff-br: test
 ---
 
 <img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
