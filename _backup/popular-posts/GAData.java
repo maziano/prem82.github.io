@@ -18,7 +18,7 @@ public class GAData {
 	public static String OUTPUT_MARKDOWN_FILE_NAME = "best-of.md";
 
 	public static String[] UNWANTED_URLS = { "Page", "/", "/archive/", "/about/", "/best-of/", "/books/", "/2010/02/01/what-is-love/", "/search/label/Social",
-			"/2013_01_01_archive.html", "/page4/", "/page2/", "/category/books/", "/contact/", "/subscribe/" };
+			"/2013_01_01_archive.html", "/page4/", "/page2/", "/category/books/", "/categories", "/contact/", "/subscribe/" };
 
 	public static String[] UNWANTED_PAGES = { "404" };
 
