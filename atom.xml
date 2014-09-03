@@ -19,7 +19,7 @@ date: 2014-03-02 00:00:00 +0530
 	<icon>{{ site.url }}/favicon/favicon-195.png</icon>
 	<logo>{{ site.url }}/img/Premkumar_Masilamani.jpg</logo>
 
-	{% for post in site.posts %}
+	{% for post in site.posts limit:5 %}
 	<entry>
 		<title>{{ post.title | xml_escape }}</title>
 		<link rel="alternate" type="html" href="{{ site.url }}{{ post.url }}"/>

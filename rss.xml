@@ -19,7 +19,7 @@ date: 2013-12-12 00:00:00 +0530
 		<managingEditor>{{ site.email }}</managingEditor>
 		<webMaster>{{ site.email }}</webMaster>
 		<author>{{ site.email }}</author>
-		{% for post in site.posts %}
+		{% for post in site.posts limit:5 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
