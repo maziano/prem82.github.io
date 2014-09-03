@@ -119,6 +119,6 @@ Should there be one for every article?. If you wish so, let this be the conclusi
 
 ### References
 <http://www.veganbodybuilding.com>  
-[FRANK MEDRANO FITNESS](http://www.thefrankmedrano.com/)  
+[Frank Medrano Fitness](http://www.thefrankmedrano.com/)  
 [78-Year-Old Vegan Male Bodybuilder, Jim Morris, Will Make You Reconsider Your Diet](http://www.huffingtonpost.co.uk/2014/03/29/vegan-male-bodybuilder_n_4560059.html)  
 [Black Male Vegan: 77-Year-Old Bodybuilder Jim Morris Proves Vegans Can Be Muscular & Healthy](http://frugivoremag.com/2012/10/black-male-vegan-77-year-old-bodybuilder-jim-morris-proves-vegans-can-be-muscular-healthy/)  
