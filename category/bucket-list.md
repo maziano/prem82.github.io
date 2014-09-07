@@ -12,7 +12,7 @@ permalink: /category/bucket-list/
 ### To Do
 
 1. The Perfect Six-Pack Beach Body  
-2. Pose for an Undergarment Advertisement  
+2. Pose with only undergarments  
 3. [<del>Get a Big Tattoo</del>]({{site.img-url}}/bucketlist/Premkumar_Masilamani_Sangavi_Tattoo.jpg) (Completed on 31-May-2014)
 4. The Perfect Eye Sight 
 5. Become a Writer
@@ -35,3 +35,4 @@ permalink: /category/bucket-list/
 2. [<del>TRORT 006</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_TRORT_006_10K.jpg) (Completed on 26-Jul-2014)
 3. [<del>Run for a Beat</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Run_For_A_Beat_10K.jpg) (Completed on 10-Aug-2014)
 4. [<del>Snap Run</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Snap_Run_10K.jpg) (Completed on 24-Aug-2014)  
+5. [<del>GFK Run, Be A Hero</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_GFK_Run_10K_with_P_T_Usha.jpg) (Completed on 07-Sep-2014)  
