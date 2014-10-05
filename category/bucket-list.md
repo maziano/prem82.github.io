@@ -36,3 +36,5 @@ permalink: /category/bucket-list/
 3. [<del>Run for a Beat</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Run_For_A_Beat_10K.jpg) (Completed on 10-Aug-2014)
 4. [<del>Snap Run</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Snap_Run_10K.jpg) (Completed on 24-Aug-2014)  
 5. [<del>GFK Run, Be A Hero</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_GFK_Run_10K_with_P_T_Usha.jpg) (Completed on 07-Sep-2014)  
+6. [<del>Spirit of Wipro Run</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Spirit_of_Wipro_Run_10K.jpg) (Completed on 21-Sep-2014)  
+7. [<del>Coimbatore Marathon</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Coimbatore_Marathon_10K.jpg) (Completed on 05-Oct-2014)  
