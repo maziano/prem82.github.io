@@ -6,7 +6,7 @@ permalink: /best-of/
 ---
 <span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/best-of">best of</a></span>
 
-<p><span>1</span> &raquo; <a href="/search?q=cache:http://blog.smileprem.com/buying-gold-jewellery-know-the-facts-first/">Buying Gold Jewellery? - Know the facts first !</a><p>
+<p><span>1</span> &raquo; <a href="/buying-gold-jewellery-know-the-facts-first/">Buying Gold Jewellery? - Know the facts first !</a><p>
 <p><span>2</span> &raquo; <a href="/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/">Building the Perfect Physique - [Tip 5] Weight Loss with Horse Gram</a><p>
 <p><span>3</span> &raquo; <a href="/indian-toilet-vs-western-toilet/">Indian Toilet vs Western Toilet</a><p>
 <p><span>4</span> &raquo; <a href="/meat-eating-animal-lovers/">Meat Eating Animal Lovers</a><p>
