@@ -59,9 +59,9 @@ May be, you are an angel born to spread love beyond your own species?.
 
 I don't know.  
 
-Everyone will have their own, unique realization - if you spend your time to understand your instinct.  
+Everyone will have their own, unique realization - if you spend time to understand your instinct.  
 
-Selectively ignoring an fact suppresses your instinct. Isn't it?.  
+Selectively ignoring a fact suppresses your instinct. Isn't it?.  
 
 I don't care if you are vegan or meat eater.  
 
