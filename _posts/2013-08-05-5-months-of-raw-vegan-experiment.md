@@ -10,8 +10,8 @@ category: challenges
 25th August 2012 - Some seemingly very unimportant event happened in my life. I couldn't tie my shoe laces while sitting in a chair. I was huffing & puffing when I am done. Yeah. I had a big belly. I could not believe the condition of my physique. I started thinking. Just like the butterfly effect in Chaos Theory, this event triggered a series of events in my life, which led me to change my lifestyle drastically. I started doing one little thing at a time. Below are the list of changes that I attempted from last year.  
   
 [Building The Perfect Physique]({{site.url}}/building-the-perfect-physique/)  
-[Building the Perfect Physique - Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-[Building the Perfect Physique - Tip 2: Lose weight out of the blue !]({{site.url}}/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
+[Building the Perfect Physique - Tip 1: Eat breakfast within an hour of waking up]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
+[Building the Perfect Physique - Tip 2: Lose weight out of the blue]({{site.url}}/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
 [Building the Perfect Physique - Tip 3: Lose Weight with Laziness]({{site.url}}/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
 [Building the Perfect Physique - Tip 4: Weight Loss with Mind Movies]({{site.url}}/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)  
 [Building the Perfect Physique - Tip 5: Weight Loss with Horse Gram]({{site.url}}/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/)   
