@@ -32,7 +32,7 @@ Jack's early childhood days with his military father was very strict and would o
 Along with Barbara Marx, the group of Enlightened Souls are planning to take the entire humanity's awareness to the next level. They are planning for a birthday party for the Humanity on December 22, 2012. I am little excited about the event and little skeptic as well. The details of the event can be found in the below websites.  
   
 [The Golden Motorcycle Gang](http://www.goldenmotorcyclegang.com/)  
-[Birth 2012](http://www.birth2012.com/main.html)  
+[Birth 2012](http://www.birth2012.com/)  
   
 A good story and a good goal for the entire humanity. But, what does all these mean to me?. What am I supposed to do after reading this book?. Why did I read this book in first place?. To be true, I am not moved by the life story of Jack Canfield, but by the concept of eternal beings born in the world, without the knowledge of who they are. I always have this idea, that I am a super natural power living in a human body. It may sound superstitious, since I neither believe in God, nor follow any religion. The movies *The Matrix* and *Avatar* had a huge impact in the way, that I think about myself. This book is third in that list. What if, I am part of the Golden Motorcycle Gang, who is yet to realize my true nature?. The immediate voice in my mind says, "You are not part of any gang. You would rather be a lonely rider". This could be my super ego, which always tell me to be a leader, not a follower. Never mind.  
   
