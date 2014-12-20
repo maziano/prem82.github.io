@@ -39,3 +39,4 @@ permalink: /category/bucket-list/
 6. [<del>Spirit of Wipro Run</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Spirit_of_Wipro_Run_10K.jpg) (Completed on 21-Sep-2014)  
 7. [<del>Coimbatore Marathon</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Coimbatore_Marathon_10K.jpg) (Completed on 05-Oct-2014)  
 8. [<del>Dusk-2-Dawn Chennai Night Marathon</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_D2D_Chennai_Night_Marathon_10K.JPG) (Completed on 22-Nov-2014)
+9. [<del>Bengaluru Midnight Marathon</del>]({{site.img-url}}/running/Premkumar_Masilamani_2014_Bengaluru_Midnight_Marathon_10K.JPG) (Completed on 20-Dec-2014)
