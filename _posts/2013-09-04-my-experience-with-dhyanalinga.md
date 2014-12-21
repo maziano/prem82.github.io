@@ -56,7 +56,7 @@ We saw a small beautiful artificial pond with Lillies and Goldfishes, on the way
 ### Sarva Tharma Sthamba  
   
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/Dhyanalinga_Sarva_Dharma_Sthamba.JPG"/>   
+src="{{site.img-url}}/Dhyanalinga_Sarva_Dharma_Sthamba.jpg"/>   
 
 We saw *Sarva Tharma Sthamba*, just before the entrance, signifying singularity or union of all religions. This stone has the inscriptions of symbols of Hinduism, Islam, Christianity, Jainism, Taoism, Zoroastrianism, Judaism, Buddhism, and Shinto welcoming people from all religious beliefs. I am not sure how many people actually notice this Sthamba. I did not see a single person looking or checking this out. May be this should be placed in a more strategical place or should be made more attractive - to convey the message.  
   

@@ -10,7 +10,7 @@ aff-gb: http://www.amazon.co.uk/gp/product/1601632444?ie=UTF8&camp=1634&creative
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg"/>
+src="{{site.img-url}}/100-ways-to-motivate-yourself-chandler-steve.jpg"/>
 **Book Name:** 100 Ways to Motivate Yourself - Change Your Life Forever (Audio CD)  
 **Author:** Steve Chandler  
 **Publisher:** High Bridge Company  

@@ -36,7 +36,7 @@ It may sound strange, but people do wear blue color shaded sunglasses to avoid t
 
 Why am I interested in this thing, with the claims of a bunch of unknown people, and unknown doctors and no proved evidence in science?. Just because, Johnny Depp tried this to reduce weight for one of his movies (he he he he... the blue color could be a co-incidence also). I am not mad enough to wear a blue color sunglasses all day, but I would try other options in the dining area.  
 
-![Blue Color aids Weight Loss - Johny Depp Sunglasses]({{site.img-url}}/blue-aids-weight-loss-johnny-Depp-Blue-Sunglass.jpg)  
+![Blue Color aids Weight Loss - Johny Depp Sunglasses]({{site.img-url}}/blue-aids-weight-loss-johnny-depp-blue-sunglasses.jpg)  
 
 ### <span style="color: blue;">Which color increases appetite?</span>  
 
