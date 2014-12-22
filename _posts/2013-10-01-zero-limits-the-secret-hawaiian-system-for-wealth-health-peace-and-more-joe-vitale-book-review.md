@@ -10,7 +10,7 @@ aff-gb: http://www.amazon.co.uk/gp/product/0470402563?ie=UTF8&camp=1634&creative
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/Zero-Limits-Joe-Vitale-Ihaleakala-Hew-Len.jpg"/>
+src="{{site.img-url}}/zero-limits-joe-vitale-ihaleakala-hew-len.jpg"/>
 **Book Name:** Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More  
 **Author:** Joe Vitale, Ihaleakala Hew Len  
 **Publisher:** John Wiley & Sons  

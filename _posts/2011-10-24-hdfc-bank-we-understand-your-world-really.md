@@ -5,7 +5,7 @@ date: 2011-10-24
 category: social
 ---
 
-![HDFC Logo]({{site.img-url}}/HDFC-logo.jpg)  
+![HDFC Logo]({{site.img-url}}/hdfc-logo.jpg)  
 
 Why this post?. What is it that I want to communicate to the world about HDFC Bank?. Just my recent bitter experiences with HDFC. I have been banking with HDFC for the past 7 years. I am one of the high value card member who always pays in full and never defaulted a single payment in my life. Here is what happened...  
   

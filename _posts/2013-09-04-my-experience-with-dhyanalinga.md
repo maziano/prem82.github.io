@@ -5,7 +5,7 @@ date: 2013-09-04
 category: travelogue
 ---
 
-![Inside Dhyanalinga]({{site.img-url}}/Inside-Dhyanalinga.jpg)  
+![Inside Dhyanalinga]({{site.img-url}}/inside-dhyanalinga.jpg)  
 
 ### What is Dhyanalinga?  
 
@@ -40,7 +40,7 @@ I strongly suggest you to take a dip, whether you are religious or not. Its a lo
 ### Linga Bhairavi Temple  
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/LingaBhairavi-Temple.jpg"/>   
+src="{{site.img-url}}/linga-bhairavi-temple.jpg"/>   
 
 There are volunteers everywhere to guide you to the places and to answer your questions. The old volunteer in front of this temple, explained that this is the feminine form of Lingam. You can worship Linga Bhairavi as you would do to other Hindu gods. There are requests made to her, in exchange for flowers and poojas. A typical Hindu establishment. I seriously do not see a need for this temple inside a meditation place.  
   
@@ -49,14 +49,14 @@ I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doi
 ### Nandhi  
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/Dhyanalinga-Nandi.jpg"/>   
+src="{{site.img-url}}/dhyanalinga-nandi.jpg"/>   
 
 We saw a small beautiful artificial pond with Lillies and Goldfishes, on the way to Dhyanalinga and spent some time walking around the pond, watching the flowers and fishes. It was good. A big 15 foot Nandhi interrupted us on Dhyanalinga's entrance. Its made up of a metal alloy, filled with herbs inside, consecrated by a ceremony. It was painted in pitch black color and looks majestic than the Charging Bull in front of Newyork Stock Exchange.We were not allowed to touch or climb the Nandhi.  
   
 ### Sarva Tharma Sthamba  
   
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/Dhyanalinga_Sarva_Dharma_Sthamba.jpg"/>   
+src="{{site.img-url}}/dhyanalinga-sarva-dharma-sthamba.jpg"/>   
 
 We saw *Sarva Tharma Sthamba*, just before the entrance, signifying singularity or union of all religions. This stone has the inscriptions of symbols of Hinduism, Islam, Christianity, Jainism, Taoism, Zoroastrianism, Judaism, Buddhism, and Shinto welcoming people from all religious beliefs. I am not sure how many people actually notice this Sthamba. I did not see a single person looking or checking this out. May be this should be placed in a more strategical place or should be made more attractive - to convey the message.  
   

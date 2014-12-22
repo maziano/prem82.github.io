@@ -5,7 +5,7 @@ date: 2012-09-26
 category: health
 ---
 
-![Mind Movie]({{site.img-url}}/Mind-Movie-Brain.jpg)  
+![Mind Movie]({{site.img-url}}/mind-movie-brain.jpg)  
   
 ### What is a Mind Movie?  
 

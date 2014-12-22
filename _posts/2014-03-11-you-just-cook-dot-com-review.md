@@ -5,7 +5,7 @@ date: 2014-03-11
 category: review
 ---
 
-![The Art and Science of Cooking]({{site.img-url}}/The-Art-and-Science-of-Cooking.png)  
+![The Art and Science of Cooking]({{site.img-url}}/the-art-and-science-of-cooking.png)  
 
 You love cooking?. Great. Go on. Read. 
 

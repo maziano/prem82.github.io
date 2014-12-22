@@ -5,7 +5,7 @@ date: 2012-05-03
 category: personal
 ---
 
-![Sangavi and Premkumar Masilamani]({{site.img-url}}/Sangavi-Premkumar.jpg)  
+![Sangavi and Premkumar Masilamani]({{site.img-url}}/sangavi-premkumar.jpg)  
 
 This live broadcast is for for all our friends, who wanted to be with us in our most precious moment, but could not make it. You are never far from us. You can watch the Wedding and the Reception Live from your living room. Yeah!...  
   

@@ -17,7 +17,7 @@ date: 2014-03-02 00:00:00 +0530
 	</author>
 	<category term="blogs"/>
 	<icon>{{ site.url }}/favicon/favicon-195.png</icon>
-	<logo>{{ site.url }}/img/Premkumar_Masilamani.jpg</logo>
+	<logo>{{ site.url }}/img/premkumar-masilamani.jpg</logo>
 
 	{% for post in site.posts limit:5 %}
 	<entry>

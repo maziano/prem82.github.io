@@ -10,7 +10,7 @@ aff-gb: http://www.amazon.co.uk/gp/product/812911979X?ie=UTF8&camp=1634&creative
 ---
 
 <img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/How_I_Braved_Anu_Aunty_and_Co-Founded_A_Million_Dollar_Company.jpg"/>
+src="{{site.img-url}}/how-i-braved-anu-aunty-and-co-founded-a-million-dollar-company.jpg"/>
 **Book:** How I Braved Anu Aunty & Co-founded A Million Dollar Company  
 **Author:** Varun Agarwal  
 **ISBN:** 812911979X  

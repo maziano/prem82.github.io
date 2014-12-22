@@ -12,7 +12,7 @@ It's not that I am new to Indian Toilets. I was using it from my childhood. I st
 ### Anal Rectal Angle while Sitting and Squatting:
   
 ![Anal Rectal Angle - Sitting Vs Squatting]({{site.img-url}}/anal-rectal-angle-sitting-squatting-comparison.jpg)  
-![Indian Vs Western Toilet]({{site.img-url}}/Indian-vs-Western-Toilet.jpg)  
+![Indian Vs Western Toilet]({{site.img-url}}/indian-vs-western-toilet.jpg)  
   
 ### History of Western Toilets:
 

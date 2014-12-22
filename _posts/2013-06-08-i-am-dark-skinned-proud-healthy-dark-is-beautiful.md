@@ -8,7 +8,7 @@ category: social
 I have been watching the Indian Media (TV, Newspapers, Magazines etc) recent days and I am absolutely irritated to the core about thousands of "fairness cream" advertisements played the media every minute of the day. What's wrong with being dark?. Why do you (fairness cream companies) want to change my skin color?. Why even the well-educated Indians wants to have a fairer skin?. Initially, it was targeted only at women. Now, men too. C'mon guys. Build your body and stamina. *Your skin color does not matter, in your most important moment of manliness*. Trust me!.  
   
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.img-url}}/Dark_Is_Beautiful-Nandita-Das.jpg"/>   
+src="{{site.img-url}}/dark-is-beautiful-nandita-das.jpg"/>   
 
 I was born into a Dravidian family in Southern India few years (?) back. By the term Dravidian, I refer to the ethnic group which lives in South India for thousands of years. This group includes Tamils, Telugus, Kannadigas, Malayalis, Tuluvas, Kurukhs, Kondavas, Kondhas and Gondis. They speak Dravidian languages. All of them were dark. No exceptions. That dark skin helped us to survive & stay healthy in the tropical climate. Back then, skin color was never considered as a component of beauty!.   
   
@@ -47,5 +47,3 @@ src="http://youtube.googleapis.com/v/vPayFrCOiZM">
 My suggestion is this - Please don't let them dictate, how should you look, how should you smell, how should you dress, over or under. It's your body. You know the basics to keep it clean. That's more than enough. Let your mantra be - *Clean & Healthy*. Please don't imagine yourself in some one else's body. No one in the world worth it.  
   
 Your skin color is a gift from your parents. It's a symbol of the society, place and culture you belong to. Dark or White. Feel proud about it !.   
-  
-நிறமென்றால் நிறமல்ல. வரம் வாங்கி வந்ததடி. என் அன்னை தந்ததடி !!!  
