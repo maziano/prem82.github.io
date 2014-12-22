@@ -11,7 +11,7 @@ date: 2013-12-12 00:00:00 +0530
 		<category>Blogs</category>
 		<copyright>Uncopyrighted. Free to the world.</copyright>
 		<image>
-			<url>{{site.url}}/img/Premkumar_Masilamani.jpg</url>
+			<url>{{site.url}}/img/premkumar-masilamani.jpg</url>
 			<title>{{ site.author }}</title>
 			<link>{{ site.url }}</link>
 		</image>

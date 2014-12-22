@@ -23,7 +23,7 @@ Generally, I do not prefer Gold, in fact my engagement ring is the first gold or
   
 **BIS Hallmark:** The Government of India formed Bureau of Indian Standards (BIS) in the year 1987, which is the only institution in India, authorized to hallmark golden Jewelry. The Jewellers has to obtain a license from BIS for a fee and hallmark the jewel they make with BIS logo. BIS maintains market surveillance on the certified jewellers, on random basis. Market surveillance involves collection of Hallmarked Gold Jewelry from licensee's retail outlet/manufacturing premises and having it tested for conformity in BIS recognized hallmarking center. Deviations in degree of purity of gold and operation not in conformance to the system may result in cancellation of BIS license.  
   
-![Gold BIS Hallmark]({{site.img-url}}/buying-gold-jewellery-carat-BIS-Hallmark.jpg)  
+![Gold BIS Hallmark]({{site.img-url}}/buying-gold-jewellery-carat-bis-hallmark.jpg)  
 
 Most of the Gold Smiths print the word "916" or "916 KDM" on the Jewels without the logo. Many jewellers will show you these printed numbers and claim that they are 916 KDM Jewels. Do not listen to the jewellers. Just look for the above logo. If you do not find the logo in the Jewels, it means that the specific Jewel is NOT verified for the purity of gold and you are being cheated.  
 
@@ -74,7 +74,7 @@ We decided to exchange the unused rings and bangles for the new gold. Joy Alukka
 
 Once this is settled, another surprise was waiting for me. One of the Golden Ring (1 Sovereign) that my dad purchased from L.K.S Jewellers many years ago, with the printed word "916 KDM" failed in the purity test. It had only 80% gold and the rest was mixed with Silver!. This jewel is from one of established Jewellers in Chennai. Hard to believe right?. Joy Alukkas melted the ring and showed the proof in the purity meter. Here is the picture.  
   
-![LKS Jewellery 916 KDM Cheat]({{site.img-url}}/LKS-Jewellery-916-KDM-cheat.jpg)  
+![LKS Jewellery 916 KDM Cheat]({{site.img-url}}/lks-jewellery-916-kdm-cheat.jpg)  
   
 My Dad used to buy most of the jewelry from one of the showrooms of L.K.S Jewelry, since it was close to our house. My dad trusted the jewelry shop so much that every single jewel in our house is from that shop. But, *L.K.S Jewellers cheated my dad and lost a loyal customer.*  
   

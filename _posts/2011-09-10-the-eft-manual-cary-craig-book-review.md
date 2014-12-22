@@ -10,7 +10,7 @@ aff-gb: http://www.amazon.co.uk/gp/product/1604152141?ie=UTF8&camp=1634&creative
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.img-url}}/the-EFT-manual-cary-craig.jpg"/>
+src="{{site.img-url}}/the-eft-manual-cary-craig.jpg"/>
 **Book:** The EFT Manual  
 **Author:** Gary Craig  
 **ISBN:** 1604150661  

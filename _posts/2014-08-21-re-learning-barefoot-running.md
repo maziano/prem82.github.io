@@ -67,9 +67,9 @@ I can see hundreds of sponsored researches in the internet which says running in
 
 I completed my first ever athletic event - TCS World 10K @ 18-May-2014, in barefoot in 01:03 hrs. Good for a first time runner, isn't?. Now, I can call myself an athlete :)
 
-![Premkumar Masilamani - TCS World 10K - 2014]({{site.img-url}}/running/Premkumar_Masilamani_2014_TCS_10K_temp.jpg)
+![Premkumar Masilamani - TCS World 10K - 2014]({{site.img-url}}/running/premkumar-masilamani-2014-tcs-10k.jpg)
 
-**PS:** At the time of writing, I completed 3 barefoot 10K runs [TCS World 10K]({{site.img-url}}/running/Premkumar_Masilamani_2014_TCS_10K.jpg), [TRORT - 006]({{site.img-url}}/running/Premkumar_Masilamani_2014_TRORT_006_10K.jpg) and [Run for a Beat]({{site.img-url}}/running/Premkumar_Masilamani_2014_Run_For_A_Beat_10K.jpg) and planning to run more.
+**PS:** At the time of writing, I completed 3 barefoot 10K runs [TCS World 10K]({{site.img-url}}/running/premkumar-masilamani-2014-tcs-10k-big.jpg), [TRORT - 006]({{site.img-url}}/running/premkumar-masilamani-2014-trort-006_10k.jpg) and [Run for a Beat]({{site.img-url}}/running/premkumar-masilamani-2014-run-for-a-beat_10k.jpg) and planning to run more.
 
 **PPS:** I stopped using mobile phone, apps or music while running. Trust me, you will enjoy your run more and feel connected to running without music. I use my breathing as an indicator to pause/start the run. I completed the second and third 10K without using any device. Our body has an amazing, intuitive feedback system. I am trying to re-learn and master that system now :)   
 
