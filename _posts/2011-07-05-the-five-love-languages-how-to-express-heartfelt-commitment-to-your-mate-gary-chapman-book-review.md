@@ -5,8 +5,8 @@ date: 2011-07-05
 category: books
 aff-in: http://www.amazon.in/gp/product/8186775099?ie=UTF8&camp=3626&creativeASIN=8186775099&linkCode=xm2&tag=smileprem-in-21
 aff-us: http://www.amazon.com/gp/product/B00F4KBJ8I?ie=UTF8&camp=1789&creativeASIN=B00F4KBJ8I&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/B00F4KBJ8I?ie=UTF8&camp=15121&creativeASIN=B00F4KBJ8I&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/B00F4KBJ8I?ie=UTF8&camp=1634&creativeASIN=B00F4KBJ8I&linkCode=xm2&tag=smileprem-gb-21
+aff-ca: http://www.amazon.ca/gp/product/0802473156?ie=UTF8&camp=15121&creativeASIN=0802473156&linkCode=xm2&tag=smileprem-ca-20
+aff-gb: http://www.amazon.co.uk/gp/product/0802473156?ie=UTF8&camp=1634&creativeASIN=0802473156&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
