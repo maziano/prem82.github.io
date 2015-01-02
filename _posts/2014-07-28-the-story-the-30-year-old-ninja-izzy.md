@@ -5,8 +5,8 @@ date: 2014-07-28
 category: audio-books
 ---
 
-![The Story - The 30 Year Old Ninja]({{site.img-url}}/the-story-30-year-old-ninja.jpg)
-
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
+src="{{site.img-url}}/the-story-30-year-old-ninja.jpg"/>
 **Name:** Ismael Arkin (aka Izzy)  
 **Time:** October 2009  
 **Job:** Middle School Science Teacher  

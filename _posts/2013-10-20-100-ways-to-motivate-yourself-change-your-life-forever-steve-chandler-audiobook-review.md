@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/1565114213?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/1601632444?ie=UTF8&camp=1634&creativeASIN=1601632444&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/100-ways-to-motivate-yourself-chandler-steve.jpg"/>
 **Book Name:** 100 Ways to Motivate Yourself - Change Your Life Forever (Audio CD)  
 **Author:** Steve Chandler  

@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/159659599X?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/159659599X?ie=UTF8&camp=1634&creativeASIN=159659599X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/attract-money-now-dr-joe-vitale.jpg"/>
 **Book:** Attract Money Now (Audio CD)  
 **Authors:** Joe Vitale  
