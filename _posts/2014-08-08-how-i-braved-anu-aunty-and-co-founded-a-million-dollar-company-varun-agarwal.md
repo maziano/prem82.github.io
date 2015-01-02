@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/812911979X?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/812911979X?ie=UTF8&camp=1634&creativeASIN=812911979X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/how-i-braved-anu-aunty-and-co-founded-a-million-dollar-company.jpg"/>
 **Book:** How I Braved Anu Aunty & Co-founded A Million Dollar Company  
 **Author:** Varun Agarwal  

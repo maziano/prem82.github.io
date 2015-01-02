@@ -8,7 +8,7 @@ aff-us: http://www.amazon.com/gp/product/0307279189?ie=UTF8&camp=1789&creativeAS
 aff-ca: http://www.amazon.ca/gp/product/0307279189?ie=UTF8&camp=15121&creativeASIN=0307279189&linkCode=xm2&tag=smileprem-ca-20
 aff-gb: http://www.amazon.co.uk/gp/product/1861978774?ie=UTF8&camp=1634&creativeASIN=1861978774&linkCode=xm2&tag=smileprem-gb-21
 ---
-<img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/born-to-run-christopher-mcdougall.jpg"/>
 **Book:** Born to Run  
 **Author:** Christopher McDougall  

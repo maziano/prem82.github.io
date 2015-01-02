@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/B002UUTRAW?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/1422146642?ie=UTF8&camp=1634&creativeASIN=1422146642&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/wired-for-thought-jeffrey-stibel.jpeg"/>
 **Book:** Wired For Thought: How The Brain Is Shaping The Future Of The Internet  
 **Author:** Jeffrey M. Stibel, Erik Calonius, Peter Delgrosso  

@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/0316017922?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/0141036257?ie=UTF8&camp=1634&creativeASIN=0141036257&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/outliers-malcom-gladwell.jpg" border="1"/>
 **Book:** Outliers: The Story Of Success  
 **Author:** Malcolm Gladwell  

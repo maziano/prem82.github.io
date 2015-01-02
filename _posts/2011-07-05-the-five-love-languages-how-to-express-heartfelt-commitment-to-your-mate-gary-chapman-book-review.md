@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/0802473156?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/0802473156?ie=UTF8&camp=1634&creativeASIN=0802473156&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/the-five-love-languages-gary-chapman.jpg"/>
 **Book:** The Five Love Languages  
 **Author:** Gary Chapman  

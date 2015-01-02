@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/0071747575?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/1444104993?ie=UTF8&camp=1634&creativeASIN=1444104993&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/understand-philosophy-of-science-mel-thompson.jpg"/>
 **Book:** Understand Philosophy of Science - A Teach Yourself Guide  
 **Author:** Mel Thompson  

@@ -9,7 +9,7 @@ aff-ca:
 aff-gb: 
 ---
 
-<img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/many-lives-many-masters-brian-weiss.jpg"/>
 **Book:**   
 **Author:**   

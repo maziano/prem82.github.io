@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/B004A8ZSBO?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/1561708720?ie=UTF8&camp=1634&creativeASIN=1561708720&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/a-promise-is-a-promise-dr-wayne-dyer.jpg"/>
 **Book:** A Promise Is A Promise  
 **Author:** Dr. Wayne W.Dyer  

@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/013706506X?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/013706506X?ie=UTF8&camp=1634&creativeASIN=013706506X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/do-you-matter-robert-brunner-stewart-emery-russ-hall.jpg"/>
 **Book:** Do You Matter?: How Great Design Will Make People Love Your Company  
 **Author:** Robert Brunner, Stewart Emery, Russ Hall  

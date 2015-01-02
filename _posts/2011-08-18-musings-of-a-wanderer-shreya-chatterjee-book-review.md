@@ -9,7 +9,7 @@ aff-ca:
 aff-gb: 
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/musings-of-a-wanderer-shreya-chatterjee.jpg" border="1"/>
 **Book:** Musings Of A Wanderer  
 **Author:** Shreya Chatterjee  

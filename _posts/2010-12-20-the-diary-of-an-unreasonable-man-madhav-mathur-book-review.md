@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/B008ET47KI?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/B008ET47KI?ie=UTF8&camp=1634&creativeASIN=B008ET47KI&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/the-diary-of-an-unreasonable-man-madhav-mathur.jpg"/>
 **Book:** The Diary Of An Unreasonable Man  
 **Author:** Madhav Mathur  

@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/0307951529?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/023076651X?ie=UTF8&camp=1634&creativeASIN=023076651X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/100-dollars-startup-chris-guillebeau.jpg"/>
 **Book Name:** $100 Start up - Reinvent the Way You Make a Living, Do What You Love and Create a New Future  
 **Author:** Chris Guillebeau  

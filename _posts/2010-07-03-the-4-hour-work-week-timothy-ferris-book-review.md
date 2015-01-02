@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/0307465357?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/0307465357?ie=UTF8&camp=1634&creativeASIN=0307465357&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/the-4-hour-workweek-timothy-ferris.jpg"/>
 **Title:** The 4-Hour Workweek  
 **Author:** Timothy Ferriss  

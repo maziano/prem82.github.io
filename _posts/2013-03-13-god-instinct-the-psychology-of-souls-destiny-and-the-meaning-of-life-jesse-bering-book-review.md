@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/1857885600?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/1857886003?ie=UTF8&camp=1634&creativeASIN=1857886003&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/the-god-instinct-jesse-bering.jpg"/>
 **Book:** God Instinct - The Psychology of Souls, Destiny and the Meaning of Life  
 **Author:** Jesse Bering  

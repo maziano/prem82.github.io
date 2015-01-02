@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/0470345039?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/0470345039?ie=UTF8&camp=1634&creativeASIN=0470345039&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/high-altitude-leadership-chris-warner-don-schmincke.jpg"/>
 **Title:** High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success  
 **Author:** Christopher Warner, Don Schmincke  

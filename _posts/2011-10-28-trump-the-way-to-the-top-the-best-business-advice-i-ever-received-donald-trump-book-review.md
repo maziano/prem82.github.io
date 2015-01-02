@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/B000FC1N1S?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/1400050162?ie=UTF8&camp=1634&creativeASIN=1400050162&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/trump-the-way-to-the-top-the-best-business-advice-i-ever-received-donald-trump.jpg"/>
 **Book:** Trump - The Way To The Top - The Best Business Advice I Ever Received  
 **Author:** Donald J. Trump  

@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/B001M5B0G0?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/1847394205?ie=UTF8&camp=1634&creativeASIN=1847394205&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/creative-capitalism-michael-kinsley.jpg"/>
 **Book:** Creative Capitalism: A Conversation With Bill Gates, Warren Buffet, And Other Economic Leaders  
 **Author:** Michael Kinsley, Conor Clarke  

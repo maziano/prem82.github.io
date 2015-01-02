@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/159184259X?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/159184259X?ie=UTF8&camp=1634&creativeASIN=159184259X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/ignore-everybody-hugh-macleod.jpg" border="1"/>
 **Book:** Ignore Everybody - And 39 Other Keys To Creativity  
 **Author:** Hugh Macleod  

@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/8190453025?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/9381626707?ie=UTF8&camp=1634&creativeASIN=9381626707&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/connect-the-dots-rashmi-bansal.jpg" border="1" />
 **Book:** Connect The Dots  
 **Author:** Rashmi Bansal   

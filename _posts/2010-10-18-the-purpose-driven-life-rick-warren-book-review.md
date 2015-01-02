@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/031032906X?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/031032906X?ie=UTF8&camp=1634&creativeASIN=031032906X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/the-purpose-driven-life-rick-warren.jpg"/>
 **Book:** The Purpose Driven® Life: What on Earth Am I Here For?  
 **Author:** Rick Warren  

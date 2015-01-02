@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/0399144463?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/0399144463?ie=UTF8&camp=1634&creativeASIN=0399144463&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/who-moved-my-cheese-spencer-johnson.jpg"/>
 **Book:** Who Moved My Cheese?  
 **Author:** Spencer Johnson  

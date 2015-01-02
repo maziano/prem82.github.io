@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/1401933661?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/1848505191?ie=UTF8&camp=1634&creativeASIN=1848505191&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/happier-than-god-neale-donald-walsch.jpg"/>
 **Book:** Happier Than God - Turn Ordinary Life Into An Extraordinary Experience  
 **Author:** Neale Donald Walsch  

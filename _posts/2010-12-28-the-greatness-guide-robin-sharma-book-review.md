@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/1554684366?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/1554684366?ie=UTF8&camp=1634&creativeASIN=1554684366&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/the-greatness-guide-robin-sharma.jpg"/>
 **Book:** The Greatness Guide  
 **Author:** Robin S. Sharma  

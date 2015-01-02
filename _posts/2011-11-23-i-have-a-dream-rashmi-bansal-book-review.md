@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/B005L2HTQA?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/9380658389?ie=UTF8&camp=1634&creativeASIN=9380658389&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/i-have-a-dream-rashmi-bansal.jpg"/>
 **Book:** I Have A Dream  
 **Author:** Rashmi Bansal  

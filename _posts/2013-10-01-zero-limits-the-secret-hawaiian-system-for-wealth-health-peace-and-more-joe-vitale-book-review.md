@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/B008L044DA?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/0470402563?ie=UTF8&camp=1634&creativeASIN=0470402563&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/zero-limits-joe-vitale-ihaleakala-hew-len.jpg"/>
 **Book Name:** Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More  
 **Author:** Joe Vitale, Ihaleakala Hew Len  

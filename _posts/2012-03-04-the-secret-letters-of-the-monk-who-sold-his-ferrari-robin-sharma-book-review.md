@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/1443407313?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/0007321112?ie=UTF8&camp=1634&creativeASIN=0007321112&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/the-secret-letters-of-the-monk-who-sold-his-ferrari-robin-sharma.jpg"/>
 **Book:** The Secret Letters of the Monk Who Sold His Ferrari  
 **Author:** Robin Sharma  

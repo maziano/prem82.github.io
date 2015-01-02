@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/0143052365?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/0143052365?ie=UTF8&camp=1634&creativeASIN=0143052365&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/the-thrive-diet-brendan-brazier.jpg" border="1"/>
 **Book:** The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life  
 **Author:** Brendan Brazier  

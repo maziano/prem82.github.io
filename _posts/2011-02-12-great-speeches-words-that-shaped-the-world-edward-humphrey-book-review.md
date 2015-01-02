@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/1848372922?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/1848372922?ie=UTF8&camp=1634&creativeASIN=1848372922&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/great-speeches-edward-humphreys.jpg"/>
 **Book:** Great Speeches  
 **Author:** Edward Humphreys  
