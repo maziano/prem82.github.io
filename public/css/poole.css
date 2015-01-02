@@ -204,7 +204,38 @@ img {
   display: block;
   margin: 0 0 1rem;
   border-radius: 5px;
+  width: 100%;
 }
+
+// To be tested...
+
+div.blog-img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+div.blog-img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.blog-img a:hover img {
+    border: 1px solid #0000ff;
+}
+
+div.img-credit {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+}
+
 
 /* Tables */
 table {
