@@ -9,7 +9,7 @@ aff-ca: http://www.amazon.ca/gp/product/0140170332?ie=UTF8&camp=15121&creativeAS
 aff-gb: http://www.amazon.co.uk/gp/product/0140170332?ie=UTF8&camp=1634&creativeASIN=0140170332&linkCode=xm2&tag=smileprem-gb-21
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; width:auto;" 
 src="{{site.img-url}}/human-minds-margaret-donaldson-book.jpg"/>
 **Title:** Human Minds - An Exploration  
 **Author:** Margaret Donaldson  
