@@ -40,3 +40,4 @@ permalink: /category/bucket-list/
 7. [<del>Coimbatore Marathon</del>]({{site.img-url}}/running/premkumar-masilamani-2014-coimbatore-marathon-10k.jpg) (Completed on 05-Oct-2014)  
 8. [<del>Dusk-2-Dawn Chennai Night Marathon</del>]({{site.img-url}}/running/premkumar-masilamani-2014-d2d-chennai-night-marathon_10k.jpg) (Completed on 22-Nov-2014)
 9. [<del>Bengaluru Midnight Marathon</del>]({{site.img-url}}/running/premkumar-masilamani-2014-bengaluru-midnight-marathon-10k.jpg) (Completed on 20-Dec-2014)
+10. [<del>Mutthu Marathon</del>]({{site.img-url}}/running/premkumar-masilamani-2015-mutthu-marathon-11k.jpg) (Completed on 04-Jan-2015)
